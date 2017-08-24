@@ -4,5 +4,5 @@
 3. Click the save button and save it as "TEXT" and set the "Selection" to "1-499"
 4. Save the compiled text file
 
-# How to split the huge text file into separate files
+## How to split the huge text file into separate files
 1. In Linux run `csplit FILENAME /DOCUMENT/ {*}
