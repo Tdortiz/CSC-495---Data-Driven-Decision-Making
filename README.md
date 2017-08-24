@@ -5,4 +5,4 @@
 4. Save the compiled text file
 
 ## How to split the huge text file into separate files
-1. In Linux run `csplit FILENAME /DOCUMENT/ {*}
+1. In Linux run `csplit FILENAME /DOCUMENT/ {*}`
