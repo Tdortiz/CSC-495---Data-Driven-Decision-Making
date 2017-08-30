@@ -11,8 +11,15 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 
 stop_words = list(stopwords.words('english'))
-stop_words.extend(('(', ')', ':', '``', 'it', ',', '.', '\'s', '', '--', '\'\'', 'For', 'As',
-                   'physicians', 'Alex', 'NNY'))
+stop_words_economic = ['(', ')', ':', '``', 'it', ',', '.', '\'s', '', '--', '\'\'', 'For', 'As', 'physicians', 'Alex', 'NNY']
+stop_words_technical = []
+stop_words_legal = []
+stop_words_ethical = []
+stop_words_procedural = []
+stop_words_political = []
+                    
+# add all stop words together
+stop_words.extend(stop_words_economic + stop_words_technical + stop_words_legal + stop_words_ethical + stop_words_procedural + stop_words_political)
 
 # open the file
 script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
