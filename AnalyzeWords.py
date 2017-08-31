@@ -22,9 +22,6 @@ stop_words_political = []
 # add all stop words together
 stop_words.extend(stop_words_economic + stop_words_technical + stop_words_legal + stop_words_ethical + stop_words_procedural + stop_words_political)
 
-print("punctuation = " + string.punctuation)
-print("len(stop_words) = " + str(len(stop_words)))
-
 # open the file
 script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
 rel_path = "Hospitals-Economic/xx01"
