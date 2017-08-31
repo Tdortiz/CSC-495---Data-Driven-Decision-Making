@@ -16,8 +16,11 @@ all_sentences = bunch.sentences
 # Create key words
 key_words = ['tax', 'taxes', 'economic', 'economy', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary']
 
+output = open(os.path.join(script_dir, 'textblob.txt'), 'w')
 sent_num = 0
 for sentence in all_sentences:
     if(any(map(lambda word: word in sentence, key_words))):
-        print(str(sent_num) + " - " + str(sentence) + "\n")
+        print(str(sent_num) + ":\t" + str(sentence) + "\n")
         sent_num += 1
+        output.write(str(sent_num) + ":\t" + str(sentence) + "\n\n")
+output.close()
