@@ -13,7 +13,16 @@ bunch = TextBlob(data)
 all_sentences = bunch.sentences
 
 # Create key words
-key_words = ['tax', 'taxes', 'economic', 'economy', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary']
+key_words            = []
+key_words_economic   = ['tax', 'taxes', 'economic', 'economy', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary']
+key_words_technical  = []
+key_words_legal      = []
+key_words_ethical    = []
+key_words_procedural = []
+key_words_political  = []
+
+# add all key words together
+key_words.extend(key_words_economic + key_words_technical + key_words_legal + key_words_ethical + key_words_procedural + key_words_political)
 
 output = open(os.path.join(repo_dir, 'output/textblob.txt'), 'w')
 sent_num = 0
