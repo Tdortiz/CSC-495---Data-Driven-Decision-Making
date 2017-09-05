@@ -28,7 +28,7 @@ stop_words_political  = []
 stop_words.extend(stop_words_economic + stop_words_technical + stop_words_legal + stop_words_ethical + stop_words_procedural + stop_words_political)
 
 # open the file
-data = open(os.path.join(repo_dir, "Hospitals-Economic/xx01"), encoding='utf-8').read()
+data = open(os.path.join(repo_dir, "input/Hospitals-Economic/xx01"), encoding='utf-8').read()
 
 # Select words if they're not in the stop list
 words = word_tokenize(data)

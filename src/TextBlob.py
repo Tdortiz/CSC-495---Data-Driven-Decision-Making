@@ -8,7 +8,7 @@ from textblob import TextBlob
 
 # open the file
 repo_dir = Path(__file__).resolve().parents[1]
-data = open(os.path.join(repo_dir, "Hospitals-Economic/xx01"), encoding='utf-8').read()
+data = open(os.path.join(repo_dir, "input/Hospitals-Economic/xx01"), encoding='utf-8').read()
 bunch = TextBlob(data)
 all_sentences = bunch.sentences
 
