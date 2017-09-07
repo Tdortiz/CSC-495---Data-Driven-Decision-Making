@@ -24,7 +24,7 @@ key_words_political  = set()
 # add all key words together
 key_words |= key_words_economic | key_words_technical | key_words_legal | key_words_ethical | key_words_procedural | key_words_political
 
-output = open(os.path.join(repo_dir, 'output/' + os.path.splitext(__file__)[0] + '_output.txt'), 'w')
+output = open(os.path.join(repo_dir, 'output/' + os.path.splitext(__file__)[0] + '_output.txt'), 'w', encoding='utf-8')
 sent_num = 0
 for sentence in all_sentences:
     if(any(map(lambda word: word in sentence, key_words))):
