@@ -8,13 +8,13 @@ from textblob import TextBlob
 
 # open the file
 repo_dir = Path(__file__).resolve().parents[1]
-data = open(os.path.join(repo_dir, "input/Hospitals-Economic/xx01"), encoding='utf-8').read()
+data = open(os.path.join(repo_dir, "input/Hospital-Ranking/hospital-ranking.TXT"), encoding='utf-8').read()
 bunch = TextBlob(data)
 all_sentences = bunch.sentences
 
 # Create key words
 key_words            = set()
-key_words_economic   = {'tax', 'taxes', 'economic', 'economy', 'financial', 'growth', 'finance', 'affordable', 'cheap', 'inexpensive', 'cost-effective', 'cost-efficient', 'sustainable', 'fiscal', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary'}
+key_words_economic   = {'$', 'dollar', 'tax', 'taxes', 'job', 'jobs', 'economic', 'economy', 'financial', 'growth', 'finance', 'affordable', 'cheap', 'inexpensive', 'cost-effective', 'cost-efficient', 'sustainable', 'fiscal', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary'}
 key_words_technical  = set()
 key_words_legal      = {'hospitals','patients','health','legal','documents','medical','court','children','reserved','publication','newspaper','doctors','rights','government','news','language','copyright','services'}
 key_words_ethical    = set()
