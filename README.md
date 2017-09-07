@@ -1,5 +1,5 @@
 ## Required Software
-Either use base python or install Anaconda.
+Either use base python or install Anaconda. Anaconda works really well for machine learning.
 
 `sudo apt-get install python3`    
 `pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`  
