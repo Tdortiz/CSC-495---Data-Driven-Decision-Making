@@ -14,7 +14,7 @@ all_sentences = bunch.sentences
 
 # Create key words
 key_words            = set()
-key_words_economic   = {'tax', 'taxes', 'economic', 'economy', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary'}
+key_words_economic   = {'tax', 'taxes', 'economic', 'economy', 'financial', 'growth', 'finance', 'affordable', 'cheap', 'inexpensive', 'cost-effective', 'cost-efficient', 'sustainable', 'fiscal', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary'}
 key_words_technical  = set()
 key_words_legal      = {'hospitals','patients','health','legal','documents','medical','court','children','reserved','publication','newspaper','doctors','rights','government','news','language','copyright','services'}
 key_words_ethical    = set()
