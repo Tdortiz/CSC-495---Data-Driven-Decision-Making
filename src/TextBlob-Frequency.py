@@ -16,16 +16,16 @@ from textblob import TextBlob
 repo_dir = Path(__file__).resolve().parents[1]
 
 # Create stop words
-stop_words            = list(stopwords.words('english')) + list(string.punctuation)
-stop_words_economic   = ['it', '\'s', '--', '\'\'', 'For', 'As', 'physicians', 'Alex', 'NNY']
-stop_words_technical  = []
-stop_words_legal      = []
-stop_words_ethical    = []
-stop_words_procedural = []
-stop_words_political  = []
-
+stop_words            = set(stopwords.words('english')) | set(string.punctuation)
+stop_words_economic   = {'it', '\'s', '--', '\'\'', 'For', 'As', 'physicians', 'Alex', 'NNY'}
+stop_words_technical  = set()
+stop_words_legal      = set()
+stop_words_ethical    = set()
+stop_words_procedural = set()
+stop_words_political  = set()
+    
 # add all stop words together
-stop_words.extend(stop_words_economic + stop_words_technical + stop_words_legal + stop_words_ethical + stop_words_procedural + stop_words_political)
+stop_words |= stop_words_economic | stop_words_technical | stop_words_legal | stop_words_ethical | stop_words_procedural | stop_words_political
 
 # open the file
 data = open(os.path.join(repo_dir, "input/Hospitals-Economic/xx01"), encoding='utf-8').read()
