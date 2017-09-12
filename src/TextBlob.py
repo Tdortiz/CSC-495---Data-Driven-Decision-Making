@@ -17,7 +17,7 @@ key_words            = set()
 key_words_economic   = {'$', 'dollar', 'tax', 'taxes', 'job', 'jobs', 'economic', 'economy', 'employ', 
                         'financial', 'growth', 'finance', 'affordable', 'cheap', 'inexpensive', 'cost-effective', 
                         'cost-efficient', 'sustainable', 'fiscal', 'payroll', 'finance', 'price', 'cost', 'fine', 
-                        'cutback', 'money', 'wage', 'salary'}
+                        'cutback', 'money', 'wage', 'salary', 'revenue', 'revenues'}
 key_words_technical  = set()
 key_words_legal      = {'hospitals','patients','health','legal','documents','medical','court','children','reserved',
                         'publication','newspaper','doctors','rights','government','news','language','copyright',
