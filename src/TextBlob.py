@@ -14,11 +14,17 @@ all_sentences = bunch.sentences
 
 # Create key words
 key_words            = set()
-key_words_economic   = {'$', 'dollar', 'tax', 'taxes', 'job', 'jobs', 'economic', 'economy', 'financial', 'growth', 'finance', 'affordable', 'cheap', 'inexpensive', 'cost-effective', 'cost-efficient', 'sustainable', 'fiscal', 'payroll', 'finance', 'price', 'cost', 'fine', 'cutback', 'money', 'wage', 'salary'}
+key_words_economic   = {'$', 'dollar', 'tax', 'taxes', 'job', 'jobs', 'economic', 'economy', 'employ', 
+                        'financial', 'growth', 'finance', 'affordable', 'cheap', 'inexpensive', 'cost-effective', 
+                        'cost-efficient', 'sustainable', 'fiscal', 'payroll', 'finance', 'price', 'cost', 'fine', 
+                        'cutback', 'money', 'wage', 'salary'}
 key_words_technical  = set()
-key_words_legal      = {'hospitals','patients','health','legal','documents','medical','court','children','reserved','publication','newspaper','doctors','rights','government','news','language','copyright','services'}
+key_words_legal      = {'hospitals','patients','health','legal','documents','medical','court','children','reserved',
+                        'publication','newspaper','doctors','rights','government','news','language','copyright',
+                        'services'}
 key_words_ethical    = set()
-key_words_procedural = {'procedure', 'procedural', 'policy', 'scheme', 'measure', 'process', 'action', 'operation', 'ways', 'rules', 'mechanism', 'proceeding', 'practice', 'progress', 'step', 'fast', 'efficiency'}
+key_words_procedural = {'procedure', 'procedural', 'policy', 'scheme', 'measure', 'process', 'action', 'operation',
+                        'ways', 'rules', 'mechanism', 'proceeding', 'practice', 'progress', 'step', 'fast', 'efficiency'}
 key_words_political  = set()
 
 # add all key words together
