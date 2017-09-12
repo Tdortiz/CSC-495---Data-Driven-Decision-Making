@@ -21,7 +21,7 @@ stop_words_economic   = {'it', '\'s', '--', '\'\'', 'For', 'As', 'physicians', '
 stop_words_technical  = set()
 stop_words_legal      = {'it', '\'s', '--', '\'\'', 'For', 'As', 'the', 'The','All',',','\'','\"','hospital','Hospital','legal','said','also','patient','would','But','could'}
 stop_words_ethical    = set()
-stop_words_procedural = set()
+stop_words_procedural = {'Royal', 'two', 'TEE', 'year', 'B.C', 'St.', 'even' }
 stop_words_political  = set()
     
 # add all stop words together

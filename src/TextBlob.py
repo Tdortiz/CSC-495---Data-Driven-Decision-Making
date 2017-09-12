@@ -18,7 +18,7 @@ key_words_economic   = {'$', 'dollar', 'tax', 'taxes', 'job', 'jobs', 'economic'
 key_words_technical  = set()
 key_words_legal      = {'hospitals','patients','health','legal','documents','medical','court','children','reserved','publication','newspaper','doctors','rights','government','news','language','copyright','services'}
 key_words_ethical    = set()
-key_words_procedural = set()
+key_words_procedural = {'procedure', 'procedural', 'policy', 'scheme', 'measure', 'process', 'action', 'operation', 'ways', 'rules', 'mechanism', 'proceeding', 'practice', 'progress', 'step', 'fast', 'efficiency'}
 key_words_political  = set()
 
 # add all key words together
