@@ -12,7 +12,6 @@ def dump_keys(d, lvl=0):
         spacing = lvl * ' '
         key = '{:15}'.format(str(k))
         value = ' - ' + str(v)
-        # print('%s%s' % (lvl * ' ', k) + " -- " + str(v))
         print( spacing + key + value)
         if type(v) == dict:
             dump_keys(v, lvl+1)
