@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 from sklearn.feature_extraction.text import CountVectorizer
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -12,7 +13,6 @@ repo_dir = Path(__file__).resolve().parents[1]
 with open(os.path.join(repo_dir, "input/Hospital-Ranking/hospital-ranking.TXT"), encoding='utf-8') as data:
     words = word_tokenize(data.read())
 
-words = word_tokenize(intake)
 vectorizer = TfidfVectorizer(min_df=1)
 X = vectorizer.fit_transform(words)
 idf = vectorizer.idf_
