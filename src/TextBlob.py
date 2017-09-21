@@ -25,7 +25,7 @@ key_words_legal      = {'hospitals','patients','health','legal','documents','med
 key_words_ethical    = set()
 key_words_procedural = {'procedure', 'procedural', 'policy', 'scheme', 'measure', 'process', 'action', 'operation',
                         'ways', 'rules', 'mechanism', 'proceeding', 'practice', 'progress', 'step', 'fast', 'efficiency'}
-key_words_political  = set()
+key_words_political  = {'government', 'public', 'rights', 'newpaper', 'byline', 'Minister', 'load-data', 'copyright', 'service', 'private'}
 
 # add all key words together
 key_words |= key_words_economic | key_words_technical | key_words_legal | key_words_ethical | key_words_procedural | key_words_political
