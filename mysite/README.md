@@ -4,6 +4,17 @@
 3. Open a terminal and type `npm install` to install the dependencies in package.json
 4. You should be able to run `python manage.py runserver` and the application should be served.
 
+# Viewing Database In Database View of PyCharm
+1. Hit shift twice to bring up the type menu to open something.
+2. Type `Database` and hit enter.
+3. Hit the `+` > `Data Source` > `Sqllite`
+4. Install plugins for it if you have to IF it prompts you.
+5. On the page it you cilck the `...`
+6. Navigate to the repo and select `mysite/db.sqlite3`
+7. Click `Test Connection` and it should be successful.
+8. Click apply
+9. You should now be able to see db.sqlite3 inside of the Database view.
+  
 # Django Commands
 ### Base Command
 * `python manage.py ____`
