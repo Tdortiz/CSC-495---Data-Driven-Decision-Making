@@ -41,7 +41,7 @@
 4. Scroll down to `INSTALLED_APPS` and add to the top `<app name>.apps.<App name>Config`
  
  # How to import CSV files into Sqlite
-1. Use https://github.com/edcrewe/django-csvimport by installing it with `pip install django-csvimport` and `pip install messytables`
+1. Use [django-csvimport](https://github.com/edcrewe/django-csvimport) by installing it with `pip install django-csvimport` and `pip install messytables`
 2. `python manage.py inspectcsv "<path_to_csv" > models.py`
     - This will create a model file that you MAY have to change (double check it).
     - Once you're happy with it copy the model to the relevant app.
