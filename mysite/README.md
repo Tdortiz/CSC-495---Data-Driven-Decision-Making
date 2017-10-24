@@ -43,14 +43,13 @@
  # How to import CSV files into Sqlite
 1. Use [django-csvimport](https://github.com/edcrewe/django-csvimport) by installing it with `pip install django-csvimport` and `pip install messytables`
 2. Add the following to the INSTALLED_APPS in the settings.py of your project:
->>> 
-...
-...  INSTALLED_APPS = (
-...  ...
-...  'csvimport.app.CSVImportConf',  # use AppConfig for django >=1.7 csvimport >=2.2
-...  )
-...
-...  python manage.py migrate
+   ...
+   ...  INSTALLED_APPS = (
+   ...  ...
+   ...  'csvimport.app.CSVImportConf',  # use AppConfig for django >=1.7 csvimport >=2.2
+   ...  )
+   ...
+   ...  python manage.py migrate
 3. `python manage.py inspectcsv "<path_to_csv" > models.py`
     - This will create a model file that you MAY have to change (double check it).
     - Once you're happy with it copy the model to the relevant app.
