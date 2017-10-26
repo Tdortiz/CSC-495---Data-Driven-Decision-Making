@@ -1,0 +1,10 @@
+HOSPITAL NAME,PROVIDER ID,MSA,MSA TITLE,HCAHPS HLMR,HCAHPS START DATE,HCAHPS END DATE,HCAHPS FOOTNOTE,COMP-HIP-KNEE,COMP START DATE,COMP END DATE,COMP FOOTNOTE,PRO,PRO START DATE,PRO END DATE,PRO FOOTNOTE 
+Southeast Alabama Medical Center,010001,20020,"Dothan, AL",85.39,1-Jul-15,30-Jun-16,,4.2,1-Apr-13,31-Mar-16,,N,1-Jul-16,31-Aug-16,
+Baptist Medical Center South,010023,33860,"Montgomery, AL",84.50,1-Jul-15,30-Jun-16,,2.7,1-Apr-13,31-Mar-16,,N,1-Jul-16,31-Aug-16,
+"Jackson Hospital and Clinic, Inc.",010024,33860,"Montgomery, AL",86.83,1-Jul-15,30-Jun-16,,2.0,1-Apr-13,31-Mar-16,,N,1-Jul-16,31-Aug-16,
+"Community Hospital, Inc.",010034,33860,"Montgomery, AL",87.39,1-Jul-15,30-Jun-16,,N/A,1-Apr-13,31-Mar-16,5,N,1-Jul-16,31-Aug-16,**
+Flowers Hospital,010055,20020,"Dothan, AL",88.44,1-Jul-15,30-Jun-16,,3.3,1-Apr-13,31-Mar-16,,N,1-Jul-16,31-Aug-16,
+Wiregrass Medical Center,010062,20020,"Dothan, AL",88.72,1-Jul-15,30-Jun-16,,N/A,1-Apr-13,31-Mar-16,5,N,1-Jul-16,31-Aug-16,**
+DCH Regional Medical Center,010092,46220,"Tuscaloosa, AL",85.33,1-Jul-15,30-Jun-16,,3.0,1-Apr-13,31-Mar-16,,Y,1-Jul-16,31-Aug-16,
+Hale County Hospital,010095,46220,"Tuscaloosa, AL",N/A,1-Jul-15,30-Jun-16,***,N/A,1-Apr-13,31-Mar-16,5,N,1-Jul-16,31-Aug-16,**
+Elmore Community Hospital,010097,33860,"Montgomery, AL",89.39,1-Jul-15,30-Jun-16,,N/A,1-Apr-13,31-Mar-16,5,N,1-Jul-16,31-Aug-16,**
