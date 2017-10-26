@@ -45,7 +45,14 @@ class Hospital(models.Model):
         db_table = u'"Hospital"'
 
 class HospitalReturns_Hospital(models.Model):
-    provider_id = models.ForeignKey('Hospital', on_delete=models.CASCADE)
+    provider_id = models.IntegerField(default=0, null=False, primary_key=True, blank=False)
+    hospital_name = models.CharField(null=True, blank=True, max_length=50)
+    address = models.CharField(null=True, blank=True, max_length=50)
+    city = models.CharField(null=True, blank=True, max_length=50)
+    state = models.CharField(default='', max_length=2, blank=True)
+    zip_code = models.IntegerField(default=0, null=True, blank=True)
+    county_name = models.CharField(null=True, blank=True, max_length=50)
+    phone_number = models.IntegerField(default=0, null=True, blank=True)
     measure_name = models.CharField(null=True, blank=True, max_length=50)
     measure_id = models.CharField(default='', max_length=231, blank=True)
     compared_to_national = models.CharField(default='', max_length=242, blank=True)
@@ -53,7 +60,7 @@ class HospitalReturns_Hospital(models.Model):
     score = models.DecimalField(default=0, null=True, max_digits=33, decimal_places=10, blank=True)
     lower_estimate = models.DecimalField(default=0, null=True, max_digits=33, decimal_places=10, blank=True)
     higher_estimate = models.DecimalField(default=0, null=True, max_digits=33, decimal_places=10, blank=True)
-    footnote = models.ForeignKey('Footnote', on_delete=models.CASCADE)
+    footnote = models.CharField(default='', max_length=200, blank=True)
     measure_start_date = models.DateTimeField(null=True, blank=True)
     measure_end_date = models.CharField(default='', max_length=10, blank=True)
 
