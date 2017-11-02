@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{%  comment %}
+Comment Example
+{% endcomment %}
+
+{% block title %}Hospital Ranking Page{% endblock %}
+
+{% block body %}
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading text-center">
+            <h3>Hospital Ranking Form</h3>
+        </div>
+        <div clas="panel-body">
+            <form>
+                <div class="form-group">
+                    <label for="priorityExample1">Priority Example</label>
+                    <select id="priorityExample1" class="form-control">
+                        <option>Low</option>
+                        <option>Medium</option>
+                        <option>High</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="priorityExample2">Priority Example</label>
+                    <select id="priorityExample2" class="form-control">
+                        <option>Low</option>
+                        <option>Medium</option>
+                        <option>High</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="priorityExample3">Priority Example</label>
+                    <select id="priorityExample3" class="form-control">
+                        <option>Low</option>
+                        <option>Medium</option>
+                        <option>High</option>
+                    </select>
+                </div>
+
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
