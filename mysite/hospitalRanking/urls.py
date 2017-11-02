@@ -6,5 +6,5 @@ app_name = 'hospitalRanking'
 
 urlpatterns = [
     # .com/hospitalRanking/
-    url(r'^$', TemplateView.as_view(template_name='hospitalRanking/index.html'), name='hospitalForm'),
+    url(r'^$', TemplateView.as_view(template_name='hospitalRanking/index.html'), name='index'),
 ]

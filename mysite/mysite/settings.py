@@ -19,7 +19,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'home.apps.HomeConfig',
     'hospitalRanking.apps.HospitalrankingConfig',
     'csvimport.app.CSVImportConf',
     'django.contrib.admin',

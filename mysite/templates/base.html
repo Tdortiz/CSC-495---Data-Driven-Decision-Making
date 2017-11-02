@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    <title>{% block title %}Drop Page{% endblock %}</title>
     
     {% load staticfiles %}
     <link rel="stylesheet" href="{% static 'bootstrap/dist/css/bootstrap.min.css' %}"> 
@@ -39,7 +40,7 @@
             <!-- Fully Logged in with instance picked menu --> 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="{% url 'home:homepage' %}"> Home</a></li>
+                    <li><a href="{% url 'hospitalRanking:index' %}"> Hospital Ranking</a></li>
                 </ul>
     
                 <ul class="nav navbar-nav navbar-right">
