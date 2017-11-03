@@ -3,23 +3,36 @@
 {% block title %}Hospital Ranking Results{% endblock %}
 
 {% block body %}
-    <div class="container">
+<div class="container">
 
-        <div class="page-header text-center">
-            <h2>Hospital Ranking Results</h2>
-            <h4>Need to make another result? Click <a href="{% url 'hospitalRanking:index' %}"> here</a>.</h4>
-        </div>
-
-        <!-- This just prints the dictionary we pass here -->
-        <form class="form-horizontal">
-            {% for key,value in context.items %}
-                <div class="form-group">
-                    <label>{{ key }}</label>
-                    <p>{{ value }}</p>
-                </div>
-            {% endfor %}
-        </form>
-
-
+    <div class="page-header text-center">
+        <h2>Hospital Ranking Results</h2>
+        <h4>Need to make another result? Click <a href="{% url 'hospitalRanking:index' %}"> here</a>.</h4>
     </div>
+
+    <div class="panel panel-primary">
+        <div class="panel-heading text-center">
+            <h3 class="panel-title">Hospital Ranking Submitted Form</h3>
+        </div>
+        <div class="panel-body">
+            <!-- This just prints the dictionary we pass here -->
+            <form class="form-horizontal">
+                <div class="row">
+                    {% for key,value in context.items %}
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label class="col-sm-4 control-label">{{ key }}</label>
+                            <div class="col-sm-8">
+                                <input class="form-control" value="{{ value }}" disabled>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+</div>
 {% endblock %}

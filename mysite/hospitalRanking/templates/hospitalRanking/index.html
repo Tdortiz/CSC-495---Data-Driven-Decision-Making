@@ -9,52 +9,98 @@
 {% block body %}
 <div class="container">
     <div class="well text-center">
-        <p>
-            Please fill out the form with your rankings so that we can customize the results to your needs.
-        </p>
+        <p>Please fill out the form with your rankings so that we can customize the results to your needs.</p>
     </div>
+
     <div class="panel panel-primary">
         <div class="panel-heading text-center">
             <h3 class="panel-title">Hospital Ranking Form</h3>
         </div>
         <div class="panel-body">
-            <form id="rankingForm" method="post" action="{% url 'hospitalRanking:submit_ranking_form' %}">
+            <form id="rankingForm" class="form-horizontal" method="post" action="{% url 'hospitalRanking:submit_ranking_form' %}">
                 {% csrf_token %}
-                <div class="form-group">
-                    <label for="zipcode">Zipcode</label>
-                    <input id="zipcode" class="form-control" type="number" name="zipcode" placeholder="27606">
+                <h4 class="text-center">Location</h4>
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-5">
+                        <label for="location" class="col-sm-4 control-label">Location</label>
+                        <div class="col-sm-8">
+                            <input id="location" class="form-control" name="location" placeholder="City, Zip" required>
+                        </div>
+                    </div>
+                    <div class="col-sm-5">
+                        <label for="distanceInMiles" class="col-sm-4 control-label">Distance</label>
+                        <div class="col-sm-8">
+                            <select id="distanceInMiles" class="form-control" name="distanceInMiles" required>
+                                <option value="25">< 25 Miles</option>
+                                <option value="50">< 50 Miles</option>
+                                <option value="100">< 100 Miles</option>
+                            </select>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="form-group">
-                    <label for="priorityExample1">Priority Example</label>
-                    <select id="priorityExample1" class="form-control" name="priorityExample1" required>
-                        <option>Low</option>
-                        <option>Medium</option>
-                        <option>High</option>
-                    </select>
+                <hr>
+
+                <h4 class="text-center">Priorities</h4>
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-5">
+                        <div class="form-group">
+                            <label for="priorityExample1" class="col-sm-4 control-label">Priority Example 1</label>
+                            <div class="col-sm-8">
+                                <select id="priorityExample1" class="form-control" name="priorityExample1" required>
+                                    <option>Low</option>
+                                    <option>Medium</option>
+                                    <option>High</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-5">
+                        <div class="form-group">
+                            <label for="priorityExample2" class="col-sm-4 control-label">Priority Example 2</label>
+                            <div class="col-sm-8">
+                                <select id="priorityExample2" class="form-control" name="priorityExample2" required>
+                                    <option>Low</option>
+                                    <option>Medium</option>
+                                    <option>High</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="form-group">
-                    <label for="priorityExample2">Priority Example</label>
-                    <select id="priorityExample2" class="form-control" name="priorityExample2" required>
-                        <option>Low</option>
-                        <option>Medium</option>
-                        <option>High</option>
-                    </select>
-                </div>
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-5">
+                        <div class="form-group">
+                            <label for="priorityExample3" class="col-sm-4 control-label">Priority Example 3</label>
+                            <div class="col-sm-8">
+                                <select id="priorityExample3" class="form-control" name="priorityExample3" required>
+                                    <option>Low</option>
+                                    <option>Medium</option>
+                                    <option>High</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
 
-                <div class="form-group">
-                    <label for="priorityExample3">Priority Example</label>
-                    <select id="priorityExample3" class="form-control" name="priorityExample3" required>
-                        <option>Low</option>
-                        <option>Medium</option>
-                        <option>High</option>
-                    </select>
+                    <div class="col-sm-5">
+                        <div class="form-group">
+                            <label for="priorityExample4" class="col-sm-4 control-label">Priority Example 4</label>
+                            <div class="col-sm-8">
+                                <select id="priorityExample4" class="form-control" name="priorityExample4" required>
+                                    <option>Low</option>
+                                    <option>Medium</option>
+                                    <option>High</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="text-center">
                     <button id="submitButton" type="submit" class="btn btn-primary">Submit</button>
-                    <button id="resetButton"  type="button" class="btn btn-secondary">Reset</button>
+                    <button id="resetButton" type="button" class="btn btn-secondary">Reset</button>
                 </div>
             </form>
         </div>
