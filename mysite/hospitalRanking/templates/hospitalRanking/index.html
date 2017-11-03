@@ -22,8 +22,13 @@
             <form id="rankingForm" method="post" action="{% url 'hospitalRanking:submit_ranking_form' %}">
                 {% csrf_token %}
                 <div class="form-group">
+                    <label for="zipcode">Zipcode</label>
+                    <input id="zipcode" class="form-control" name="zipcode" placeholder="27606" required>
+                </div>
+
+                <div class="form-group">
                     <label for="priorityExample1">Priority Example</label>
-                    <select id="priorityExample1" class="form-control" name="priorityExample1">
+                    <select id="priorityExample1" class="form-control" name="priorityExample1" required>
                         <option>Low</option>
                         <option>Medium</option>
                         <option>High</option>
@@ -32,7 +37,7 @@
 
                 <div class="form-group">
                     <label for="priorityExample2">Priority Example</label>
-                    <select id="priorityExample2" class="form-control" name="priorityExample2">
+                    <select id="priorityExample2" class="form-control" name="priorityExample2" required>
                         <option>Low</option>
                         <option>Medium</option>
                         <option>High</option>
@@ -41,7 +46,7 @@
 
                 <div class="form-group">
                     <label for="priorityExample3">Priority Example</label>
-                    <select id="priorityExample3" class="form-control" name="priorityExample3">
+                    <select id="priorityExample3" class="form-control" name="priorityExample3" required>
                         <option>Low</option>
                         <option>Medium</option>
                         <option>High</option>
