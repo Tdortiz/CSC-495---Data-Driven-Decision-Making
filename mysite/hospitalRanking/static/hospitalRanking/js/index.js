@@ -1,6 +1,7 @@
+"use strict";
+
 $(function () {
     $('#resetButton').on('click', function () {
-        alert("Hello");
-        $("#rankingForm").reset();
+        $("#rankingForm")[0].reset();
     });
 });
