@@ -13,6 +13,7 @@ class HospitalRankingAlgorithm:
 
     def rank_hospitals_by_filters(self):
         # Pull sql data
+        hospital = Hospital.objects.filter(provider_id=3)
 
         # Ranking it
 
@@ -79,6 +80,9 @@ class Hospital(models.Model):
     timeliness_of_care_national_comparison_footnote = models.CharField(max_length=50, blank=True, null=True)
     efficient_use_of_medical_imaging_national_comparison = models.CharField(max_length=50, blank=True, null=True)
     efficient_use_of_medical_imaging_national_comparison_footnote = models.CharField(max_length=50, blank=True, null=True)
+
+    def __str__(self):
+        return str(self.provider_id) + " - " + str(self.hospital_name)
 
     class Meta:
         managed = True
