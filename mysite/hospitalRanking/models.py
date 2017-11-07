@@ -12,7 +12,11 @@ class HospitalRankingAlgorithm:
         self.hospital_ranked_list = []
 
     def rank_hospitals_by_filters(self):
-        print("Doing stuff")
+        # Pull sql data
+
+        # Ranking it
+
+        # Return it
         self.hospital_ranked_list.append("Hospital 1")
         self.hospital_ranked_list.append("Hospital 2")
         self.hospital_ranked_list.append("Hospital 3")
