@@ -2,6 +2,23 @@ from __future__ import unicode_literals
 from django.db import models
 
 
+class HospitalRankingAlgorithm:
+
+    filters = {}
+    hospital_ranked_list = []
+
+    def __init__(self, filters):
+        self.filters = filters
+        self.hospital_ranked_list = []
+
+    def rank_hospitals_by_filters(self):
+        print("Doing stuff")
+        self.hospital_ranked_list.append("Hospital 1")
+        self.hospital_ranked_list.append("Hospital 2")
+        self.hospital_ranked_list.append("Hospital 3")
+        return self.hospital_ranked_list
+
+
 class ComplicationsAndDeathsHospital(models.Model):
     provider = models.ForeignKey('Hospital', models.DO_NOTHING)
     measure_name = models.CharField(max_length=125)

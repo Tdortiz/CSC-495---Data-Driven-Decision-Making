@@ -18,7 +18,7 @@
             <!-- This just prints the dictionary we pass here -->
             <form class="form-horizontal">
                 <div class="row">
-                    {% for key,value in context.items %}
+                    {% for key,value in context.filters.items %}
                     <div class="col-sm-6">
                         <div class="form-group">
                             <label class="col-sm-4 control-label">{{ key }}</label>
@@ -27,6 +27,24 @@
                             </div>
                         </div>
                     </div>
+                    {% endfor %}
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="panel panel-primary">
+        <div class="panel-heading text-center">
+            <h3 class="panel-title">Ranked Hospitals</h3>
+        </div>
+        <div class="panel-body">
+            <!-- This just prints the dictionary we pass here -->
+            <form class="form-horizontal">
+                <div class="row">
+                    {% for hospital in context.hospitals %}
+                        <div class="col-sm-12">
+                            <p>{{hospital}}</p>
+                        </div>
                     {% endfor %}
                 </div>
             </form>
