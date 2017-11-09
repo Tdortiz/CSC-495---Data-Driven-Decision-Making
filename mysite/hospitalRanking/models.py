@@ -2,6 +2,9 @@ from __future__ import unicode_literals
 from django.db import models
 
 
+'''
+    The hospital ranking algorithm
+'''
 class HospitalRankingAlgorithm:
 
     filters = {}
@@ -10,10 +13,16 @@ class HospitalRankingAlgorithm:
     def __init__(self, filters):
         self.filters = filters
         self.hospital_ranked_list = []
+    
+    '''
+        Using the filters (Low = .75, Med = 1, High = 1.25) weight the 
+        given metrics to create a weighted sum.
 
+        Using that weighted sum, order the hospital list by it from [highest, ..., lowest] 
+    '''
     def rank_hospitals_by_filters(self):
         # Pull sql data
-        hospital = Hospital.objects.filter(provider_id=3)
+        hospital = Hospital.objects.filter(provider_id=10001)
 
         # Ranking it
 
