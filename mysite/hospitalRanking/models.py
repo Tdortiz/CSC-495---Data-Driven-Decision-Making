@@ -38,6 +38,9 @@ class MeasureInfo(models.Model):
     measure_id = models.CharField(max_length=255, blank=True, null=True)
     measure_name = models.CharField(max_length=255, blank=True, null=True)
 
+    def __str__(self):
+        return str(self.measure_id) + " - " + str(self.measure_name)
+
     class Meta:
         managed = False
         db_table = 'Measure_info'
