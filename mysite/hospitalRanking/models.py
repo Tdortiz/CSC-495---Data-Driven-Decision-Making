@@ -33,6 +33,15 @@ class HospitalRankingAlgorithm:
         return self.hospital_ranked_list
 
 
+class MeasureInfo(models.Model):
+    id = models.IntegerField(primary_key=True)
+    measure_id = models.CharField(max_length=255, blank=True, null=True)
+    measure_name = models.CharField(max_length=255, blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'Measure_info'
+
 class ComplicationsAndDeathsHospital(models.Model):
     provider = models.ForeignKey('Hospital', models.DO_NOTHING)
     measure_name = models.CharField(max_length=125)
