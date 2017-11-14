@@ -1,6 +1,18 @@
 from __future__ import unicode_literals
 from django.db import models
 
+'''
+    A map to easily get/change values of priorities
+    Example Access:
+        priorityMap['Low'] => .75
+        priorityMap['Medium'] => 1.0
+        priorityMap['High'] => 1.25
+'''
+priorityMap = {
+    'Low': .75,
+    'Medium': 1,
+    'High': 1.25,
+}
 
 '''
     The hospital ranking algorithm
