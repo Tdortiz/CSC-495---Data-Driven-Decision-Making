@@ -41,17 +41,24 @@
 
                 <hr>
 
+
+
                 <h4 class="text-center">Priorities</h4>
-                <div class="row">
+                <div class="row" style="padding: 1em;">
                     <div class="col-sm-offset-1 col-sm-5">
                         <div class="form-group">
                             <label for="priorityExample1" class="col-sm-4 control-label">Priority Example 1</label>
                             <div class="col-sm-8">
-                                <select id="priorityExample1" class="form-control" name="priorityExample1" required>
-                                    <option>Low</option>
-                                    <option>Medium</option>
-                                    <option>High</option>
-                                </select>
+                                <input
+                                    id="priorityExample1" class="form-control" type="text" name="priorityExample1"
+                                    data-provide="slider"
+                                    data-slider-min="0.75"
+                                    data-slider-max="1.25"
+                                    data-slider-step="0.05"
+                                    data-slider-value="1.00"
+
+                                    data-slider-ticks="[0.75, 1.0, 1.25]"
+                                    data-slider-ticks-labels='["Low", "Medium", "High"]'>
                             </div>
                         </div>
                     </div>
@@ -60,26 +67,35 @@
                         <div class="form-group">
                             <label for="priorityExample2" class="col-sm-4 control-label">Priority Example 2</label>
                             <div class="col-sm-8">
-                                <select id="priorityExample2" class="form-control" name="priorityExample2" required>
-                                    <option>Low</option>
-                                    <option>Medium</option>
-                                    <option>High</option>
-                                </select>
+                                <input
+                                    id="priorityExample2" class="form-control" type="text" name="priorityExample2"
+                                    data-provide="slider"
+                                    data-slider-min="0.75"
+                                    data-slider-max="1.25"
+                                    data-slider-step="0.05"
+                                    data-slider-value="1.00"
+
+                                    data-slider-ticks="[0.75, 1.0, 1.25]"
+                                    data-slider-ticks-labels='["Low", "Medium", "High"]'>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="row">
+                <div class="row" style="padding: 1em;">
                     <div class="col-sm-offset-1 col-sm-5">
                         <div class="form-group">
                             <label for="priorityExample3" class="col-sm-4 control-label">Priority Example 3</label>
                             <div class="col-sm-8">
-                                <select id="priorityExample3" class="form-control" name="priorityExample3" required>
-                                    <option>Low</option>
-                                    <option>Medium</option>
-                                    <option>High</option>
-                                </select>
+                                <input
+                                    id="priorityExample3" class="form-control" type="text" name="priorityExample3"
+                                    data-provide="slider"
+                                    data-slider-min="0.75"
+                                    data-slider-max="1.25"
+                                    data-slider-step="0.05"
+                                    data-slider-value="1.00"
+
+                                    data-slider-ticks="[0.75, 1.0, 1.25]"
+                                    data-slider-ticks-labels='["Low", "Medium", "High"]'>
                             </div>
                         </div>
                     </div>
@@ -88,11 +104,16 @@
                         <div class="form-group">
                             <label for="priorityExample4" class="col-sm-4 control-label">Priority Example 4</label>
                             <div class="col-sm-8">
-                                <select id="priorityExample4" class="form-control" name="priorityExample4" required>
-                                    <option>Low</option>
-                                    <option>Medium</option>
-                                    <option>High</option>
-                                </select>
+                                <input
+                                    id="priorityExample4" class="form-control" type="text" name="priorityExample4"
+                                    data-provide="slider"
+                                    data-slider-min="0.75"
+                                    data-slider-max="1.25"
+                                    data-slider-step="0.05"
+                                    data-slider-value="1.00"
+
+                                    data-slider-ticks="[0.75, 1.0, 1.25]"
+                                    data-slider-ticks-labels='["Low", "Medium", "High"]'>
                             </div>
                         </div>
                     </div>
@@ -108,4 +129,7 @@
 </div>
 
 <script src="{% static 'hospitalRanking/js/index.js' %}"></script>
+<script>
+
+</script>
 {% endblock %}

@@ -17,6 +17,7 @@ def submit_ranking_form(request):
         pe_3 = request.POST['priorityExample3']
         pe_4 = request.POST['priorityExample4']
 
+
         context = {
             'filters': {
                 'location': str(location),
