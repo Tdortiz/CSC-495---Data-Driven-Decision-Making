@@ -11,4 +11,6 @@ urlpatterns = [
     url(r'^submitRankingForm', views.submit_ranking_form, name='submit_ranking_form'),
     # .com/hospitalRanking/results
     url(r'^results', TemplateView.as_view(template_name='hospitalRanking/results.html'), name='results'),
+    # .com/hospitalRanking/hospital/
+    url(r'^hospital/(?P<hospital_id>[\w+0-9+]+)/$', views.get_hospital, name='getHospital'),
 ]

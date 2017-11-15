@@ -17,7 +17,6 @@ def submit_ranking_form(request):
         pe_3 = request.POST['priorityExample3']
         pe_4 = request.POST['priorityExample4']
 
-
         context = {
             'filters': {
                 'location': str(location),
@@ -42,3 +41,12 @@ def submit_ranking_form(request):
     else:
         raise Http404("Invalid request")
 
+
+def get_hospital(request, hospital_id):
+    print("\tHospital ID = " + str(hospital_id))
+
+    hospital_info = {
+        'name': 'Duke Regional Hospital'
+    }
+
+    return render(request, 'hospitalRanking/hospital.html', hospital_info)
