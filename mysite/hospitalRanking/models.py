@@ -33,18 +33,64 @@ class HospitalRankingAlgorithm:
         Using that weighted sum, order the hospital list by it from [highest, ..., lowest] 
     '''
     def rank_hospitals_by_filters(self):
-        # Pull sql data
-        hospital_nc = Hospital.objects.filter(state='NC')
-        current_hospital = hospital_nc[0]
-        # pay = Footnotes.objects.all()
-        # print ()
+
+        # All hospitals in NC
+        hospitals_nc = Hospital.objects.filter(state='NC')
+        # Store in dict use provider_id as key
+        hospitals_nc_dict = dict()
+
+        for current_hospital in hospitals_nc:
+            #
+            hospitals_nc_dict[current_hospital.provider_id] = current_hospital
+
+
         # Ranking it
+        hospitals_payment_sorted = self.payment_rank(hospitals_nc)
 
         # Return it
-        self.hospital_ranked_list.append("Hospital 1")
-        self.hospital_ranked_list.append("Hospital 2")
-        self.hospital_ranked_list.append("Hospital 3")
+
+        for hospital_sorted in hospitals_payment_sorted:
+            self.hospital_ranked_list.append(
+                str(hospitals_nc_dict.get(hospital_sorted[0])) + "-" + str(hospital_sorted[1]))
+
         return self.hospital_ranked_list
+
+    def payment_rank(self,hospitals_nc):
+        # dict use to sort
+        hospitals_rating_dict = dict()
+
+
+        # Not available value in database
+        na = 0
+        # if all values are not available set it as
+        all_na = 9999999
+
+        for current_hospital in hospitals_nc:
+
+            # all payment_measurements for given provider_id
+            payment_measurements = PaymentAndValueOfCare_Hospital.objects.filter(
+                provider_id=current_hospital.provider_id)
+            payment_sum = 0
+            payment_count = 0
+            for measurement in payment_measurements:
+                # conver $xx,xxx string to int
+                measurement_int = int(measurement.payment.replace('$', '').replace(',', ''))
+                # if measurement value is available
+                if (measurement_int != na):
+                    payment_sum += measurement_int
+                    payment_count += 1
+
+            if payment_count != 0:
+                hospitals_rating_dict[current_hospital.provider_id] = payment_sum / payment_count
+
+            # if all measurements are not available
+            else:
+                hospitals_rating_dict[current_hospital.provider_id] = all_na
+
+        # Sort
+        hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
+        return hospitals_rating_dict_sorted
+
 
 
 class MeasureInfo(models.Model):
