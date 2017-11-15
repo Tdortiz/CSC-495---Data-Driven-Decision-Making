@@ -3,6 +3,7 @@
 
 <head>
     {% load staticfiles %}
+    {% load hospitalRanking_extras %}
 </head>
 
 
@@ -15,10 +16,32 @@
 
     <div class="panel panel-primary">
         <div class="panel-heading text-center">
-            <h3 class="panel-title"><strong>{{ name }}</strong></h3>
+            <h3 class="panel-title"><strong>{{ hospital.hospital_name }}</strong></h3>
         </div>
         <div class="panel-body">
+            <div class="row">
+                <h4 class="text-center">Contact Information</h4>
+                <div class="col-sm-6">
+                    <h4 class="text-center">Address</h4>
+                    <div class="col-sm-offset-4">
+                        <p>{{ hospital.address }}</p>
+                        <p>{{ hospital.city }}, {{ hospital.state }} {{ hospital.zip_code }}</p>
+                        <p><label>County</label> : {{ hospital.county_name }}</p>
 
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <h4 class="text-center">Phone Info</h4>
+                    <div class="col-sm-offset-4">
+                        <p>{{ hospital.phone_number | phonenumber }}</p>
+                    </div>
+                </div>
+            </div>
+            <hr />
+
+            <div class="row">
+
+            </div>
         </div>
     </div>
 </div>

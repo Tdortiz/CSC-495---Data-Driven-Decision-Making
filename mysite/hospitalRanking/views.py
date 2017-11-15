@@ -1,7 +1,7 @@
 from django.conf import settings
 from django.shortcuts import render, redirect
 from django.http import Http404, JsonResponse
-from . models import HospitalRankingAlgorithm
+from . models import HospitalRankingAlgorithm, Hospital
 import json
 
 
@@ -43,10 +43,17 @@ def submit_ranking_form(request):
 
 
 def get_hospital(request, hospital_id):
-    print("\tHospital ID = " + str(hospital_id))
+    print("\tHospital ID = [" + str(hospital_id) + "]")
 
-    hospital_info = {
-        'name': 'Duke Regional Hospital'
-    }
+    hospitals = Hospital.objects.filter(provider_id=hospital_id)
+    if hospitals.exists():
+        context = {
+            'hospital': hospitals[0]
+        }
 
-    return render(request, 'hospitalRanking/hospital.html', hospital_info)
+        print("\tHospital = " + str(hospitals[0]))
+
+        return render(request, 'hospitalRanking/hospital.html', context)
+    else:
+        raise Http404("Invalid request")
+

@@ -59,6 +59,7 @@ class MeasureInfo(models.Model):
         managed = False
         db_table = 'Measure_info'
 
+
 class ComplicationsAndDeathsHospital(models.Model):
     id = models.IntegerField(primary_key=True)
     provider = models.ForeignKey('Hospital', models.DO_NOTHING)
