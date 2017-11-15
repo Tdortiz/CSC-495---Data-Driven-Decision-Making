@@ -34,8 +34,10 @@ class HospitalRankingAlgorithm:
     '''
     def rank_hospitals_by_filters(self):
         # Pull sql data
-        hospital = Hospital.objects.filter(provider_id=10001)
-
+        hospital_nc = Hospital.objects.filter(state='NC')
+        current_hospital = hospital_nc[0]
+        # pay = Footnotes.objects.all()
+        # print ()
         # Ranking it
 
         # Return it
@@ -58,6 +60,7 @@ class MeasureInfo(models.Model):
         db_table = 'Measure_info'
 
 class ComplicationsAndDeathsHospital(models.Model):
+    id = models.IntegerField(primary_key=True)
     provider = models.ForeignKey('Hospital', models.DO_NOTHING)
     measure_name = models.CharField(max_length=125)
     measure_id = models.CharField(max_length=83)
@@ -123,6 +126,7 @@ class Hospital(models.Model):
 
 
 class HospitalReturns_Hospital(models.Model):
+    id = models.IntegerField(primary_key=True)
     provider = models.ForeignKey(Hospital, models.DO_NOTHING, blank=True, null=True)
     measure_name = models.CharField(max_length=50, blank=True, null=True)
     measure_id = models.CharField(max_length=231, blank=True, null=True)
@@ -141,6 +145,7 @@ class HospitalReturns_Hospital(models.Model):
 
 
 class MedicareSpendingPerPatient_Hospital(models.Model):
+    id = models.IntegerField(primary_key=True)
     provider = models.ForeignKey(Hospital, models.DO_NOTHING)
     measure_name = models.CharField(max_length=100, blank=True, null=True)
     measure_id = models.CharField(max_length=6)
@@ -155,6 +160,7 @@ class MedicareSpendingPerPatient_Hospital(models.Model):
 
 
 class OutpatientImagingEfficiency_Hospital(models.Model):
+    id = models.IntegerField(primary_key=True)
     provider = models.ForeignKey(Hospital, models.DO_NOTHING)
     measure_id = models.CharField(max_length=5)
     measure_name = models.CharField(max_length=100, blank=True, null=True)
@@ -169,6 +175,7 @@ class OutpatientImagingEfficiency_Hospital(models.Model):
 
 
 class PaymentAndValueOfCare_Hospital(models.Model):
+    id = models.IntegerField(primary_key=True)
     provider = models.ForeignKey(Hospital, models.DO_NOTHING)
     payment_measure_name = models.CharField(max_length=243)
     payment_measure_id = models.CharField(max_length=221)
@@ -186,11 +193,12 @@ class PaymentAndValueOfCare_Hospital(models.Model):
     measure_end_date = models.CharField(max_length=10)
 
     class Meta:
-        managed = True
+        managed = False
         db_table = 'PaymentAndValueOfCare_Hospital'
 
 
 class StructuralMeasures_Hospital(models.Model):
+    id = models.IntegerField(primary_key=True)
     provider = models.ForeignKey(Hospital, models.DO_NOTHING)
     measure_name = models.CharField(max_length=100, blank=True, null=True)
     measure_id = models.CharField(max_length=216)
