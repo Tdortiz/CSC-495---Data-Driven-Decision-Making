@@ -1,5 +1,6 @@
 from __future__ import unicode_literals
 from django.db import models
+import json
 
 '''
     A map to easily get/change values of priorities
@@ -18,13 +19,10 @@ priorityMap = {
     The hospital ranking algorithm
 '''
 class HospitalRankingAlgorithm:
-
     filters = {}
-    hospital_ranked_list = []
 
     def __init__(self, filters):
         self.filters = filters
-        self.hospital_ranked_list = []
     
     '''
         Using the filters (Low = .75, Med = 1, High = 1.25) weight the 
@@ -35,27 +33,42 @@ class HospitalRankingAlgorithm:
     def rank_hospitals_by_filters(self):
 
         # All hospitals in NC
-        hospitals_nc = Hospital.objects.filter(state='NC')
-        # Store in dict use provider_id as key
-        hospitals_nc_dict = dict()
+        hospitals_nc = Hospital.objects.filter(state='NC').all()
+
+        # Setup ranking dictionary
+        ranking_dict = dict()
+        for hospital in hospitals_nc:
+            ranking_dict[hospital.provider_id] = {
+                "name": hospital.hospital_name,
+                "score": 0,
+                "address": hospital.address,
+                "city": hospital.city,
+                "state": hospital.state,
+                "zip_code": hospital.zip_code,
+                "county_name": hospital.county_name,
+                "phone_number": hospital.phone_number,
+            }
+
+        print(str(json.dumps(ranking_dict, indent=4, sort_keys=True)))
 
         for current_hospital in hospitals_nc:
-            #
+            '''
             hospitals_nc_dict[current_hospital.provider_id] = current_hospital
 
 
-        # Ranking it
-        hospitals_payment_sorted = self.payment_rank(hospitals_nc)
+            # Ranking it
+            hospitals_payment_sorted = self.payment_rank(hospitals_nc)
 
-        # Return it
+            # Return it
 
-        for hospital_sorted in hospitals_payment_sorted:
-            self.hospital_ranked_list.append(
-                str(hospitals_nc_dict.get(hospital_sorted[0])) + "-" + str(hospital_sorted[1]))
+            for hospital_sorted in hospitals_payment_sorted:
+                self.hospital_ranked_list.append(
+                    str(hospitals_nc_dict.get(hospital_sorted[0])) + "-" + str(hospital_sorted[1]))
+            '''
 
-        return self.hospital_ranked_list
+        return ranking_dict
 
-    def payment_rank(self,hospitals_nc):
+    def payment_rank(self, hospitals_nc):
         # dict use to sort
         hospitals_rating_dict = dict()
 
