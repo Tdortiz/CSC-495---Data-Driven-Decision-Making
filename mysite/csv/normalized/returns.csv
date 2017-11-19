@@ -1,0 +1,797 @@
+id,provider_id,measure_name,measure_id,compared_to_national,score,n_score
+1,340001,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,19.5,0.699106256
+2,340001,Hospital return days for heart failure patients,EDAC_30_HF,Average,9.8,0.552210724
+3,340001,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.5,0.88372093
+4,340001,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,14.6,0.794871795
+5,340001,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20,0.603174603
+6,340001,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21,0.426966292
+7,340001,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+8,340001,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,14.3,0.25
+9,340001,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.3,0.243243243
+10,340001,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.5,0.595238095
+11,340002,Hospital return days for heart attack patients,EDAC_30_AMI,Fewer days than average,-13.8,0.368421053
+12,340002,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-23.4,0.239887112
+13,340002,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,Better than the National Rate,13.7,0
+14,340002,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,13.1,0.41025641
+15,340002,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,Better than the National Rate,17.4,0.19047619
+16,340002,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Better than the National Rate,17.2,0
+17,340002,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,Better than the National Rate,3.3,0
+18,340002,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,13.2,0
+19,340002,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.3,0.108108108
+20,340002,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10.8,0.19047619
+22,340003,Hospital return days for heart failure patients,EDAC_30_HF,Average,-16.4,0.305738476
+25,340003,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.4,0.349206349
+26,340003,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.2,0.337078652
+27,340003,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,6.3,1
+28,340003,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.8,0.363636364
+29,340003,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.3,0.243243243
+30,340003,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.1,0.261904762
+31,340004,Hospital return days for heart attack patients,EDAC_30_AMI,Average,11.4,0.618669315
+32,340004,Hospital return days for heart failure patients,EDAC_30_HF,Average,1.6,0.475070555
+33,340004,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.9,0.511627907
+34,340004,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,12.6,0.282051282
+35,340004,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.5,0.682539683
+36,340004,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.7,0.505617978
+37,340004,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.9,0.2
+38,340004,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.9,0.613636364
+39,340004,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.7,0.162162162
+40,340004,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.2,0.523809524
+41,340008,Hospital return days for heart attack patients,EDAC_30_AMI,Average,15.9,0.663356504
+42,340008,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-16.8,0.301975541
+43,340008,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.7,0.697674419
+45,340008,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.6,0.698412698
+46,340008,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,18.9,0.191011236
+47,340008,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.8,0.166666667
+48,340008,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.7,0.340909091
+49,340008,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.8,0.310810811
+50,340008,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13,0.714285714
+51,340010,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-12.4,0.382323734
+52,340010,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,36.1,0.799623706
+53,340010,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.5,0.418604651
+55,340010,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.5,0.523809524
+56,340010,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.9,0.752808989
+57,340010,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+58,340010,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.8,0.590909091
+59,340010,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Worse than the National Rate,19.5,0.675675676
+60,340010,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,14.2,1
+61,340013,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-23.9,0.268123138
+62,340013,Hospital return days for heart failure patients,EDAC_30_HF,Average,-9.2,0.373471308
+63,340013,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.3,0.372093023
+65,340013,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.8,0.73015873
+66,340013,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.7,0.393258427
+67,340013,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.7,0.133333333
+68,340013,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.2,0.454545455
+69,340013,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.9,0.324324324
+70,340013,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.9,0.452380952
+71,340014,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,18.5,0.68917577
+72,340014,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,18.9,0.637817498
+73,340014,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.7,0.697674419
+74,340014,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,12.4,0.230769231
+75,340014,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,21.6,0.857142857
+76,340014,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.6,0.382022472
+77,340014,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+78,340014,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.5,0.522727273
+79,340014,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18,0.472972973
+80,340014,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.4,0.333333333
+81,340015,Hospital return days for heart attack patients,EDAC_30_AMI,Average,11.8,0.622641509
+82,340015,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,37.6,0.813734713
+83,340015,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.8,0.720930233
+85,340015,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.1,0.619047619
+86,340015,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22.7,0.617977528
+87,340015,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+88,340015,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.8,0.590909091
+89,340015,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18,0.472972973
+90,340015,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.8,0.428571429
+92,340016,Hospital return days for heart failure patients,EDAC_30_HF,Average,12,0.572906867
+95,340016,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19,0.444444444
+96,340016,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.1,0.662921348
+97,340016,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+98,340016,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.8,0.363636364
+99,340016,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.9,0.324324324
+100,340016,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.2,0.523809524
+101,340017,Hospital return days for heart attack patients,EDAC_30_AMI,Fewer days than average,-50.9,0
+102,340017,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-38.1,0.101599247
+103,340017,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15,0.302325581
+105,340017,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,17.8,0.253968254
+106,340017,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.7,0.393258427
+107,340017,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.6,0.1
+108,340017,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,13.8,0.136363636
+109,340017,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Better than the National Rate,14.7,0.027027027
+110,340017,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.6,0.380952381
+111,340020,Hospital return days for heart attack patients,EDAC_30_AMI,Average,8.7,0.591857001
+112,340020,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,21.5,0.662276576
+113,340020,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.7,0.697674419
+115,340020,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.5,0.682539683
+116,340020,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Worse than the National Rate,26.1,1
+117,340020,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+118,340020,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Worse than the National Rate,16.8,0.818181818
+119,340020,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.6,0.554054054
+120,340020,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.9,0.69047619
+121,340021,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-13.2,0.374379345
+122,340021,Hospital return days for heart failure patients,EDAC_30_HF,Average,12.4,0.576669802
+123,340021,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.4,0.627906977
+125,340021,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,17.8,0.253968254
+126,340021,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.7,0.505617978
+127,340021,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+128,340021,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,14,0.181818182
+129,340021,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Better than the National Rate,14.5,0
+130,340021,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10.9,0.214285714
+131,340023,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-7.9,0.427010924
+132,340023,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-31.7,0.161806209
+133,340023,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16,0.534883721
+135,340023,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.4,0.507936508
+136,340023,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,18.9,0.191011236
+137,340023,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+138,340023,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.7,0.340909091
+139,340023,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.2,0.22972973
+140,340023,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.5,0.357142857
+142,340024,Hospital return days for heart failure patients,EDAC_30_HF,Average,20.8,0.655691439
+145,340024,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.3,0.650793651
+146,340024,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Worse than the National Rate,25.1,0.887640449
+147,340024,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.1,0.266666667
+148,340024,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16.1,0.659090909
+149,340024,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16,0.202702703
+150,340024,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.3,0.547619048
+151,340027,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,37.5,0.877855015
+152,340027,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,43.6,0.870178739
+153,340027,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,18,1
+155,340027,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.3,0.492063492
+156,340027,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,24.3,0.797752809
+157,340027,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+158,340027,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16.3,0.704545455
+159,340027,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.9,0.459459459
+160,340027,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11,0.238095238
+161,340028,Hospital return days for heart attack patients,EDAC_30_AMI,Average,13.5,0.639523337
+162,340028,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,18.2,0.631232361
+163,340028,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.7,0.465116279
+164,340028,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,13.7,0.564102564
+165,340028,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.3,0.333333333
+166,340028,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.5,0.370786517
+167,340028,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.5,0.066666667
+168,340028,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+169,340028,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Worse than the National Rate,18.6,0.554054054
+170,340028,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.9,0.69047619
+171,340030,Hospital return days for heart attack patients,EDAC_30_AMI,Average,6.9,0.573982125
+172,340030,Hospital return days for heart failure patients,EDAC_30_HF,Average,-1.4,0.446848542
+173,340030,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.3,0.604651163
+174,340030,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,15.4,1
+175,340030,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.5,0.365079365
+176,340030,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,19.8,0.292134831
+177,340030,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+178,340030,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.9,0.613636364
+179,340030,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+180,340030,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12,0.476190476
+181,340032,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-1.7,0.48857994
+182,340032,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-18.5,0.285983067
+183,340032,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16,0.534883721
+184,340032,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,11.6,0.025641026
+185,340032,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,Better than the National Rate,17.4,0.19047619
+186,340032,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,19.4,0.247191011
+187,340032,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+188,340032,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.6,0.318181818
+189,340032,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.9,0.324324324
+190,340032,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.4,0.571428571
+192,340037,Hospital return days for heart failure patients,EDAC_30_HF,Average,-2.2,0.439322672
+195,340037,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.5,0.523809524
+196,340037,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.7,0.505617978
+198,340037,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.1,0.204545455
+199,340037,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,14.7,0.027027027
+200,340037,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.8,0.428571429
+201,340039,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-1.1,0.494538232
+202,340039,Hospital return days for heart failure patients,EDAC_30_HF,Average,-2.7,0.434619003
+203,340039,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.5,0.418604651
+205,340039,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.7,0.396825397
+206,340039,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,19.9,0.303370787
+207,340039,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+208,340039,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.8,0.363636364
+209,340039,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.5,0.540540541
+210,340039,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13,0.714285714
+211,340040,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,9.9,0.603773585
+212,340040,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,28.1,0.724365005
+213,340040,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.5,0.88372093
+214,340040,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,13.6,0.538461538
+215,340040,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.4,0.507936508
+216,340040,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.1,0.662921348
+217,340040,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+218,340040,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Worse than the National Rate,16.1,0.659090909
+219,340040,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.4,0.527027027
+220,340040,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.6,0.619047619
+221,340041,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-20.3,0.30387289
+222,340041,Hospital return days for heart failure patients,EDAC_30_HF,Average,3.7,0.494825964
+223,340041,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.2,0.348837209
+225,340041,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,17.6,0.222222222
+226,340041,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.8,0.404494382
+227,340041,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+228,340041,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.1,0.204545455
+229,340041,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.7,0.297297297
+230,340041,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.1,0.5
+231,340042,Hospital return days for heart attack patients,EDAC_30_AMI,Average,7,0.574975174
+232,340042,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,42.2,0.857008467
+233,340042,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.1,0.558139535
+235,340042,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.7,0.396825397
+236,340042,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.7,0.730337079
+237,340042,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,5,0.566666667
+238,340042,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.5,0.522727273
+239,340042,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.2,0.5
+240,340042,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.6,0.619047619
+241,340047,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,15.4,0.658391261
+242,340047,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,36.8,0.806208843
+243,340047,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.2,0.813953488
+244,340047,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,11.9,0.102564103
+245,340047,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.4,0.507936508
+246,340047,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22.2,0.561797753
+247,340047,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.2,0.3
+248,340047,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.8,0.590909091
+249,340047,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.5,0.405405405
+250,340047,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.9,0.928571429
+257,340049,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.1,0.266666667
+258,340049,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.8,0.363636364
+261,340050,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,22.7,0.730883813
+262,340050,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,51.1,0.940733772
+263,340050,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.7,0.930232558
+264,340050,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,14.2,0.692307692
+265,340050,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,22,0.920634921
+266,340050,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Worse than the National Rate,25.1,0.887640449
+267,340050,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,6.2,0.966666667
+268,340050,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Worse than the National Rate,17.6,1
+269,340050,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Worse than the National Rate,19.6,0.689189189
+270,340050,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.6,0.619047619
+271,340051,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-7.9,0.427010924
+272,340051,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,36.4,0.802445908
+273,340051,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.7,0.697674419
+275,340051,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,17.9,0.26984127
+276,340051,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,24.4,0.808988764
+277,340051,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+278,340051,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.8,0.363636364
+279,340051,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.8,0.581081081
+280,340051,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.3,0.30952381
+281,340053,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,22.6,0.729890765
+282,340053,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,24.2,0.687676388
+283,340053,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.5,0.88372093
+284,340053,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,13.2,0.435897436
+285,340053,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.2,0.634920635
+286,340053,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22.1,0.550561798
+287,340053,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.7,0.133333333
+288,340053,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.4,0.5
+289,340053,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.7,0.432432432
+290,340053,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.2,0.285714286
+292,340060,Hospital return days for heart failure patients,EDAC_30_HF,Average,-18.3,0.287864534
+295,340060,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.7,0.555555556
+296,340060,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.8,0.516853933
+298,340060,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+299,340060,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,19.4,0.662162162
+300,340060,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.5,0.357142857
+301,340061,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-11.7,0.389275074
+302,340061,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,24.7,0.692380056
+303,340061,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.1,0.790697674
+304,340061,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,11.5,0
+305,340061,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.4,0.349206349
+306,340061,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23,0.651685393
+307,340061,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+308,340061,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Worse than the National Rate,16.6,0.772727273
+309,340061,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.2,0.5
+310,340061,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12,0.476190476
+312,340064,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,35.4,0.79303857
+315,340064,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,22.2,0.952380952
+316,340064,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,24.8,0.853932584
+317,340064,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+318,340064,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.1,0.431818182
+319,340064,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,19,0.608108108
+320,340064,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.3,0.547619048
+322,340068,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-35,0.130761994
+325,340068,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.2,0.634920635
+326,340068,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.2,0.337078652
+327,340068,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,5.6,0.766666667
+328,340068,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.3,0.477272727
+329,340068,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.4,0.391891892
+330,340068,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.7,0.642857143
+331,340069,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-0.5,0.500496524
+332,340069,Hospital return days for heart failure patients,EDAC_30_HF,Average,0.2,0.461900282
+333,340069,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,14.7,0.23255814
+334,340069,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,12.4,0.230769231
+335,340069,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.2,0.476190476
+336,340069,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Better than the National Rate,19.7,0.280898876
+337,340069,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.9,0.2
+338,340069,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,13.3,0.022727273
+339,340069,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+340,340069,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11,0.238095238
+341,340070,Hospital return days for heart attack patients,EDAC_30_AMI,Average,10.9,0.613704071
+342,340070,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-17.4,0.296331138
+343,340070,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.2,0.581395349
+345,340070,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.5,0.523809524
+346,340070,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.8,0.404494382
+347,340070,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.7,0.133333333
+348,340070,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.8,0.363636364
+349,340070,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18,0.472972973
+350,340070,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12,0.476190476
+352,340071,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,56.8,0.994355597
+355,340071,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,22.2,0.952380952
+356,340071,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,24.3,0.797752809
+357,340071,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.1,0.266666667
+358,340071,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16.1,0.659090909
+359,340071,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.9,0.594594595
+360,340071,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.7,0.880952381
+361,340073,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-5.5,0.450844091
+362,340073,Hospital return days for heart failure patients,EDAC_30_HF,Average,21.4,0.661335842
+363,340073,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.3,0.604651163
+365,340073,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.3,0.650793651
+366,340073,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.5,0.370786517
+367,340073,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.9,0.533333333
+368,340073,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.2,0.227272727
+369,340073,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+370,340073,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10.9,0.214285714
+371,340075,Hospital return days for heart attack patients,EDAC_30_AMI,Average,4.3,0.54816286
+372,340075,Hospital return days for heart failure patients,EDAC_30_HF,Average,-7.8,0.38664158
+373,340075,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.6,0.674418605
+375,340075,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.6,0.380952381
+376,340075,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,19.4,0.247191011
+377,340075,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+378,340075,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.3,0.25
+379,340075,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.5,0.27027027
+380,340075,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.4,0.571428571
+388,340084,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.2,0.454545455
+389,340084,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17,0.337837838
+392,340085,Hospital return days for heart failure patients,EDAC_30_HF,Average,10.8,0.561618062
+395,340085,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.4,0.507936508
+396,340085,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.9,0.415730337
+397,340085,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+398,340085,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.7,0.568181818
+399,340085,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.1,0.216216216
+400,340085,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.8,0.428571429
+402,340087,Hospital return days for heart failure patients,EDAC_30_HF,Average,13.6,0.587958608
+405,340087,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,17.9,0.26984127
+406,340087,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.7,0.393258427
+408,340087,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.2,0.227272727
+409,340087,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.7,0.162162162
+410,340087,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.3,0.547619048
+411,340090,Hospital return days for heart attack patients,EDAC_30_AMI,Average,7.9,0.583912612
+412,340090,Hospital return days for heart failure patients,EDAC_30_HF,Average,5.6,0.512699906
+413,340090,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.6,0.441860465
+415,340090,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.9,0.746031746
+416,340090,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.5,0.370786517
+417,340090,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,5.3,0.666666667
+418,340090,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.2,0.454545455
+419,340090,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.8,0.445945946
+420,340090,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.2,0.523809524
+421,340091,Hospital return days for heart attack patients,EDAC_30_AMI,Fewer days than average,-19.4,0.312810328
+422,340091,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-14.7,0.32173095
+423,340091,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,14.5,0.186046512
+424,340091,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,12.8,0.333333333
+425,340091,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.7,0.555555556
+426,340091,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.1,0.325842697
+427,340091,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.7,0.133333333
+428,340091,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,13.8,0.136363636
+429,340091,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Better than the National Rate,15.2,0.094594595
+430,340091,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.5,0.357142857
+432,340096,Hospital return days for heart failure patients,EDAC_30_HF,Average,-15.3,0.316086548
+435,340096,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.2,0.476190476
+436,340096,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.9,0.415730337
+437,340096,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+438,340096,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.1,0.431818182
+439,340096,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.2,0.22972973
+440,340096,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.9,0.452380952
+441,340097,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,44.1,0.943396226
+442,340097,Hospital return days for heart failure patients,EDAC_30_HF,Average,7.8,0.533396049
+443,340097,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.4,0.627906977
+445,340097,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20,0.603174603
+446,340097,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.1,0.662921348
+447,340097,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+448,340097,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16,0.636363636
+449,340097,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.5,0.27027027
+450,340097,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.9,0.452380952
+451,340098,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-12.9,0.377358491
+452,340098,Hospital return days for heart failure patients,EDAC_30_HF,Average,3.1,0.489181562
+453,340098,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,14.9,0.279069767
+454,340098,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,13.7,0.564102564
+455,340098,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.9,0.587301587
+456,340098,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21,0.426966292
+457,340098,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,5.3,0.666666667
+458,340098,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,14.2,0.227272727
+459,340098,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.3,0.108108108
+460,340098,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.3,0.547619048
+462,340099,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,22.8,0.674506115
+465,340099,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.6,0.698412698
+466,340099,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Worse than the National Rate,25.9,0.97752809
+467,340099,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+468,340099,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16.2,0.681818182
+469,340099,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.7,0.567567568
+470,340099,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.6,0.619047619
+472,340106,Hospital return days for heart failure patients,EDAC_30_HF,Average,-3.6,0.426152399
+475,340106,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.1,0.619047619
+476,340106,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.2,0.449438202
+478,340106,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.7,0.568181818
+479,340106,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.9,0.324324324
+480,340106,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.6,0.619047619
+481,340107,Hospital return days for heart attack patients,EDAC_30_AMI,Average,7.3,0.57795432
+482,340107,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,40.8,0.843838194
+483,340107,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.3,0.604651163
+485,340107,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,22.5,1
+486,340107,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.6,0.719101124
+487,340107,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+488,340107,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16.6,0.772727273
+489,340107,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Worse than the National Rate,19.9,0.72972973
+490,340107,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.3,0.547619048
+491,340109,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-12.3,0.383316783
+492,340109,Hospital return days for heart failure patients,EDAC_30_HF,Average,1.9,0.477892756
+493,340109,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.1,0.325581395
+495,340109,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.8,0.73015873
+496,340109,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.5,0.707865169
+497,340109,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+498,340109,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.7,0.568181818
+499,340109,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.5,0.135135135
+500,340109,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.3,0.30952381
+501,340113,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-6.1,0.444885799
+502,340113,Hospital return days for heart failure patients,EDAC_30_HF,Average,4.3,0.500470367
+503,340113,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.4,0.395348837
+504,340113,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,12.6,0.282051282
+505,340113,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.4,0.666666667
+506,340113,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.4,0.471910112
+507,340113,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.7,0.133333333
+508,340113,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,14.1,0.204545455
+509,340113,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.6,0.283783784
+510,340113,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.3,0.785714286
+511,340114,Hospital return days for heart attack patients,EDAC_30_AMI,Average,0.9,0.514399206
+512,340114,Hospital return days for heart failure patients,EDAC_30_HF,Average,2.6,0.484477893
+513,340114,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,14.7,0.23255814
+514,340114,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,12.5,0.256410256
+515,340114,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.5,0.682539683
+516,340114,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.6,0.382022472
+517,340114,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,Better than the National Rate,3.3,0
+518,340114,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,14.1,0.204545455
+519,340114,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.5,0.135135135
+520,340114,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.3,0.30952381
+521,340115,Hospital return days for heart attack patients,EDAC_30_AMI,Average,5.6,0.561072493
+522,340115,Hospital return days for heart failure patients,EDAC_30_HF,Average,-3,0.431796802
+523,340115,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.1,0.558139535
+524,340115,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,14.7,0.820512821
+525,340115,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.9,0.587301587
+526,340115,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.1,0.438202247
+527,340115,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+528,340115,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+529,340115,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16,0.202702703
+530,340115,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13,0.714285714
+531,340116,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-7,0.435948361
+532,340116,Hospital return days for heart failure patients,EDAC_30_HF,Average,13.4,0.58607714
+533,340116,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.3,0.372093023
+534,340116,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,15.1,0.923076923
+535,340116,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.5,0.523809524
+536,340116,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.1,0.662921348
+537,340116,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+538,340116,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.5,0.522727273
+539,340116,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.4,0.391891892
+540,340116,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10.6,0.142857143
+541,340119,Hospital return days for heart attack patients,EDAC_30_AMI,Average,16.1,0.665342602
+542,340119,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-23.8,0.236124177
+543,340119,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17,0.76744186
+545,340119,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.2,0.634920635
+546,340119,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.3,0.348314607
+547,340119,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.1,0.266666667
+548,340119,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.9,0.386363636
+549,340119,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.3,0.108108108
+550,340119,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.6,0.619047619
+552,340120,Hospital return days for heart failure patients,EDAC_30_HF,Average,4.2,0.499529633
+555,340120,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.8,0.73015873
+556,340120,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.2,0.449438202
+558,340120,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.9,0.613636364
+559,340120,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,19.4,0.662162162
+560,340120,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.6,0.857142857
+561,340123,Hospital return days for heart attack patients,EDAC_30_AMI,Fewer days than average,-25,0.257199603
+562,340123,Hospital return days for heart failure patients,EDAC_30_HF,Average,-18.1,0.289746002
+563,340123,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.7,0.465116279
+565,340123,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.5,0.365079365
+566,340123,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.2,0.337078652
+567,340123,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+568,340123,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.6,0.318181818
+569,340123,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.5,0.135135135
+570,340123,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10.7,0.166666667
+571,340126,Hospital return days for heart attack patients,EDAC_30_AMI,Average,0.2,0.507447865
+572,340126,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-18.2,0.288805268
+573,340126,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.1,0.558139535
+575,340126,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.1,0.301587302
+576,340126,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,19.8,0.292134831
+577,340126,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+578,340126,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.1,0.431818182
+579,340126,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.2,0.5
+580,340126,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.8,0.428571429
+581,340127,Hospital return days for heart attack patients,EDAC_30_AMI,Average,8.7,0.591857001
+582,340127,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,39.7,0.833490122
+583,340127,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.6,0.441860465
+585,340127,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.8,0.412698413
+586,340127,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.7,0.505617978
+587,340127,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+588,340127,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+589,340127,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.6,0.418918919
+590,340127,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.7,0.404761905
+591,340129,Hospital return days for heart attack patients,EDAC_30_AMI,Average,9,0.594836147
+592,340129,Hospital return days for heart failure patients,EDAC_30_HF,Average,-9.3,0.372530574
+593,340129,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.6,0.674418605
+595,340129,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.6,0.53968254
+596,340129,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.6,0.382022472
+597,340129,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+598,340129,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+599,340129,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.5,0.27027027
+600,340129,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.9,0.452380952
+601,340130,Hospital return days for heart attack patients,EDAC_30_AMI,Average,20.6,0.710029791
+602,340130,Hospital return days for heart failure patients,EDAC_30_HF,Average,12,0.572906867
+603,340130,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.3,0.604651163
+605,340130,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19,0.444444444
+606,340130,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22.6,0.606741573
+607,340130,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+608,340130,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.8,0.590909091
+609,340130,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.9,0.189189189
+610,340130,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.2,0.285714286
+611,340131,Hospital return days for heart attack patients,EDAC_30_AMI,Average,6.3,0.568023833
+612,340131,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-23.3,0.240827846
+613,340131,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.4,0.395348837
+614,340131,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,13.4,0.487179487
+615,340131,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.4,0.349206349
+616,340131,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Better than the National Rate,18.2,0.112359551
+617,340131,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,Better than the National Rate,3.4,0.033333333
+618,340131,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,13.3,0.022727273
+619,340131,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.3,0.108108108
+620,340131,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10.2,0.047619048
+621,340132,Hospital return days for heart attack patients,EDAC_30_AMI,Average,21.7,0.720953327
+622,340132,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,36.4,0.802445908
+623,340132,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.2,0.581395349
+625,340132,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.3,0.650793651
+626,340132,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Worse than the National Rate,25.4,0.921348315
+628,340132,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.9,0.613636364
+629,340132,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18,0.472972973
+630,340132,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.3,0.785714286
+632,340133,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,57.4,1
+635,340133,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.7,0.396825397
+636,340133,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.9,0.752808989
+637,340133,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+638,340133,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16.4,0.727272727
+639,340133,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,19,0.608108108
+640,340133,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.8,0.428571429
+641,340141,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-0.8,0.497517378
+642,340141,Hospital return days for heart failure patients,EDAC_30_HF,Average,1.9,0.477892756
+643,340141,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.7,0.465116279
+644,340141,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,12,0.128205128
+645,340141,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.7,0.714285714
+646,340141,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.1,0.438202247
+647,340141,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+648,340141,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.9,0.386363636
+649,340141,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.9,0.324324324
+650,340141,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.6,0.380952381
+651,340142,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,30.7,0.810327706
+652,340142,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,38,0.817497648
+653,340142,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.2,0.813953488
+655,340142,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.3,0.492063492
+656,340142,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.5,0.483146067
+657,340142,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+658,340142,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.9,0.386363636
+659,340142,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.7,0.297297297
+660,340142,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.2,0.523809524
+661,340143,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-2.8,0.477656405
+662,340143,Hospital return days for heart failure patients,EDAC_30_HF,Average,-2.3,0.438381938
+663,340143,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16,0.534883721
+665,340143,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,Better than the National Rate,16.2,0
+666,340143,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.5,0.370786517
+667,340143,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+668,340143,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,14,0.181818182
+669,340143,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.3,0.108108108
+670,340143,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10.9,0.214285714
+671,340144,Hospital return days for heart attack patients,EDAC_30_AMI,Average,24.5,0.748758689
+672,340144,Hospital return days for heart failure patients,EDAC_30_HF,Average,8.8,0.542803387
+673,340144,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.4,0.627906977
+675,340144,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.3,0.492063492
+676,340144,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.7,0.505617978
+677,340144,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+678,340144,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.4,0.5
+679,340144,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.7,0.162162162
+681,340145,Hospital return days for heart attack patients,EDAC_30_AMI,Average,16.5,0.669314796
+682,340145,Hospital return days for heart failure patients,EDAC_30_HF,Average,13.5,0.587017874
+683,340145,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.1,0.558139535
+685,340145,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.2,0.634920635
+686,340145,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.5,0.483146067
+687,340145,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+688,340145,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.1,0.431818182
+689,340145,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.9,0.189189189
+690,340145,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,10,0
+691,340147,Hospital return days for heart attack patients,EDAC_30_AMI,More days than average,49.8,1
+692,340147,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,51.4,0.943555974
+693,340147,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.9,0.976744186
+695,340147,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.9,0.746031746
+696,340147,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,Worse than the National Rate,24.4,0.808988764
+697,340147,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.1,0.266666667
+698,340147,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Worse than the National Rate,17.5,0.977272727
+699,340147,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Worse than the National Rate,21.9,1
+700,340147,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.1,0.738095238
+708,340148,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.9,0.386363636
+712,340151,Hospital return days for heart failure patients,EDAC_30_HF,More days than average,39.3,0.829727187
+715,340151,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.3,0.492063492
+716,340151,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.4,0.471910112
+717,340151,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.5,0.4
+718,340151,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.5,0.522727273
+719,340151,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.8,0.445945946
+720,340151,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.8,0.666666667
+721,340155,Hospital return days for heart attack patients,EDAC_30_AMI,Average,0.3,0.508440914
+722,340155,Hospital return days for heart failure patients,EDAC_30_HF,Average,10,0.554092192
+723,340155,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,17.2,0.813953488
+724,340155,Rate of readmission for CABG,READM_30_CABG,No Different than the National Rate,13.8,0.58974359
+725,340155,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.4,0.507936508
+726,340155,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22,0.539325843
+727,340155,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.2,0.3
+728,340155,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.4,0.272727273
+729,340155,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.9,0.189189189
+730,340155,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.6,0.380952381
+738,340156,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.2,0.454545455
+739,340156,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.7,0.297297297
+742,340158,Hospital return days for heart failure patients,EDAC_30_HF,Average,10.1,0.555032926
+745,340158,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,21.5,0.841269841
+746,340158,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.3,0.685393258
+747,340158,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+748,340158,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.7,0.568181818
+749,340158,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,Worse than the National Rate,20.9,0.864864865
+750,340158,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.1,0.738095238
+752,340159,Hospital return days for heart failure patients,EDAC_30_HF,Average,15,0.601128881
+755,340159,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.7,0.555555556
+756,340159,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23.9,0.752808989
+757,340159,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+758,340159,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.2,0.454545455
+759,340159,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+762,340166,Hospital return days for heart failure patients,EDAC_30_HF,Average,-1,0.450611477
+765,340166,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.6,0.698412698
+766,340166,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.8,0.404494382
+767,340166,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,5.2,0.633333333
+768,340166,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.3,0.25
+769,340166,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,18.2,0.5
+770,340166,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.8,0.428571429
+781,340171,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-15.5,0.351539225
+782,340171,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-17.4,0.296331138
+783,340171,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.7,0.465116279
+785,340171,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19,0.444444444
+786,340171,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,19.2,0.224719101
+787,340171,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,5.1,0.6
+788,340171,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,Better than the National Rate,13.7,0.113636364
+789,340171,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,14.7,0.027027027
+790,340171,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11,0.238095238
+791,340173,Hospital return days for heart attack patients,EDAC_30_AMI,Average,21.2,0.715988083
+792,340173,Hospital return days for heart failure patients,EDAC_30_HF,Average,4,0.497648166
+793,340173,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.4,0.627906977
+795,340173,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.2,0.476190476
+796,340173,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.2,0.337078652
+797,340173,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+798,340173,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.6,0.318181818
+799,340173,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.2,0.094594595
+800,340173,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.2,0.285714286
+801,340183,Hospital return days for heart attack patients,EDAC_30_AMI,Average,-15.6,0.350546177
+802,340183,Hospital return days for heart failure patients,EDAC_30_HF,Average,-2.4,0.437441204
+803,340183,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,16.4,0.627906977
+805,340183,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,21.5,0.841269841
+806,340183,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.6,0.494382022
+807,340183,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+808,340183,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.5,0.295454545
+809,340183,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.2,0.22972973
+810,340183,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.2,0.523809524
+811,340184,Hospital return days for heart attack patients,EDAC_30_AMI,Average,31.3,0.816285998
+812,340184,Hospital return days for heart failure patients,EDAC_30_HF,Average,3.3,0.491063029
+813,340184,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,READM_30_AMI,No Different than the National Rate,15.5,0.418604651
+815,340184,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.3,0.492063492
+816,340184,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22,0.539325843
+817,340184,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+818,340184,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+819,340184,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+820,340184,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12,0.476190476
+822,340186,Hospital return days for heart failure patients,EDAC_30_HF,Average,-13.1,0.33678269
+825,340186,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.4,0.349206349
+826,340186,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.1,0.438202247
+827,340186,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.6,0.433333333
+828,340186,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.9,0.386363636
+829,340186,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.6,0.283783784
+830,340186,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.8,0.428571429
+842,340188,Hospital return days for heart failure patients,EDAC_30_HF,Average,35.2,0.791157103
+845,340188,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.1,0.619047619
+846,340188,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,23,0.651685393
+848,340188,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.9,0.613636364
+849,340188,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.3,0.243243243
+875,341303,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.9,0.587301587
+878,341303,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.4,0.272727273
+879,341303,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.2,0.22972973
+882,341304,Hospital return days for heart failure patients,EDAC_30_HF,Average,22.8,0.674506115
+885,341304,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.2,0.634920635
+886,341304,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.6,0.494382022
+888,341304,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15,0.409090909
+889,341304,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+890,341304,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.3,0.547619048
+892,341305,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-48.9,0
+895,341305,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19,0.444444444
+896,341305,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20,0.314606742
+898,341305,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.7,0.340909091
+899,341305,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.8,0.310810811
+902,341307,Hospital return days for heart failure patients,EDAC_30_HF,Average,18.2,0.631232361
+905,341307,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.7,0.396825397
+906,341307,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.9,0.528089888
+908,341307,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+909,341307,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,19,0.608108108
+912,341311,Hospital return days for heart failure patients,EDAC_30_HF,Average,-15.3,0.316086548
+916,341311,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.7,0.505617978
+918,341311,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.6,0.545454545
+919,341311,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.3,0.378378378
+922,341314,Hospital return days for heart failure patients,EDAC_30_HF,Average,18.6,0.634995296
+925,341314,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.3,0.650793651
+926,341314,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.7,0.505617978
+928,341314,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.4,0.5
+929,341314,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.2,0.364864865
+932,341315,Hospital return days for heart failure patients,EDAC_30_HF,Average,-39.7,0.086547507
+935,341315,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,21.4,0.825396825
+936,341315,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.1,0.438202247
+938,341315,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.2,0.454545455
+939,341315,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.9,0.324324324
+942,341316,Hospital return days for heart failure patients,EDAC_30_HF,Average,-26.3,0.212605833
+945,341316,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.2,0.476190476
+946,341316,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.8,0.404494382
+948,341316,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.3,0.477272727
+949,341316,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+955,341317,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,20.3,0.650793651
+958,341317,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.9,0.386363636
+959,341317,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.2,0.22972973
+962,341318,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-44.3,0.043273754
+965,341318,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.4,0.507936508
+966,341318,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.5,0.370786517
+967,341318,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.3,0.333333333
+968,341318,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.5,0.522727273
+969,341318,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,14.5,0
+970,341318,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12,0.476190476
+972,341319,Hospital return days for heart failure patients,EDAC_30_HF,Average,-15.2,0.317027281
+975,341319,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,17.7,0.238095238
+976,341319,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22,0.539325843
+977,341319,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+978,341319,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.3,0.25
+979,341319,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.4,0.121621622
+980,341319,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,12.7,0.642857143
+982,341320,Hospital return days for heart failure patients,EDAC_30_HF,Average,-18.2,0.288805268
+985,341320,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.6,0.53968254
+986,341320,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.5,0.483146067
+988,341320,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16,0.636363636
+989,341320,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.9,0.459459459
+992,341322,Hospital return days for heart failure patients,EDAC_30_HF,Average,-8.6,0.37911571
+995,341322,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.1,0.46031746
+996,341322,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22.1,0.550561798
+997,341322,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,3.6,0.1
+998,341322,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15,0.409090909
+999,341322,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.3,0.243243243
+1002,341323,Hospital return days for heart failure patients,EDAC_30_HF,Average,-23,0.243650047
+1005,341323,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,21.9,0.904761905
+1006,341323,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21,0.426966292
+1008,341323,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,16.1,0.659090909
+1009,341323,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,17.3,0.378378378
+1012,341324,Hospital return days for heart failure patients,EDAC_30_HF,Fewer days than average,-34.8,0.132643462
+1015,341324,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.4,0.349206349
+1016,341324,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.2,0.449438202
+1017,341324,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.4,0.366666667
+1018,341324,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.5,0.522727273
+1019,341324,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16,0.202702703
+1022,341325,Hospital return days for heart failure patients,EDAC_30_HF,Average,-3.8,0.424270931
+1025,341325,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,21.4,0.825396825
+1026,341325,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.9,0.528089888
+1028,341325,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.6,0.318181818
+1029,341325,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,14.9,0.054054054
+1030,341325,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.6,0.380952381
+1032,341326,Hospital return days for heart failure patients,EDAC_30_HF,Average,-9.4,0.37158984
+1035,341326,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,17.9,0.26984127
+1036,341326,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20,0.314606742
+1037,341326,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.7,0.466666667
+1038,341326,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.5,0.295454545
+1039,341326,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,15.6,0.148648649
+1040,341326,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,11.2,0.285714286
+1042,341327,Hospital return days for heart failure patients,EDAC_30_HF,Average,-10.2,0.36406397
+1045,341327,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.7,0.555555556
+1046,341327,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,20.4,0.359550562
+1047,341327,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4.1,0.266666667
+1048,341327,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,14.7,0.340909091
+1049,341327,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.4,0.256756757
+1052,341328,Hospital return days for heart failure patients,EDAC_30_HF,Average,-2.5,0.43650047
+1055,341328,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,19.9,0.587301587
+1056,341328,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,22.7,0.617977528
+1057,341328,Rate of readmission after hip/knee replacement,READM_30_HIP_KNEE,No Different than the National Rate,4,0.233333333
+1058,341328,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,15.3,0.477272727
+1059,341328,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16,0.202702703
+1060,341328,Rate of readmission for stroke patients,READM_30_STK,No Different than the National Rate,13.1,0.738095238
+1062,341329,Hospital return days for heart failure patients,EDAC_30_HF,Average,9.6,0.550329257
+1065,341329,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,READM_30_COPD,No Different than the National Rate,18.3,0.333333333
+1066,341329,Heart failure (HF) 30-Day Readmission Rate,READM_30_HF,No Different than the National Rate,21.9,0.528089888
+1068,341329,Rate of readmission after discharge from hospital (hospital-wide),READM_30_HOSP_WIDE,No Different than the National Rate,13.7,0.113636364
+1069,341329,Pneumonia (PN) 30-Day Readmission Rate,READM_30_PN,No Different than the National Rate,16.2,0.22972973

@@ -106,37 +106,6 @@ class HospitalRankingAlgorithm:
 
 
 
-class MeasureInfo(models.Model):
-    id = models.IntegerField(primary_key=True)
-    measure_id = models.CharField(max_length=255, blank=True, null=True)
-    measure_name = models.CharField(max_length=255, blank=True, null=True)
-
-    def __str__(self):
-        return str(self.measure_id) + " - " + str(self.measure_name)
-
-    class Meta:
-        managed = False
-        db_table = 'Measure_info'
-
-
-class ComplicationsAndDeathsHospital(models.Model):
-    id = models.IntegerField(primary_key=True)
-    provider = models.ForeignKey('Hospital', models.DO_NOTHING)
-    measure_name = models.CharField(max_length=125)
-    measure_id = models.CharField(max_length=83)
-    compared_to_national = models.CharField(max_length=110)
-    denominator = models.IntegerField(blank=True, null=True)
-    score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
-    lower_estimate = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
-    higher_estimate = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
-    footnote = models.ForeignKey('Footnotes', models.DO_NOTHING, db_column='footnote')
-    measure_start_date = models.DateTimeField(blank=True, null=True)
-    measure_end_date = models.CharField(max_length=10)
-
-    class Meta:
-        managed = True
-        db_table = 'ComplicationsAndDeaths_Hospital'
-
 
 class Footnotes(models.Model):
     footnote = models.CharField(primary_key=True, max_length=6)
@@ -256,6 +225,18 @@ class PaymentAndValueOfCare_Hospital(models.Model):
         managed = False
         db_table = 'PaymentAndValueOfCare_Hospital'
 
+class Timely_And_Effective(models.Model):
+
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey(Hospital, models.DO_NOTHING)
+    measure_id = models.CharField(null=True, blank=True,max_length=243)
+    measure_name = models.CharField(null=True, blank=True,max_length=243)
+    score = models.IntegerField(default=0, null=True, blank=True)
+    sample = models.IntegerField(default=0, null=True, blank=True)
+
+    class Meta:
+        managed = True
+        db_table = 'Timely_And_Effective'
 
 class StructuralMeasures_Hospital(models.Model):
     id = models.IntegerField(primary_key=True)
@@ -270,3 +251,90 @@ class StructuralMeasures_Hospital(models.Model):
     class Meta:
         managed = True
         db_table = 'StructuralMeasures_Hospital'
+
+class MeasureInfo(models.Model):
+    id = models.IntegerField(primary_key=True)
+    measure_id = models.CharField(max_length=255, blank=True, null=True)
+    measure_name = models.CharField(max_length=255, blank=True, null=True)
+
+    def __str__(self):
+        return str(self.measure_id) + " - " + str(self.measure_name)
+
+    class Meta:
+        managed = False
+        db_table = 'Measure_info'
+
+
+class ComplicationsAndDeathsHospital(models.Model):
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey('Hospital', models.DO_NOTHING)
+    measure_name = models.CharField(max_length=125)
+    measure_id = models.CharField(max_length=83)
+    compared_to_national = models.CharField(max_length=110)
+    denominator = models.IntegerField(blank=True, null=True)
+    score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
+    lower_estimate = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
+    higher_estimate = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
+    footnote = models.ForeignKey('Footnotes', models.DO_NOTHING, db_column='footnote')
+    measure_start_date = models.DateTimeField(blank=True, null=True)
+    measure_end_date = models.CharField(max_length=10)
+
+    class Meta:
+        managed = True
+        db_table = 'ComplicationsAndDeaths_Hospital'
+
+
+class Normalized_Payment(models.Model):
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey(Hospital, models.DO_NOTHING)
+    payment_measure_name = models.CharField(max_length=243,blank=True, null=True)
+    payment_measure_id = models.CharField(max_length=221,blank=True, null=True)
+    payment_category = models.CharField(max_length=248,blank=True, null=True)
+    payment = models.CharField(max_length=143,blank=True, null=True)
+    n_score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)
+    value_of_care_display_name = models.CharField(max_length=244,blank=True, null=True)
+    value_of_care_display_id = models.CharField(max_length=226,blank=True, null=True)
+    value_of_care_category = models.CharField(max_length=245,blank=True, null=True)
+
+    class Meta:
+        managed = True
+        db_table = 'Normalized_Payment'
+
+
+class Normalized_Timely(models.Model):
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey(Hospital, models.DO_NOTHING)
+    measure_id = models.CharField(null=True, blank=True, max_length=243)
+    measure_name = models.CharField(null=True, blank=True, max_length=243)
+    score = models.IntegerField(default=0, null=True, blank=True)
+    n_score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)
+    sample = models.IntegerField(default=0, null=True, blank=True)
+
+    class Meta:
+        managed = True
+        db_table = 'Normalized_Timely'
+
+
+class Normalized_Returns(models.Model):
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey(Hospital, models.DO_NOTHING, blank=True, null=True)
+    measure_name = models.CharField(max_length=50, blank=True, null=True)
+    measure_id = models.CharField(max_length=231, blank=True, null=True)
+    compared_to_national = models.CharField(max_length=242, blank=True, null=True)
+    score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
+    n_score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)
+    class Meta:
+        managed = True
+        db_table = 'Normalized_Returns'
+
+class Normalized_Complications(models.Model):
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey('Hospital', models.DO_NOTHING)
+    measure_name = models.CharField(max_length=125)
+    measure_id = models.CharField(max_length=83)
+    compared_to_national = models.CharField(max_length=110)
+    score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
+    n_score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)
+    class Meta:
+        managed = True
+        db_table = 'Normalized_Complications'

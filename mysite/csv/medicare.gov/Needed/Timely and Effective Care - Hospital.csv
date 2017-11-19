@@ -1,0 +1,2356 @@
+id,Provider ID,Measure ID,Measure Name,Score,Sample
+,340001,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340002,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340004,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340010,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340014,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340021,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340028,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340030,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340032,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340040,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340042,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340047,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340050,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340053,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340069,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340070,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340090,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340091,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340098,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340113,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340115,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340130,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340131,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340141,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340147,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340155,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340166,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,340173,EDV,"Emergency department volume-Very High (60,000+ patients annually)",60000,-999
+,333301,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340001,OP_1,Median Time to Fibrinolysis,-999,-999
+,340001,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340001,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340001,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340002,OP_1,Median Time to Fibrinolysis,-999,-999
+,340002,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340002,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340002,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340002,OP_4,Aspirin at Arrival,-999,-999
+,340002,OP_5,Median Time to ECG,-999,-999
+,340003,OP_1,Median Time to Fibrinolysis,-999,-999
+,340003,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340003,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340003,STK_4,Thrombolytic Therapy,-999,-999
+,340003,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340003,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340004,OP_1,Median Time to Fibrinolysis,-999,-999
+,340004,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340004,OP_23,Head CT results,-999,-999
+,340004,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340004,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340004,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340008,OP_1,Median Time to Fibrinolysis,-999,-999
+,340008,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340008,OP_23,Head CT results,-999,-999
+,340008,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340008,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340008,STK_4,Thrombolytic Therapy,-999,-999
+,340008,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340008,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340010,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340010,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340010,STK_4,Thrombolytic Therapy,-999,-999
+,340013,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340013,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340013,STK_4,Thrombolytic Therapy,-999,-999
+,340013,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340013,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340014,OP_1,Median Time to Fibrinolysis,-999,-999
+,340014,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340014,OP_23,Head CT results,-999,-999
+,340014,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340014,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340015,OP_1,Median Time to Fibrinolysis,-999,-999
+,340015,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340015,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340015,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340015,STK_4,Thrombolytic Therapy,-999,-999
+,340016,OP_1,Median Time to Fibrinolysis,-999,-999
+,340016,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340016,OP_23,Head CT results,-999,-999
+,340016,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340016,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340016,STK_4,Thrombolytic Therapy,-999,-999
+,340016,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340016,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340017,OP_1,Median Time to Fibrinolysis,-999,-999
+,340017,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340017,OP_23,Head CT results,-999,-999
+,340017,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340017,STK_4,Thrombolytic Therapy,-999,-999
+,340017,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340020,OP_1,Median Time to Fibrinolysis,-999,-999
+,340020,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340020,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340020,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340020,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340020,STK_4,Thrombolytic Therapy,-999,-999
+,340020,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340020,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340021,OP_1,Median Time to Fibrinolysis,-999,-999
+,340021,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340021,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340021,STK_4,Thrombolytic Therapy,-999,-999
+,340021,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340023,OP_1,Median Time to Fibrinolysis,-999,-999
+,340023,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340023,OP_23,Head CT results,-999,-999
+,340023,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340023,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340023,STK_4,Thrombolytic Therapy,-999,-999
+,340023,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340023,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340024,OP_1,Median Time to Fibrinolysis,-999,-999
+,340024,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340024,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340024,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340024,STK_4,Thrombolytic Therapy,-999,-999
+,340024,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340024,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340027,OP_1,Median Time to Fibrinolysis,-999,-999
+,340027,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340027,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340027,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340027,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340027,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340027,STK_4,Thrombolytic Therapy,-999,-999
+,340028,OP_1,Median Time to Fibrinolysis,-999,-999
+,340028,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340028,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340028,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340028,OP_4,Aspirin at Arrival,-999,-999
+,340030,OP_1,Median Time to Fibrinolysis,-999,-999
+,340030,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340030,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340030,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340030,OP_4,Aspirin at Arrival,-999,-999
+,340030,OP_5,Median Time to ECG,-999,-999
+,340032,OP_1,Median Time to Fibrinolysis,-999,-999
+,340032,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340032,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340032,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340037,OP_1,Median Time to Fibrinolysis,-999,-999
+,340037,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340037,OP_23,Head CT results,-999,-999
+,340037,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340037,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340037,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340037,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340037,STK_4,Thrombolytic Therapy,-999,-999
+,340037,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340039,OP_1,Median Time to Fibrinolysis,-999,-999
+,340039,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340039,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340039,STK_4,Thrombolytic Therapy,-999,-999
+,340040,OP_1,Median Time to Fibrinolysis,-999,-999
+,340040,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340040,OP_23,Head CT results,-999,-999
+,340040,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340040,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340040,OP_4,Aspirin at Arrival,-999,-999
+,340040,OP_5,Median Time to ECG,-999,-999
+,340041,OP_1,Median Time to Fibrinolysis,-999,-999
+,340041,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340041,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340041,STK_4,Thrombolytic Therapy,-999,-999
+,340041,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340042,OP_1,Median Time to Fibrinolysis,-999,-999
+,340042,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340042,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340042,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340042,STK_4,Thrombolytic Therapy,-999,-999
+,340042,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340047,OP_1,Median Time to Fibrinolysis,-999,-999
+,340047,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340047,OP_23,Head CT results,-999,-999
+,340047,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340047,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340047,OP_4,Aspirin at Arrival,-999,-999
+,340047,OP_5,Median Time to ECG,-999,-999
+,340047,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340049,ED_1b,ED1,-999,-999
+,340049,ED_2b,ED2,-999,-999
+,340049,EDV,Emergency department volume,-999,
+,340049,OP_1,Median Time to Fibrinolysis,-999,-999
+,340049,OP_18b,OP 18,-999,-999
+,340049,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340049,OP_20,Door to diagnostic eval,-999,-999
+,340049,OP_21,Median time to pain med,-999,-999
+,340049,OP_22,Left before being seen,-999,-999
+,340049,OP_23,Head CT results,-999,-999
+,340049,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340049,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340049,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340049,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340049,OP_4,Aspirin at Arrival,-999,-999
+,340049,OP_5,Median Time to ECG,-999,-999
+,340049,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340049,STK_4,Thrombolytic Therapy,-999,-999
+,340049,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340049,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340050,OP_1,Median Time to Fibrinolysis,-999,-999
+,340050,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340050,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340050,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340051,OP_1,Median Time to Fibrinolysis,-999,-999
+,340051,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340051,OP_23,Head CT results,-999,-999
+,340051,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340051,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340051,STK_4,Thrombolytic Therapy,-999,-999
+,340051,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340053,OP_1,Median Time to Fibrinolysis,-999,-999
+,340053,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340053,OP_23,Head CT results,-999,-999
+,340053,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340053,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340053,OP_4,Aspirin at Arrival,-999,-999
+,340053,OP_5,Median Time to ECG,-999,-999
+,340060,OP_1,Median Time to Fibrinolysis,-999,-999
+,340060,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340060,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340060,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340060,STK_4,Thrombolytic Therapy,-999,-999
+,340060,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340060,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340061,OP_1,Median Time to Fibrinolysis,-999,-999
+,340061,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340061,OP_23,Head CT results,-999,-999
+,340061,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340061,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340061,OP_4,Aspirin at Arrival,-999,-999
+,340061,OP_5,Median Time to ECG,-999,-999
+,340064,OP_1,Median Time to Fibrinolysis,-999,-999
+,340064,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340064,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340064,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340064,STK_4,Thrombolytic Therapy,-999,-999
+,340064,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340064,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340068,OP_1,Median Time to Fibrinolysis,-999,-999
+,340068,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340068,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340068,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340068,STK_4,Thrombolytic Therapy,-999,-999
+,340068,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340068,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340069,OP_1,Median Time to Fibrinolysis,-999,-999
+,340069,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340069,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340069,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340070,OP_1,Median Time to Fibrinolysis,-999,-999
+,340070,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340070,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340070,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340070,STK_4,Thrombolytic Therapy,-999,-999
+,340070,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340071,OP_1,Median Time to Fibrinolysis,-999,-999
+,340071,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340071,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340071,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340071,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340071,STK_4,Thrombolytic Therapy,-999,-999
+,340071,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340073,OP_1,Median Time to Fibrinolysis,-999,-999
+,340073,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340073,OP_23,Head CT results,-999,-999
+,340073,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340073,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340073,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340073,STK_4,Thrombolytic Therapy,-999,-999
+,340075,OP_1,Median Time to Fibrinolysis,-999,-999
+,340075,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340075,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340075,STK_4,Thrombolytic Therapy,-999,-999
+,340075,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340084,OP_1,Median Time to Fibrinolysis,-999,-999
+,340084,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340084,OP_23,Head CT results,-999,-999
+,340084,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340084,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340084,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340084,STK_4,Thrombolytic Therapy,-999,-999
+,340084,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340084,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340085,OP_1,Median Time to Fibrinolysis,-999,-999
+,340085,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340085,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340085,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340085,STK_4,Thrombolytic Therapy,-999,-999
+,340085,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340085,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340087,OP_1,Median Time to Fibrinolysis,-999,-999
+,340087,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340087,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340087,STK_4,Thrombolytic Therapy,-999,-999
+,340087,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340087,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340090,OP_1,Median Time to Fibrinolysis,-999,-999
+,340090,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340090,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340090,STK_4,Thrombolytic Therapy,-999,-999
+,340090,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340091,OP_1,Median Time to Fibrinolysis,-999,-999
+,340091,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340091,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340091,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340096,OP_1,Median Time to Fibrinolysis,-999,-999
+,340096,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340096,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340096,STK_4,Thrombolytic Therapy,-999,-999
+,340096,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340096,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340097,OP_1,Median Time to Fibrinolysis,-999,-999
+,340097,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340097,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340097,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340097,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340098,OP_1,Median Time to Fibrinolysis,-999,-999
+,340098,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340098,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340098,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340098,STK_4,Thrombolytic Therapy,-999,-999
+,340099,OP_1,Median Time to Fibrinolysis,-999,-999
+,340099,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340099,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340099,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340099,STK_4,Thrombolytic Therapy,-999,-999
+,340099,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340106,OP_1,Median Time to Fibrinolysis,-999,-999
+,340106,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340106,OP_23,Head CT results,-999,-999
+,340106,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340106,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340106,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340106,STK_4,Thrombolytic Therapy,-999,-999
+,340106,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340106,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340107,OP_23,Head CT results,-999,-999
+,340107,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340107,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340107,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340107,STK_4,Thrombolytic Therapy,-999,-999
+,340107,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340109,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340109,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340109,STK_4,Thrombolytic Therapy,-999,-999
+,340109,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340113,OP_1,Median Time to Fibrinolysis,-999,-999
+,340113,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340113,OP_23,Head CT results,-999,-999
+,340113,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340113,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340114,OP_1,Median Time to Fibrinolysis,-999,-999
+,340114,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340114,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340114,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340114,OP_4,Aspirin at Arrival,-999,-999
+,340114,OP_5,Median Time to ECG,-999,-999
+,340115,OP_1,Median Time to Fibrinolysis,-999,-999
+,340115,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340115,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340115,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340116,OP_1,Median Time to Fibrinolysis,-999,-999
+,340116,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340116,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340116,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340116,OP_4,Aspirin at Arrival,-999,-999
+,340116,OP_5,Median Time to ECG,-999,-999
+,340119,OP_1,Median Time to Fibrinolysis,-999,-999
+,340119,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340119,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340119,STK_4,Thrombolytic Therapy,-999,-999
+,340119,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340120,OP_1,Median Time to Fibrinolysis,-999,-999
+,340120,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340120,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340120,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340120,STK_4,Thrombolytic Therapy,-999,-999
+,340120,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340120,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340123,OP_1,Median Time to Fibrinolysis,-999,-999
+,340123,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340123,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340123,STK_4,Thrombolytic Therapy,-999,-999
+,340123,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340126,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340126,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340126,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340127,OP_1,Median Time to Fibrinolysis,-999,-999
+,340127,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340127,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340127,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340127,STK_4,Thrombolytic Therapy,-999,-999
+,340127,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340127,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340129,OP_1,Median Time to Fibrinolysis,-999,-999
+,340129,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340129,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340129,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340129,STK_4,Thrombolytic Therapy,-999,-999
+,340129,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340130,OP_1,Median Time to Fibrinolysis,-999,-999
+,340130,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340130,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340130,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340130,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340131,OP_1,Median Time to Fibrinolysis,-999,-999
+,340131,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340131,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340131,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340131,OP_4,Aspirin at Arrival,-999,-999
+,340131,OP_5,Median Time to ECG,-999,-999
+,340131,STK_4,Thrombolytic Therapy,-999,-999
+,340132,OP_1,Median Time to Fibrinolysis,-999,-999
+,340132,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340132,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340132,STK_4,Thrombolytic Therapy,-999,-999
+,340132,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340133,OP_1,Median Time to Fibrinolysis,-999,-999
+,340133,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340133,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340133,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340133,STK_4,Thrombolytic Therapy,-999,-999
+,340133,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340133,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340141,OP_1,Median Time to Fibrinolysis,-999,-999
+,340141,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340141,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340141,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340141,OP_4,Aspirin at Arrival,-999,-999
+,340141,OP_5,Median Time to ECG,-999,-999
+,340142,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340142,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340142,STK_4,Thrombolytic Therapy,-999,-999
+,340143,OP_1,Median Time to Fibrinolysis,-999,-999
+,340143,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340143,OP_23,Head CT results,-999,-999
+,340143,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340143,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340143,STK_4,Thrombolytic Therapy,-999,-999
+,340143,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340144,OP_1,Median Time to Fibrinolysis,-999,-999
+,340144,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340144,OP_23,Head CT results,-999,-999
+,340144,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340144,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340144,STK_4,Thrombolytic Therapy,-999,-999
+,340144,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340144,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340145,OP_1,Median Time to Fibrinolysis,-999,-999
+,340145,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340145,OP_23,Head CT results,-999,-999
+,340145,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340145,STK_4,Thrombolytic Therapy,-999,-999
+,340145,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340145,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340147,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340147,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340148,ED_1b,ED1,-999,-999
+,340148,ED_2b,ED2,-999,-999
+,340148,EDV,Emergency department volume,-999,
+,340148,OP_1,Median Time to Fibrinolysis,-999,-999
+,340148,OP_18b,OP 18,-999,-999
+,340148,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340148,OP_20,Door to diagnostic eval,-999,-999
+,340148,OP_21,Median time to pain med,-999,-999
+,340148,OP_22,Left before being seen,-999,-999
+,340148,OP_23,Head CT results,-999,-999
+,340148,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340148,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340148,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340148,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340148,OP_4,Aspirin at Arrival,-999,-999
+,340148,OP_5,Median Time to ECG,-999,-999
+,340148,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340148,STK_4,Thrombolytic Therapy,-999,-999
+,340148,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340148,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340151,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340151,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340151,STK_4,Thrombolytic Therapy,-999,-999
+,340155,OP_1,Median Time to Fibrinolysis,-999,-999
+,340155,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340155,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340155,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340156,EDV,Emergency department volume,-999,
+,340156,OP_1,Median Time to Fibrinolysis,-999,-999
+,340156,OP_18b,OP 18,-999,-999
+,340156,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340156,OP_20,Door to diagnostic eval,-999,-999
+,340156,OP_21,Median time to pain med,-999,-999
+,340156,OP_22,Left before being seen,-999,-999
+,340156,OP_23,Head CT results,-999,-999
+,340156,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340156,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340156,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340156,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340156,OP_4,Aspirin at Arrival,-999,-999
+,340156,OP_5,Median Time to ECG,-999,-999
+,340156,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340156,STK_4,Thrombolytic Therapy,-999,-999
+,340156,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340156,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340158,OP_1,Median Time to Fibrinolysis,-999,-999
+,340158,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340158,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340158,STK_4,Thrombolytic Therapy,-999,-999
+,340158,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340158,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340159,OP_1,Median Time to Fibrinolysis,-999,-999
+,340159,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340159,OP_23,Head CT results,-999,-999
+,340159,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340159,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340159,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340159,STK_4,Thrombolytic Therapy,-999,-999
+,340159,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340159,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340166,OP_1,Median Time to Fibrinolysis,-999,-999
+,340166,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340166,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340166,STK_4,Thrombolytic Therapy,-999,-999
+,340166,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340168,ED_1b,ED1,-999,-999
+,340168,ED_2b,ED2,-999,-999
+,340168,EDV,Emergency department volume,-999,
+,340168,IMM_2,Immunization for influenza,-999,-999
+,340168,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,340168,OP_1,Median Time to Fibrinolysis,-999,-999
+,340168,OP_18b,OP 18,-999,-999
+,340168,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340168,OP_20,Door to diagnostic eval,-999,-999
+,340168,OP_21,Median time to pain med,-999,-999
+,340168,OP_22,Left before being seen,-999,-999
+,340168,OP_23,Head CT results,-999,-999
+,340168,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340168,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340168,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340168,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340168,OP_4,Aspirin at Arrival,-999,-999
+,340168,OP_5,Median Time to ECG,-999,-999
+,340168,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340168,STK_4,Thrombolytic Therapy,-999,-999
+,340168,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340168,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340171,OP_1,Median Time to Fibrinolysis,-999,-999
+,340171,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340171,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340171,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340171,STK_4,Thrombolytic Therapy,-999,-999
+,340171,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340173,OP_1,Median Time to Fibrinolysis,-999,-999
+,340173,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340173,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340173,STK_4,Thrombolytic Therapy,-999,-999
+,340183,OP_1,Median Time to Fibrinolysis,-999,-999
+,340183,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340183,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340183,STK_4,Thrombolytic Therapy,-999,-999
+,340184,OP_1,Median Time to Fibrinolysis,-999,-999
+,340184,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340184,OP_23,Head CT results,-999,-999
+,340184,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340184,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340184,STK_4,Thrombolytic Therapy,-999,-999
+,340184,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340186,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340186,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340186,STK_4,Thrombolytic Therapy,-999,-999
+,340186,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340186,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340187,ED_1b,ED1,-999,-999
+,340187,ED_2b,ED2,-999,-999
+,340187,IMM_2,Immunization for influenza,-999,-999
+,340187,OP_1,Median Time to Fibrinolysis,-999,-999
+,340187,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340187,OP_23,Head CT results,-999,-999
+,340187,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340187,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340187,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340187,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340187,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340187,STK_4,Thrombolytic Therapy,-999,-999
+,340187,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340187,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340188,EDV,Emergency department volume,-999,
+,340188,OP_1,Median Time to Fibrinolysis,-999,-999
+,340188,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340188,OP_22,Left before being seen,-999,-999
+,340188,OP_23,Head CT results,-999,-999
+,340188,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340188,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340188,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340188,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340188,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340188,STK_4,Thrombolytic Therapy,-999,-999
+,340188,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340188,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340189,ED_1b,ED1,-999,-999
+,340189,ED_2b,ED2,-999,-999
+,340189,EDV,Emergency department volume,-999,
+,340189,IMM_2,Immunization for influenza,-999,-999
+,340189,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,340189,OP_1,Median Time to Fibrinolysis,-999,-999
+,340189,OP_18b,OP 18,-999,-999
+,340189,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,340189,OP_20,Door to diagnostic eval,-999,-999
+,340189,OP_21,Median time to pain med,-999,-999
+,340189,OP_22,Left before being seen,-999,-999
+,340189,OP_23,Head CT results,-999,-999
+,340189,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,340189,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,340189,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,340189,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,340189,OP_4,Aspirin at Arrival,-999,-999
+,340189,OP_5,Median Time to ECG,-999,-999
+,340189,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,340189,STK_4,Thrombolytic Therapy,-999,-999
+,340189,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,340189,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341302,ED_1b,ED1,-999,-999
+,341302,ED_2b,ED2,-999,-999
+,341302,EDV,Emergency department volume,-999,
+,341302,IMM_2,Immunization for influenza,-999,-999
+,341302,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,341302,OP_1,Median Time to Fibrinolysis,-999,-999
+,341302,OP_18b,OP 18,-999,-999
+,341302,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341302,OP_20,Door to diagnostic eval,-999,-999
+,341302,OP_21,Median time to pain med,-999,-999
+,341302,OP_22,Left before being seen,-999,-999
+,341302,OP_23,Head CT results,-999,-999
+,341302,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341302,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341302,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341302,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341302,OP_4,Aspirin at Arrival,-999,-999
+,341302,OP_5,Median Time to ECG,-999,-999
+,341302,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341302,STK_4,Thrombolytic Therapy,-999,-999
+,341302,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341302,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341303,EDV,Emergency department volume,-999,
+,341303,OP_1,Median Time to Fibrinolysis,-999,-999
+,341303,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341303,OP_22,Left before being seen,-999,-999
+,341303,OP_23,Head CT results,-999,-999
+,341303,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341303,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341303,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341303,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341303,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341303,STK_4,Thrombolytic Therapy,-999,-999
+,341303,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341303,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341304,OP_1,Median Time to Fibrinolysis,-999,-999
+,341304,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341304,OP_23,Head CT results,-999,-999
+,341304,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341304,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341304,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341304,STK_4,Thrombolytic Therapy,-999,-999
+,341304,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341304,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341305,EDV,Emergency department volume,-999,
+,341305,OP_1,Median Time to Fibrinolysis,-999,-999
+,341305,OP_18b,OP 18,-999,-999
+,341305,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341305,OP_20,Door to diagnostic eval,-999,-999
+,341305,OP_21,Median time to pain med,-999,-999
+,341305,OP_22,Left before being seen,-999,-999
+,341305,OP_23,Head CT results,-999,-999
+,341305,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341305,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341305,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341305,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341305,OP_4,Aspirin at Arrival,-999,-999
+,341305,OP_5,Median Time to ECG,-999,-999
+,341305,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341305,STK_4,Thrombolytic Therapy,-999,-999
+,341305,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341305,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341307,EDV,Emergency department volume,-999,
+,341307,IMM_2,Immunization for influenza,-999,-999
+,341307,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,341307,OP_1,Median Time to Fibrinolysis,-999,-999
+,341307,OP_18b,OP 18,-999,-999
+,341307,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341307,OP_20,Door to diagnostic eval,-999,-999
+,341307,OP_21,Median time to pain med,-999,-999
+,341307,OP_22,Left before being seen,-999,-999
+,341307,OP_23,Head CT results,-999,-999
+,341307,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341307,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341307,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341307,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341307,OP_4,Aspirin at Arrival,-999,-999
+,341307,OP_5,Median Time to ECG,-999,-999
+,341307,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341307,STK_4,Thrombolytic Therapy,-999,-999
+,341307,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341307,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341311,EDV,Emergency department volume,-999,
+,341311,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,341311,OP_1,Median Time to Fibrinolysis,-999,-999
+,341311,OP_18b,OP 18,-999,-999
+,341311,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341311,OP_20,Door to diagnostic eval,-999,-999
+,341311,OP_21,Median time to pain med,-999,-999
+,341311,OP_22,Left before being seen,-999,-999
+,341311,OP_23,Head CT results,-999,-999
+,341311,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341311,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341311,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341311,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341311,OP_4,Aspirin at Arrival,-999,-999
+,341311,OP_5,Median Time to ECG,-999,-999
+,341311,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341311,STK_4,Thrombolytic Therapy,-999,-999
+,341311,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341311,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341314,ED_1b,ED1,-999,-999
+,341314,ED_2b,ED2,-999,-999
+,341314,EDV,Emergency department volume,-999,
+,341314,IMM_2,Immunization for influenza,-999,-999
+,341314,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,341314,OP_1,Median Time to Fibrinolysis,-999,-999
+,341314,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341314,OP_21,Median time to pain med,-999,-999
+,341314,OP_22,Left before being seen,-999,-999
+,341314,OP_23,Head CT results,-999,-999
+,341314,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341314,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341314,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341314,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341314,OP_4,Aspirin at Arrival,-999,-999
+,341314,OP_5,Median Time to ECG,-999,-999
+,341314,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341314,STK_4,Thrombolytic Therapy,-999,-999
+,341314,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341314,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341315,EDV,Emergency department volume,-999,
+,341315,OP_1,Median Time to Fibrinolysis,-999,-999
+,341315,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341315,OP_22,Left before being seen,-999,-999
+,341315,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341315,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341315,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341315,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341315,STK_4,Thrombolytic Therapy,-999,-999
+,341315,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341315,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341316,EDV,Emergency department volume,-999,
+,341316,OP_1,Median Time to Fibrinolysis,-999,-999
+,341316,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341316,OP_22,Left before being seen,-999,-999
+,341316,OP_23,Head CT results,-999,-999
+,341316,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341316,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341316,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341316,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341316,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341316,STK_4,Thrombolytic Therapy,-999,-999
+,341316,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341316,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341317,ED_1b,ED1,-999,-999
+,341317,ED_2b,ED2,-999,-999
+,341317,EDV,Emergency department volume,-999,
+,341317,OP_1,Median Time to Fibrinolysis,-999,-999
+,341317,OP_18b,OP 18,-999,-999
+,341317,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341317,OP_20,Door to diagnostic eval,-999,-999
+,341317,OP_21,Median time to pain med,-999,-999
+,341317,OP_22,Left before being seen,-999,-999
+,341317,OP_23,Head CT results,-999,-999
+,341317,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341317,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341317,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341317,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341317,OP_4,Aspirin at Arrival,-999,-999
+,341317,OP_5,Median Time to ECG,-999,-999
+,341317,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341317,STK_4,Thrombolytic Therapy,-999,-999
+,341317,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341317,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341318,OP_1,Median Time to Fibrinolysis,-999,-999
+,341318,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341318,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341318,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341318,STK_4,Thrombolytic Therapy,-999,-999
+,341318,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341318,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341319,OP_1,Median Time to Fibrinolysis,-999,-999
+,341319,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341319,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341319,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341319,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341319,STK_4,Thrombolytic Therapy,-999,-999
+,341319,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341320,EDV,Emergency department volume,-999,
+,341320,IMM_2,Immunization for influenza,-999,-999
+,341320,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,341320,OP_1,Median Time to Fibrinolysis,-999,-999
+,341320,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341320,OP_22,Left before being seen,-999,-999
+,341320,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341320,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341320,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341320,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341320,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341320,STK_4,Thrombolytic Therapy,-999,-999
+,341320,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341320,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341322,EDV,Emergency department volume,-999,
+,341322,OP_1,Median Time to Fibrinolysis,-999,-999
+,341322,OP_18b,OP 18,-999,-999
+,341322,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341322,OP_20,Door to diagnostic eval,-999,-999
+,341322,OP_21,Median time to pain med,-999,-999
+,341322,OP_22,Left before being seen,-999,-999
+,341322,OP_23,Head CT results,-999,-999
+,341322,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341322,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341322,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341322,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341322,OP_4,Aspirin at Arrival,-999,-999
+,341322,OP_5,Median Time to ECG,-999,-999
+,341322,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341322,STK_4,Thrombolytic Therapy,-999,-999
+,341322,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341322,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341323,ED_1b,ED1,-999,-999
+,341323,ED_2b,ED2,-999,-999
+,341323,EDV,Emergency department volume,-999,
+,341323,OP_1,Median Time to Fibrinolysis,-999,-999
+,341323,OP_18b,OP 18,-999,-999
+,341323,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341323,OP_20,Door to diagnostic eval,-999,-999
+,341323,OP_21,Median time to pain med,-999,-999
+,341323,OP_22,Left before being seen,-999,-999
+,341323,OP_23,Head CT results,-999,-999
+,341323,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341323,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341323,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341323,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341323,OP_4,Aspirin at Arrival,-999,-999
+,341323,OP_5,Median Time to ECG,-999,-999
+,341323,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341323,STK_4,Thrombolytic Therapy,-999,-999
+,341323,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341323,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341324,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341324,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341324,STK_4,Thrombolytic Therapy,-999,-999
+,341324,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341324,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341325,EDV,Emergency department volume,-999,
+,341325,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,341325,OP_21,Median time to pain med,-999,-999
+,341325,OP_22,Left before being seen,-999,-999
+,341325,OP_23,Head CT results,-999,-999
+,341325,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341325,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341325,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341325,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341325,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341325,STK_4,Thrombolytic Therapy,-999,-999
+,341325,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341325,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341326,OP_1,Median Time to Fibrinolysis,-999,-999
+,341326,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341326,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341326,STK_4,Thrombolytic Therapy,-999,-999
+,341326,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341326,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341327,EDV,Emergency department volume,-999,
+,341327,IMM_2,Immunization for influenza,-999,-999
+,341327,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,-999,-999
+,341327,OP_1,Median Time to Fibrinolysis,-999,-999
+,341327,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341327,OP_22,Left before being seen,-999,-999
+,341327,OP_23,Head CT results,-999,-999
+,341327,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,-999,-999
+,341327,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,-999,-999
+,341327,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341327,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341327,STK_4,Thrombolytic Therapy,-999,-999
+,341327,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341327,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341328,OP_1,Median Time to Fibrinolysis,-999,-999
+,341328,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341328,OP_23,Head CT results,-999,-999
+,341328,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341328,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341328,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",-999,-999
+,341328,STK_4,Thrombolytic Therapy,-999,-999
+,341328,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341328,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,341329,OP_1,Median Time to Fibrinolysis,-999,-999
+,341329,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,-999,-999
+,341329,OP_23,Head CT results,-999,-999
+,341329,OP_31,Improvement in Patient???s Visual Function within 90 Days Following Cataract Surgery,-999,-999
+,341329,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,-999,-999
+,341329,STK_4,Thrombolytic Therapy,-999,-999
+,341329,VTE_5,Warfarin therapy discharge instructions,-999,-999
+,341329,VTE_6,Hospital acquired potentially preventable venous thromboembolism,-999,-999
+,340003,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340013,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340017,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340020,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340023,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340024,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340037,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340041,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340051,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340060,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340064,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340068,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340085,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340087,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340096,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340097,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340099,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340107,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340119,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340120,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340127,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340129,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340132,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340144,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340158,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340159,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340183,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340184,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340186,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,341324,EDV,Emergency department volume,"Medium (20,000 - 39,999 patients annually)",
+,340016,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,340084,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,340106,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,340133,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,340187,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,341304,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,341318,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,341319,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,341326,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,341328,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,341329,EDV,Emergency department volume,"Low (0 - 19,999 patients annually)",
+,340008,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340015,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340027,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340039,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340061,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340071,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340073,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340075,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340109,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340114,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340116,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340123,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340126,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340142,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340143,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340145,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340151,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340171,EDV,Emergency department volume,"High (40,000 - 59,999 patients annually)",
+,340042,ED_1b,ED1,492,1028
+,340028,ED_1b,ED1,464,732
+,340040,ED_1b,ED1,426,360
+,340126,ED_1b,ED1,411,799
+,340030,ED_1b,ED1,406,402
+,340147,ED_1b,ED1,404,763
+,340061,ED_1b,ED1,397,427
+,341324,ED_1b,ED1,394,219
+,340155,ED_1b,ED1,384,515
+,341315,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,384,14
+,340050,ED_1b,ED1,375,784
+,340132,ED_1b,ED1,373,808
+,340004,ED_1b,ED1,364,674
+,340073,ED_1b,ED1,358,488
+,340002,ED_1b,ED1,355,475
+,340069,ED_1b,ED1,351,473
+,340041,ED_1b,ED1,350,699
+,340131,ED_1b,ED1,350,665
+,340114,ED_1b,ED1,345,460
+,340071,ED_1b,ED1,342,1038
+,340085,ED_1b,ED1,340,532
+,340008,ED_1b,ED1,338,744
+,340047,ED_1b,ED1,335,782
+,340084,ED_1b,ED1,335,66
+,340173,ED_1b,ED1,328,499
+,340091,ED_1b,ED1,318,700
+,340119,ED_1b,ED1,318,475
+,340090,ED_1b,ED1,313,620
+,341318,ED_1b,ED1,312,274
+,340032,ED_1b,ED1,310,835
+,340014,ED_1b,ED1,308,1090
+,340115,ED_1b,ED1,306,926
+,340171,ED_1b,ED1,306,672
+,340113,ED_1b,ED1,304,315
+,340107,ED_1b,ED1,302,501
+,340001,ED_1b,ED1,301,411
+,340142,ED_1b,ED1,301,737
+,340184,ED_1b,ED1,300,771
+,340106,ED_1b,ED1,298,345
+,340024,ED_1b,ED1,297,458
+,341315,ED_1b,ED1,294,382
+,340109,ED_1b,ED1,293,759
+,340127,ED_1b,ED1,293,717
+,341311,ED_1b,ED1,293,498
+,340060,ED_1b,ED1,292,413
+,340130,ED_1b,ED1,291,451
+,340133,ED_1b,ED1,290,446
+,340141,ED_1b,ED1,289,413
+,340116,ED_1b,ED1,288,867
+,340166,ED_1b,ED1,287,424
+,340120,ED_1b,ED1,282,298
+,340068,ED_1b,ED1,281,512
+,340003,ED_1b,ED1,280,597
+,340017,ED_1b,ED1,278,854
+,340070,ED_1b,ED1,277,835
+,340188,ED_1b,ED1,276,468
+,340030,OP_18b,OP 18,275,355
+,340151,ED_1b,ED1,272,981
+,341328,ED_1b,ED1,272,734
+,340015,ED_1b,ED1,271,979
+,340097,ED_1b,ED1,271,727
+,340075,ED_1b,ED1,267,439
+,340144,ED_1b,ED1,267,405
+,340020,ED_1b,ED1,266,766
+,340131,OP_18b,OP 18,265,547
+,340027,ED_1b,ED1,264,868
+,340186,ED_1b,ED1,264,372
+,341326,ED_1b,ED1,263,329
+,340010,ED_1b,ED1,262,648
+,340023,ED_1b,ED1,262,316
+,340099,ED_1b,ED1,262,432
+,340158,ED_1b,ED1,262,713
+,340053,ED_1b,ED1,261,544
+,340013,ED_1b,ED1,258,542
+,340096,ED_1b,ED1,250,412
+,340061,ED_2b,ED2,249,427
+,340143,ED_1b,ED1,249,566
+,340087,ED_1b,ED1,248,464
+,340098,ED_1b,ED1,246,454
+,340039,ED_1b,ED1,243,785
+,341327,ED_1b,ED1,241,373
+,340051,ED_1b,ED1,240,448
+,340129,ED_1b,ED1,237,570
+,340183,ED_1b,ED1,237,629
+,340123,ED_1b,ED1,234,805
+,340159,ED_1b,ED1,232,527
+,340114,ED_2b,ED2,231,457
+,341316,ED_1b,ED1,231,101
+,340021,ED_1b,ED1,230,533
+,340145,ED_1b,ED1,229,494
+,340042,ED_2b,ED2,228,1028
+,340064,ED_1b,ED1,228,503
+,340126,ED_2b,ED2,228,798
+,340156,ED_1b,ED1,228,256
+,341322,ED_1b,ED1,226,391
+,340016,ED_1b,ED1,224,486
+,340040,ED_2b,ED2,223,358
+,341307,ED_1b,ED1,223,467
+,340002,OP_18b,OP 18,221,366
+,340028,ED_2b,ED2,221,732
+,341325,ED_1b,ED1,221,442
+,340037,ED_1b,ED1,214,377
+,341304,ED_1b,ED1,214,210
+,341329,ED_1b,ED1,212,381
+,340050,OP_18b,OP 18,208,347
+,340042,OP_18b,OP 18,207,1675
+,340171,OP_18b,OP 18,206,429
+,341303,ED_1b,ED1,206,226
+,340142,OP_18b,OP 18,205,376
+,341305,ED_1b,ED1,204,267
+,340040,OP_18b,OP 18,201,389
+,340061,OP_18b,OP 18,200,359
+,341319,ED_1b,ED1,200,561
+,340132,OP_18b,OP 18,193,380
+,340041,ED_2b,ED2,192,692
+,340113,OP_18b,OP 18,192,380
+,340073,ED_2b,ED2,190,485
+,340114,OP_18b,OP 18,190,372
+,340147,ED_2b,ED2,188,760
+,340107,OP_18b,OP 18,186,376
+,341320,ED_1b,ED1,183,382
+,340116,OP_18b,OP 18,182,460
+,340001,OP_18b,OP 18,180,406
+,340047,OP_18b,OP 18,180,565
+,340098,OP_18b,OP 18,180,406
+,340155,ED_2b,ED2,180,512
+,340070,OP_18b,OP 18,178,461
+,340173,OP_18b,OP 18,177,439
+,340147,OP_18b,OP 18,174,726
+,340155,OP_18b,OP 18,174,370
+,340091,OP_18b,OP 18,173,467
+,340119,OP_18b,OP 18,173,377
+,340017,OP_18b,OP 18,172,362
+,340028,OP_18b,OP 18,172,357
+,340085,OP_18b,OP 18,172,450
+,340123,OP_18b,OP 18,172,380
+,340183,OP_18b,OP 18,172,459
+,340008,ED_2b,ED2,171,743
+,340053,OP_18b,OP 18,168,455
+,340069,OP_18b,OP 18,168,436
+,340151,OP_18b,OP 18,168,1106
+,340186,OP_18b,OP 18,168,372
+,340071,ED_2b,ED2,167,1034
+,340014,OP_18b,OP 18,166,1352
+,340188,OP_18b,OP 18,166,311
+,341315,OP_18b,OP 18,166,342
+,341324,OP_18b,OP 18,166,363
+,340127,OP_18b,OP 18,165,568
+,340039,OP_18b,OP 18,164,389
+,340166,OP_18b,OP 18,164,424
+,340003,OP_18b,OP 18,160,466
+,340004,OP_18b,OP 18,160,349
+,340032,OP_18b,OP 18,160,351
+,340050,ED_2b,ED2,160,780
+,340090,OP_18b,OP 18,160,371
+,340120,ED_2b,ED2,159,298
+,340023,OP_18b,OP 18,158,418
+,340126,OP_18b,OP 18,158,383
+,340141,OP_18b,OP 18,158,383
+,340087,OP_18b,OP 18,157,357
+,340051,OP_18b,OP 18,156,348
+,340068,OP_18b,OP 18,156,368
+,340013,OP_18b,OP 18,154,418
+,340145,OP_18b,OP 18,154,415
+,340173,ED_2b,ED2,154,499
+,341327,OP_18b,OP 18,154,284
+,340084,OP_18b,OP 18,152,365
+,340096,OP_18b,OP 18,152,354
+,340097,OP_18b,OP 18,152,1394
+,340184,OP_18b,OP 18,152,416
+,340141,ED_2b,ED2,151,413
+,340015,OP_18b,OP 18,150,449
+,340143,OP_18b,OP 18,150,484
+,341328,OP_18b,OP 18,150,942
+,341318,OP_18b,OP 18,146,368
+,340020,OP_18b,OP 18,145,434
+,340002,ED_2b,ED2,144,474
+,340132,ED_2b,ED2,144,806
+,340184,ED_2b,ED2,143,771
+,340115,OP_18b,OP 18,142,417
+,340133,OP_18b,OP 18,142,386
+,340008,OP_18b,OP 18,140,379
+,340024,OP_18b,OP 18,140,427
+,340027,OP_18b,OP 18,140,586
+,340060,OP_18b,OP 18,139,397
+,340069,ED_2b,ED2,139,473
+,340130,OP_18b,OP 18,139,412
+,341325,OP_18b,OP 18,139,370
+,340010,OP_18b,OP 18,138,405
+,340041,OP_18b,OP 18,137,359
+,340064,OP_18b,OP 18,137,353
+,340158,OP_18b,OP 18,137,448
+,340071,OP_18b,OP 18,136,550
+,341326,OP_18b,OP 18,135,376
+,340073,OP_18b,OP 18,134,368
+,340075,OP_18b,OP 18,134,414
+,340144,OP_18b,OP 18,134,389
+,340115,ED_2b,ED2,130,922
+,341319,OP_18b,OP 18,130,374
+,340099,OP_18b,OP 18,128,376
+,340109,OP_18b,OP 18,128,2766
+,341316,OP_18b,OP 18,124,200
+,340016,OP_18b,OP 18,122,399
+,340129,OP_18b,OP 18,122,396
+,340032,ED_2b,ED2,121,830
+,340060,ED_2b,ED2,120,413
+,340116,ED_2b,ED2,120,866
+,340020,ED_2b,ED2,118,766
+,340004,ED_2b,ED2,117,674
+,340021,OP_18b,OP 18,115,422
+,340068,ED_2b,ED2,115,494
+,340106,OP_18b,OP 18,115,379
+,340097,ED_2b,ED2,114,727
+,341329,OP_18b,OP 18,113,375
+,340091,ED_2b,ED2,112,691
+,340159,OP_18b,OP 18,112,382
+,340013,ED_2b,ED2,111,519
+,340075,ED_2b,ED2,111,434
+,340120,OP_18b,OP 18,110,381
+,340047,ED_2b,ED2,108,780
+,340119,ED_2b,ED2,107,471
+,340187,OP_18b,OP 18,106,516
+,340037,OP_18b,OP 18,104,416
+,341324,ED_2b,ED2,103,217
+,340085,ED_2b,ED2,102,525
+,341304,OP_18b,OP 18,102,371
+,340001,STK_4,Thrombolytic Therapy,100,38
+,340002,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,72
+,340003,IMM_2,Immunization for influenza,100,382
+,340003,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,407
+,340003,OP_4,Aspirin at Arrival,100,184
+,340004,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,67
+,340004,OP_4,Aspirin at Arrival,100,17
+,340004,VTE_5,Warfarin therapy discharge instructions,100,53
+,340010,VTE_5,Warfarin therapy discharge instructions,100,13
+,340014,IMM_2,Immunization for influenza,100,987
+,340014,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,90
+,340014,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,214
+,340014,OP_4,Aspirin at Arrival,100,85
+,340014,VTE_5,Warfarin therapy discharge instructions,100,68
+,340015,IMM_2,Immunization for influenza,100,671
+,340015,OP_4,Aspirin at Arrival,100,13
+,340015,VTE_5,Warfarin therapy discharge instructions,100,30
+,340017,OP_4,Aspirin at Arrival,100,93
+,340021,OP_4,Aspirin at Arrival,100,146
+,340027,OP_4,Aspirin at Arrival,100,70
+,340028,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,44
+,340028,VTE_5,Warfarin therapy discharge instructions,100,43
+,340030,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,16
+,340032,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,63
+,340032,STK_4,Thrombolytic Therapy,100,21
+,340037,VTE_5,Warfarin therapy discharge instructions,100,12
+,340039,VTE_5,Warfarin therapy discharge instructions,100,36
+,340041,IMM_2,Immunization for influenza,100,519
+,340041,VTE_5,Warfarin therapy discharge instructions,100,19
+,340042,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,156
+,340047,STK_4,Thrombolytic Therapy,100,37
+,340047,VTE_5,Warfarin therapy discharge instructions,100,168
+,340049,IMM_2,Immunization for influenza,100,306
+,340050,OP_4,Aspirin at Arrival,100,18
+,340051,OP_4,Aspirin at Arrival,100,60
+,340051,VTE_5,Warfarin therapy discharge instructions,100,13
+,340053,STK_4,Thrombolytic Therapy,100,29
+,340053,VTE_5,Warfarin therapy discharge instructions,100,47
+,340060,IMM_2,Immunization for influenza,100,267
+,340061,STK_4,Thrombolytic Therapy,100,11
+,340061,VTE_5,Warfarin therapy discharge instructions,100,52
+,340064,OP_4,Aspirin at Arrival,100,141
+,340068,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,100,656
+,340068,OP_4,Aspirin at Arrival,100,91
+,340069,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,100,9764
+,340069,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,87
+,340070,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,134
+,340070,OP_4,Aspirin at Arrival,100,69
+,340071,OP_4,Aspirin at Arrival,100,362
+,340071,VTE_5,Warfarin therapy discharge instructions,100,13
+,340073,IMM_2,Immunization for influenza,100,605
+,340073,VTE_5,Warfarin therapy discharge instructions,100,22
+,340075,VTE_5,Warfarin therapy discharge instructions,100,17
+,340085,IMM_2,Immunization for influenza,100,373
+,340085,OP_23,Head CT results,100,12
+,340085,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,66
+,340085,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,122
+,340085,OP_4,Aspirin at Arrival,100,54
+,340087,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,54
+,340090,OP_4,Aspirin at Arrival,100,269
+,340091,OP_4,Aspirin at Arrival,100,35
+,340096,IMM_2,Immunization for influenza,100,282
+,340096,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,70
+,340097,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,100,977
+,340097,STK_4,Thrombolytic Therapy,100,11
+,340097,VTE_5,Warfarin therapy discharge instructions,100,14
+,340099,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,100,921
+,340106,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,51
+,340106,OP_4,Aspirin at Arrival,100,19
+,340107,OP_4,Aspirin at Arrival,100,119
+,340107,VTE_5,Warfarin therapy discharge instructions,100,11
+,340109,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,107
+,340113,ED_2b,ED2,100,313
+,340114,STK_4,Thrombolytic Therapy,100,13
+,340115,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,100,5712
+,340115,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,67
+,340115,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,57
+,340115,STK_4,Thrombolytic Therapy,100,31
+,340116,STK_4,Thrombolytic Therapy,100,12
+,340116,VTE_5,Warfarin therapy discharge instructions,100,26
+,340120,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,50
+,340126,VTE_5,Warfarin therapy discharge instructions,100,28
+,340127,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,386
+,340127,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,112
+,340129,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,80
+,340129,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,204
+,340130,STK_4,Thrombolytic Therapy,100,13
+,340131,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,52
+,340131,VTE_5,Warfarin therapy discharge instructions,100,25
+,340133,OP_4,Aspirin at Arrival,100,57
+,340142,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,33
+,340142,VTE_5,Warfarin therapy discharge instructions,100,23
+,340143,VTE_5,Warfarin therapy discharge instructions,100,21
+,340144,IMM_2,Immunization for influenza,100,287
+,340144,OP_4,Aspirin at Arrival,100,16
+,340148,IMM_2,Immunization for influenza,100,445
+,340151,OP_23,Head CT results,100,29
+,340151,VTE_5,Warfarin therapy discharge instructions,100,34
+,340155,VTE_5,Warfarin therapy discharge instructions,100,58
+,340158,OP_23,Head CT results,100,17
+,340158,OP_4,Aspirin at Arrival,100,50
+,340159,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,100
+,340166,VTE_5,Warfarin therapy discharge instructions,100,11
+,340171,VTE_5,Warfarin therapy discharge instructions,100,21
+,340173,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,191
+,340173,VTE_5,Warfarin therapy discharge instructions,100,35
+,340183,IMM_2,Immunization for influenza,100,516
+,340183,OP_4,Aspirin at Arrival,100,50
+,340183,VTE_5,Warfarin therapy discharge instructions,100,18
+,340184,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,100,155
+,340184,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,94
+,340184,VTE_5,Warfarin therapy discharge instructions,100,16
+,340186,IMM_2,Immunization for influenza,100,269
+,341303,OP_4,Aspirin at Arrival,100,38
+,341304,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,100,238
+,341315,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,100,497
+,341318,IMM_2,Immunization for influenza,100,237
+,341318,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,96
+,341319,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,72
+,341320,OP_4,Aspirin at Arrival,100,21
+,341325,OP_4,Aspirin at Arrival,100,125
+,341326,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,66
+,341329,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,100,20
+,341329,OP_4,Aspirin at Arrival,100,120
+,340001,VTE_5,Warfarin therapy discharge instructions,99,79
+,340003,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,99,172
+,340008,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,1396
+,340013,OP_4,Aspirin at Arrival,99,132
+,340014,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,6546
+,340015,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,99,90
+,340017,IMM_2,Immunization for influenza,99,563
+,340020,OP_4,Aspirin at Arrival,99,122
+,340021,IMM_2,Immunization for influenza,99,534
+,340028,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,6158
+,340030,ED_2b,ED2,99,395
+,340030,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,12111
+,340032,IMM_2,Immunization for influenza,99,562
+,340037,IMM_2,Immunization for influenza,99,296
+,340037,OP_4,Aspirin at Arrival,99,105
+,340040,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,10044
+,340041,OP_4,Aspirin at Arrival,99,86
+,340050,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,2211
+,340051,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,99,294
+,340053,IMM_2,Immunization for influenza,99,1004
+,340060,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,870
+,340061,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,99,97
+,340064,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,99,90
+,340069,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,99,171
+,340071,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,1155
+,340075,IMM_2,Immunization for influenza,99,522
+,340087,OP_4,Aspirin at Arrival,99,163
+,340090,IMM_2,Immunization for influenza,99,490
+,340099,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,99,129
+,340107,IMM_2,Immunization for influenza,99,325
+,340107,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,699
+,340114,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,8219
+,340120,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,99,113
+,340123,IMM_2,Immunization for influenza,99,509
+,340123,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,1872
+,340126,IMM_2,Immunization for influenza,99,501
+,340127,OP_4,Aspirin at Arrival,99,114
+,340129,IMM_2,Immunization for influenza,99,501
+,340130,ED_2b,ED2,99,451
+,340131,ED_2b,ED2,99,636
+,340131,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,3159
+,340132,IMM_2,Immunization for influenza,99,491
+,340132,OP_4,Aspirin at Arrival,99,172
+,340133,IMM_2,Immunization for influenza,99,277
+,340141,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,7365
+,340142,OP_4,Aspirin at Arrival,99,94
+,340143,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,2277
+,340145,OP_4,Aspirin at Arrival,99,181
+,340151,OP_4,Aspirin at Arrival,99,236
+,340155,IMM_2,Immunization for influenza,99,564
+,340155,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,3730
+,340158,IMM_2,Immunization for influenza,99,477
+,340159,OP_4,Aspirin at Arrival,99,143
+,340171,IMM_2,Immunization for influenza,99,524
+,340173,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,2814
+,340184,IMM_2,Immunization for influenza,99,442
+,340184,OP_4,Aspirin at Arrival,99,93
+,340186,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,966
+,340186,OP_4,Aspirin at Arrival,99,227
+,341304,IMM_2,Immunization for influenza,99,185
+,341305,IMM_2,Immunization for influenza,99,142
+,341318,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,99,592
+,341318,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,99,103
+,341318,OP_4,Aspirin at Arrival,99,148
+,341324,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,99,104
+,341328,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,99,89
+,341328,OP_4,Aspirin at Arrival,99,137
+,340004,IMM_2,Immunization for influenza,98,546
+,340008,OP_4,Aspirin at Arrival,98,49
+,340010,IMM_2,Immunization for influenza,98,486
+,340010,OP_4,Aspirin at Arrival,98,268
+,340015,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,1649
+,340015,OP_23,Head CT results,98,46
+,340023,OP_4,Aspirin at Arrival,98,49
+,340028,IMM_2,Immunization for influenza,98,497
+,340030,VTE_5,Warfarin therapy discharge instructions,98,85
+,340039,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,1806
+,340039,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,98,100
+,340047,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,98,248
+,340049,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,474
+,340051,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,914
+,340061,IMM_2,Immunization for influenza,98,503
+,340064,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,98,124
+,340068,IMM_2,Immunization for influenza,98,356
+,340069,IMM_2,Immunization for influenza,98,515
+,340069,VTE_5,Warfarin therapy discharge instructions,98,66
+,340073,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,2487
+,340085,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,798
+,340090,ED_2b,ED2,98,617
+,340090,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,98,63
+,340096,OP_4,Aspirin at Arrival,98,129
+,340097,OP_4,Aspirin at Arrival,98,169
+,340098,IMM_2,Immunization for influenza,98,514
+,340098,VTE_5,Warfarin therapy discharge instructions,98,41
+,340114,IMM_2,Immunization for influenza,98,545
+,340114,VTE_5,Warfarin therapy discharge instructions,98,48
+,340115,IMM_2,Immunization for influenza,98,578
+,340116,IMM_2,Immunization for influenza,98,625
+,340119,IMM_2,Immunization for influenza,98,328
+,340120,OP_4,Aspirin at Arrival,98,126
+,340126,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,1654
+,340127,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,726
+,340130,IMM_2,Immunization for influenza,98,544
+,340132,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,98,102
+,340148,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,720
+,340151,IMM_2,Immunization for influenza,98,669
+,340151,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,990
+,340158,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,888
+,340159,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,333
+,340159,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,98,103
+,340173,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,98,41
+,340183,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,1584
+,341303,IMM_2,Immunization for influenza,98,121
+,341303,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,290
+,341304,OP_4,Aspirin at Arrival,98,51
+,341319,OP_4,Aspirin at Arrival,98,141
+,341322,IMM_2,Immunization for influenza,98,343
+,341323,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,289
+,341324,OP_4,Aspirin at Arrival,98,185
+,341326,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,98,737
+,341326,OP_4,Aspirin at Arrival,98,138
+,340001,IMM_2,Immunization for influenza,97,535
+,340004,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,97,3308
+,340014,STK_4,Thrombolytic Therapy,97,78
+,340016,IMM_2,Immunization for influenza,97,402
+,340020,IMM_2,Immunization for influenza,97,495
+,340030,IMM_2,Immunization for influenza,97,531
+,340032,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,97,63
+,340050,IMM_2,Immunization for influenza,97,554
+,340061,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,97,15337
+,340084,IMM_2,Immunization for influenza,97,71
+,340090,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,97,64
+,340091,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,97,11264
+,340097,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,97,248
+,340098,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,97,86
+,340099,IMM_2,Immunization for influenza,97,289
+,340099,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,97,105
+,340113,IMM_2,Immunization for influenza,97,531
+,340113,STK_4,Thrombolytic Therapy,97,30
+,340119,OP_4,Aspirin at Arrival,97,113
+,340120,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,97,632
+,340123,OP_4,Aspirin at Arrival,97,106
+,340130,OP_4,Aspirin at Arrival,97,144
+,340131,IMM_2,Immunization for influenza,97,559
+,340132,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,97,100
+,340143,OP_4,Aspirin at Arrival,97,29
+,340147,OP_4,Aspirin at Arrival,97,179
+,340147,VTE_5,Warfarin therapy discharge instructions,97,38
+,340155,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,97,75
+,340156,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,97,538
+,340158,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,97,66
+,340166,IMM_2,Immunization for influenza,97,476
+,340166,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,97,59
+,340171,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,97,1869
+,340186,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,97,120
+,341311,IMM_2,Immunization for influenza,97,236
+,341315,OP_4,Aspirin at Arrival,97,75
+,341324,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,97,656
+,341326,IMM_2,Immunization for influenza,97,234
+,341329,IMM_2,Immunization for influenza,97,245
+,340001,OP_4,Aspirin at Arrival,96,54
+,340002,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,11393
+,340008,IMM_2,Immunization for influenza,96,483
+,340013,IMM_2,Immunization for influenza,96,360
+,340020,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,913
+,340021,VTE_5,Warfarin therapy discharge instructions,96,23
+,340024,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,759
+,340027,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,1698
+,340032,VTE_5,Warfarin therapy discharge instructions,96,111
+,340039,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,96,158
+,340040,IMM_2,Immunization for influenza,96,526
+,340040,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,96,27
+,340042,IMM_2,Immunization for influenza,96,831
+,340053,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,5172
+,340069,STK_4,Thrombolytic Therapy,96,55
+,340070,ED_2b,ED2,96,835
+,340070,IMM_2,Immunization for influenza,96,548
+,340070,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,3289
+,340084,OP_4,Aspirin at Arrival,96,213
+,340098,OP_4,Aspirin at Arrival,96,83
+,340106,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,96,71
+,340109,IMM_2,Immunization for influenza,96,494
+,340113,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,96,383
+,340119,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,937
+,340126,OP_4,Aspirin at Arrival,96,151
+,340129,OP_4,Aspirin at Arrival,96,45
+,340132,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,96,1000
+,340133,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,96,24
+,340143,IMM_2,Immunization for influenza,96,493
+,340145,IMM_2,Immunization for influenza,96,453
+,340147,IMM_2,Immunization for influenza,96,577
+,340155,STK_4,Thrombolytic Therapy,96,23
+,340173,IMM_2,Immunization for influenza,96,488
+,340173,OP_23,Head CT results,96,27
+,340186,ED_2b,ED2,96,371
+,341315,IMM_2,Immunization for influenza,96,257
+,341316,OP_4,Aspirin at Arrival,96,28
+,341324,IMM_2,Immunization for influenza,96,227
+,341324,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,96,115
+,341325,IMM_2,Immunization for influenza,96,271
+,341327,OP_4,Aspirin at Arrival,96,51
+,341328,IMM_2,Immunization for influenza,96,382
+,340002,IMM_2,Immunization for influenza,95,546
+,340002,STK_4,Thrombolytic Therapy,95,19
+,340003,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,95,1023
+,340004,STK_4,Thrombolytic Therapy,95,19
+,340010,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,95,2727
+,340017,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,95,138
+,340020,OP_23,Head CT results,95,19
+,340021,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,95,55
+,340023,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,95,1262
+,340027,IMM_2,Immunization for influenza,95,508
+,340027,OP_23,Head CT results,95,22
+,340032,OP_4,Aspirin at Arrival,95,39
+,340041,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,95,1099
+,340060,OP_4,Aspirin at Arrival,95,110
+,340064,IMM_2,Immunization for influenza,95,331
+,340075,OP_4,Aspirin at Arrival,95,94
+,340091,IMM_2,Immunization for influenza,95,568
+,340096,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,95,964
+,340099,OP_4,Aspirin at Arrival,95,109
+,340106,IMM_2,Immunization for influenza,95,315
+,340120,IMM_2,Immunization for influenza,95,230
+,340126,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,95,59
+,340144,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,95,20
+,340147,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,95,2310
+,340166,OP_4,Aspirin at Arrival,95,180
+,340171,OP_4,Aspirin at Arrival,95,59
+,340173,OP_4,Aspirin at Arrival,95,191
+,340188,IMM_2,Immunization for influenza,95,146
+,341304,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,95,37
+,341304,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,95,19
+,341316,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,95,249
+,341328,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,95,150
+,340016,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,94,1241
+,340027,ED_2b,ED2,94,866
+,340027,VTE_5,Warfarin therapy discharge instructions,94,32
+,340039,OP_4,Aspirin at Arrival,94,72
+,340042,OP_4,Aspirin at Arrival,94,287
+,340051,IMM_2,Immunization for influenza,94,370
+,340061,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,94,96
+,340069,OP_4,Aspirin at Arrival,94,183
+,340071,IMM_2,Immunization for influenza,94,580
+,340073,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,94,16
+,340087,IMM_2,Immunization for influenza,94,260
+,340097,OP_23,Head CT results,94,16
+,340109,OP_4,Aspirin at Arrival,94,128
+,340131,OP_21,Median time to pain med,94,98
+,340145,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,94,108
+,340147,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,94,247
+,340158,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,94,68
+,340171,ED_2b,ED2,94,668
+,341318,ED_2b,ED2,94,248
+,340004,OP_21,Median time to pain med,93,168
+,340016,OP_4,Aspirin at Arrival,93,86
+,340017,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,93,155
+,340028,STK_4,Thrombolytic Therapy,93,30
+,340030,STK_4,Thrombolytic Therapy,93,43
+,340039,IMM_2,Immunization for influenza,93,554
+,340042,VTE_5,Warfarin therapy discharge instructions,93,15
+,340051,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,93,89
+,340068,OP_23,Head CT results,93,15
+,340084,ED_2b,ED2,93,61
+,340084,OP_21,Median time to pain med,93,37
+,340087,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,93,1043
+,340091,VTE_5,Warfarin therapy discharge instructions,93,82
+,340097,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,93,119
+,340113,OP_4,Aspirin at Arrival,93,188
+,340113,VTE_5,Warfarin therapy discharge instructions,93,101
+,340115,VTE_5,Warfarin therapy discharge instructions,93,44
+,340119,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,93,193
+,340141,STK_4,Thrombolytic Therapy,93,58
+,340142,IMM_2,Immunization for influenza,93,489
+,340151,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,93,15
+,340155,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,93,71
+,340186,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,93,191
+,340187,OP_4,Aspirin at Arrival,93,177
+,341319,IMM_2,Immunization for influenza,93,292
+,341319,VTE_5,Warfarin therapy discharge instructions,93,15
+,341328,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,93,685
+,341329,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,93,764
+,340002,VTE_5,Warfarin therapy discharge instructions,92,150
+,340008,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,92,71
+,340016,ED_2b,ED2,92,486
+,340021,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,92,12
+,340047,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,92,254
+,340084,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,92,164
+,340091,STK_4,Thrombolytic Therapy,92,61
+,340099,VTE_5,Warfarin therapy discharge instructions,92,13
+,340107,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,92,13
+,340115,OP_4,Aspirin at Arrival,92,78
+,340116,OP_23,Head CT results,92,37
+,340116,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,92,84
+,340127,IMM_2,Immunization for influenza,92,279
+,340130,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,92,61
+,340183,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,92,65
+,340001,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,3460
+,340001,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,91,81
+,340016,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,91,98
+,340017,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,1553
+,340021,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,1273
+,340032,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,3906
+,340042,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,1989
+,340047,IMM_2,Immunization for influenza,91,827
+,340069,OP_23,Head CT results,91,35
+,340090,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,3818
+,340090,VTE_5,Warfarin therapy discharge instructions,91,11
+,340091,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,91,115
+,340107,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,91,11
+,340109,ED_2b,ED2,91,759
+,340127,OP_21,Median time to pain med,91,74
+,340158,ED_2b,ED2,91,713
+,340159,IMM_2,Immunization for influenza,91,265
+,340187,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,272
+,341319,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,91,932
+,340003,OP_23,Head CT results,90,40
+,340060,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,90,140
+,340070,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,90,132
+,340097,IMM_2,Immunization for influenza,90,419
+,340113,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,90,355
+,340127,ED_2b,ED2,90,717
+,340141,IMM_2,Immunization for influenza,90,486
+,340145,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,90,774
+,340155,OP_4,Aspirin at Arrival,90,20
+,340166,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,90,49
+,340171,OP_23,Head CT results,90,30
+,340188,OP_4,Aspirin at Arrival,90,71
+,341305,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,90,99
+,341323,IMM_2,Immunization for influenza,90,186
+,340010,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,89,63
+,340023,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,89,28
+,340024,OP_4,Aspirin at Arrival,89,308
+,340032,OP_23,Head CT results,89,28
+,340047,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,89,18346
+,340113,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,89,10966
+,340119,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,89,118
+,340119,VTE_5,Warfarin therapy discharge instructions,89,19
+,340143,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,89,323
+,340145,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,89,177
+,341304,ED_2b,ED2,89,209
+,341326,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,89,27
+,340001,ED_2b,ED2,88,408
+,340003,ED_2b,ED2,88,597
+,340015,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,88,74
+,340030,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,88,16
+,340040,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,88,40
+,340053,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,88,64
+,340090,OP_23,Head CT results,88,16
+,340126,OP_23,Head CT results,88,33
+,340133,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,88,355
+,340141,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,88,242
+,340016,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,87,141
+,340024,IMM_2,Immunization for influenza,87,285
+,340037,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,87,376
+,340109,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,87,1595
+,340156,IMM_2,Immunization for influenza,87,163
+,340008,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,86,64
+,340023,IMM_2,Immunization for influenza,86,296
+,340098,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,86,152
+,340107,ED_2b,ED2,86,499
+,340129,VTE_5,Warfarin therapy discharge instructions,86,22
+,340141,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,86,99
+,340166,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,86,1070
+,340171,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,86,64
+,341311,ED_2b,ED2,86,495
+,341315,OP_21,Median time to pain med,86,94
+,340013,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,85,937
+,340023,ED_2b,ED2,85,315
+,340040,VTE_5,Warfarin therapy discharge instructions,85,159
+,340075,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,85,1843
+,340096,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,85,75
+,340120,OP_23,Head CT results,85,13
+,340142,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,85,1480
+,340151,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,85,34
+,340184,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,85,1588
+,341317,IMM_2,Immunization for influenza,85,131
+,340001,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,84,101
+,340017,VTE_5,Warfarin therapy discharge instructions,84,19
+,340041,OP_21,Median time to pain med,84,82
+,340041,OP_23,Head CT results,84,19
+,340126,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,84,38
+,340147,OP_23,Head CT results,84,31
+,340151,ED_2b,ED2,84,979
+,341319,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,84,67
+,340002,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,83,54
+,340040,STK_4,Thrombolytic Therapy,83,29
+,340071,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,83,12
+,340073,OP_21,Median time to pain med,83,151
+,340099,ED_2b,ED2,83,431
+,340116,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,83,2172
+,340123,VTE_5,Warfarin therapy discharge instructions,83,12
+,340130,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,83,1475
+,341316,IMM_2,Immunization for influenza,83,30
+,341322,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,83,397
+,341326,OP_23,Head CT results,83,24
+,340010,OP_23,Head CT results,82,11
+,340014,ED_2b,ED2,82,1058
+,340015,ED_2b,ED2,82,976
+,340039,ED_2b,ED2,82,785
+,340064,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,82,932
+,340123,ED_2b,ED2,82,803
+,340127,OP_23,Head CT results,82,11
+,340129,OP_23,Head CT results,82,17
+,340131,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,82,17
+,340133,OP_23,Head CT results,82,11
+,340142,OP_23,Head CT results,82,28
+,340155,OP_23,Head CT results,82,11
+,340042,OP_23,Head CT results,81,36
+,340114,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,81,68
+,340133,ED_2b,ED2,81,445
+,340010,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,80,20
+,340021,ED_2b,ED2,80,527
+,340053,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,80,64
+,340060,OP_21,Median time to pain med,80,90
+,340091,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,80,129
+,340098,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,80,2192
+,340183,OP_23,Head CT results,80,20
+,341303,OP_18b,OP 18,80,385
+,341320,OP_18b,OP 18,80,361
+,340041,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,79,58
+,340050,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,79,61
+,340106,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,79,349
+,341319,OP_23,Head CT results,79,19
+,340010,ED_2b,ED2,78,644
+,340013,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,78,98
+,340024,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,78,126
+,340039,OP_23,Head CT results,78,32
+,340053,ED_2b,ED2,78,544
+,340068,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,78,46
+,340106,ED_2b,ED2,78,345
+,340107,OP_21,Median time to pain med,78,58
+,340143,OP_21,Median time to pain med,78,262
+,340144,ED_2b,ED2,78,405
+,340064,OP_23,Head CT results,77,13
+,340114,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,77,64
+,340126,STK_4,Thrombolytic Therapy,77,13
+,340188,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,77,409
+,340010,OP_21,Median time to pain med,76,95
+,340071,OP_23,Head CT results,76,38
+,341307,ED_2b,ED2,76,464
+,340013,OP_23,Head CT results,75,16
+,340030,OP_21,Median time to pain med,75,535
+,340073,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,75,12
+,340087,OP_23,Head CT results,75,12
+,340129,ED_2b,ED2,75,570
+,340166,ED_2b,ED2,75,423
+,340186,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,75,12
+,341315,OP_20,Door to diagnostic eval,75,358
+,341328,ED_2b,ED2,75,721
+,340023,OP_21,Median time to pain med,74,155
+,340024,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,74,115
+,340132,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,74,19
+,341326,ED_2b,ED2,74,329
+,341327,ED_2b,ED2,74,371
+,340024,OP_21,Median time to pain med,73,95
+,340042,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,73,98
+,340050,VTE_5,Warfarin therapy discharge instructions,72,64
+,340060,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,72,229
+,340116,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,72,46
+,340141,VTE_5,Warfarin therapy discharge instructions,72,32
+,340017,ED_2b,ED2,71,854
+,340115,OP_23,Head CT results,71,17
+,340119,OP_23,Head CT results,71,14
+,341329,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,71,55
+,340008,OP_21,Median time to pain med,70,168
+,340071,OP_21,Median time to pain med,70,208
+,340129,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,70,1186
+,340142,OP_21,Median time to pain med,70,118
+,341314,OP_18b,OP 18,70,368
+,340013,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,69,13
+,340060,OP_23,Head CT results,69,13
+,340132,VTE_5,Warfarin therapy discharge instructions,69,13
+,340151,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,69,16
+,340008,OP_20,Door to diagnostic eval,68,383
+,340037,OP_21,Median time to pain med,68,83
+,340073,OP_4,Aspirin at Arrival,68,22
+,340132,OP_21,Median time to pain med,68,98
+,340132,OP_23,Head CT results,68,25
+,340144,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,68,624
+,340171,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,68,65
+,340188,OP_21,Median time to pain med,68,54
+,340087,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,67,45
+,340096,OP_21,Median time to pain med,67,124
+,340099,OP_23,Head CT results,67,12
+,340141,OP_23,Head CT results,67,18
+,340188,ED_2b,ED2,67,468
+,341318,OP_23,Head CT results,67,21
+,341328,OP_21,Median time to pain med,67,133
+,340010,OP_20,Door to diagnostic eval,66,294
+,340070,OP_21,Median time to pain med,66,218
+,340075,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,66,222
+,340096,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,66,17
+,340130,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,66,99
+,340027,OP_21,Median time to pain med,65,152
+,340050,OP_21,Median time to pain med,65,143
+,340142,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,65,34
+,340159,ED_2b,ED2,65,524
+,340004,OP_20,Door to diagnostic eval,64,406
+,340021,OP_23,Head CT results,64,22
+,340023,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,64,90
+,340115,OP_21,Median time to pain med,64,274
+,340116,OP_21,Median time to pain med,64,156
+,340166,OP_23,Head CT results,64,25
+,340001,OP_23,Head CT results,63,19
+,340028,OP_23,Head CT results,63,19
+,340061,OP_21,Median time to pain med,63,151
+,340142,ED_2b,ED2,63,737
+,340144,OP_21,Median time to pain med,63,85
+,340147,OP_21,Median time to pain med,63,198
+,340147,STK_4,Thrombolytic Therapy,63,19
+,340173,OP_21,Median time to pain med,63,322
+,340001,OP_21,Median time to pain med,62,351
+,340032,OP_21,Median time to pain med,62,298
+,340037,ED_2b,ED2,62,377
+,340075,OP_21,Median time to pain med,62,201
+,340123,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,62,68
+,340130,OP_21,Median time to pain med,62,323
+,341305,ED_2b,ED2,62,266
+,341315,OP_23,Head CT results,62,13
+,341324,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,62,16
+,340109,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,61,23
+,340123,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,61,64
+,340126,OP_21,Median time to pain med,61,99
+,340183,ED_2b,ED2,61,629
+,340184,OP_21,Median time to pain med,61,220
+,340002,OP_21,Median time to pain med,60,180
+,340096,ED_2b,ED2,60,410
+,340096,OP_23,Head CT results,60,20
+,340141,OP_21,Median time to pain med,60,343
+,340147,OP_20,Door to diagnostic eval,60,763
+,341320,ED_2b,ED2,60,354
+,340028,OP_21,Median time to pain med,59,245
+,340091,OP_23,Head CT results,59,27
+,340113,OP_21,Median time to pain med,59,666
+,340119,OP_21,Median time to pain med,59,107
+,340123,OP_23,Head CT results,59,17
+,340051,OP_21,Median time to pain med,58,110
+,340133,OP_21,Median time to pain med,58,72
+,340166,OP_21,Median time to pain med,58,311
+,341303,ED_2b,ED2,58,226
+,340010,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,57,67
+,340039,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,57,31
+,340068,OP_21,Median time to pain med,57,113
+,340075,OP_23,Head CT results,57,23
+,340084,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,57,12
+,340087,ED_2b,ED2,57,463
+,340133,OP_20,Door to diagnostic eval,57,420
+,340003,OP_21,Median time to pain med,56,95
+,340039,OP_21,Median time to pain med,56,171
+,340050,STK_4,Thrombolytic Therapy,56,18
+,340145,ED_2b,ED2,56,494
+,340151,OP_21,Median time to pain med,56,65
+,340002,OP_23,Head CT results,55,11
+,340070,OP_20,Door to diagnostic eval,55,475
+,340087,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,55,11
+,340123,OP_21,Median time to pain med,55,183
+,340155,OP_21,Median time to pain med,55,93
+,340183,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,55,66
+,341329,ED_2b,ED2,55,381
+,340020,OP_21,Median time to pain med,54,180
+,340051,ED_2b,ED2,54,448
+,340109,VTE_5,Warfarin therapy discharge instructions,54,26
+,340131,OP_23,Head CT results,54,24
+,340151,OP_20,Door to diagnostic eval,54,1191
+,340069,OP_21,Median time to pain med,53,463
+,340129,OP_21,Median time to pain med,53,179
+,341318,OP_21,Median time to pain med,53,41
+,341319,ED_2b,ED2,53,560
+,341324,OP_23,Head CT results,53,17
+,340024,ED_2b,ED2,52,457
+,340075,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,52,56
+,340145,OP_20,Door to diagnostic eval,52,432
+,340147,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,52,25
+,341327,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,52,12
+,340017,OP_21,Median time to pain med,51,127
+,340106,OP_21,Median time to pain med,51,35
+,340120,OP_21,Median time to pain med,51,87
+,340143,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,51,63
+,340050,OP_23,Head CT results,50,18
+,340156,ED_2b,ED2,50,250
+,340186,OP_23,Head CT results,50,14
+,341317,IMM_3_OP_27_FAC_ADHPCT,Healthcare workers given influenza vaccination,50,292
+,341326,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,50,14
+,340013,OP_21,Median time to pain med,49,186
+,340050,OP_20,Door to diagnostic eval,49,293
+,340098,ED_2b,ED2,49,452
+,340130,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,49,35
+,341316,OP_21,Median time to pain med,49,16
+,340024,OP_23,Head CT results,48,21
+,340039,OP_20,Door to diagnostic eval,48,370
+,340042,OP_21,Median time to pain med,48,187
+,340097,OP_21,Median time to pain med,48,96
+,340158,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,48,12
+,341303,OP_21,Median time to pain med,48,37
+,341316,ED_2b,ED2,48,100
+,340016,OP_21,Median time to pain med,47,160
+,340021,OP_21,Median time to pain med,47,159
+,340042,OP_20,Door to diagnostic eval,47,1810
+,340090,OP_21,Median time to pain med,47,210
+,340119,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,47,19
+,340143,ED_2b,ED2,47,566
+,340188,OP_20,Door to diagnostic eval,47,331
+,340017,OP_20,Door to diagnostic eval,46,401
+,340023,OP_20,Door to diagnostic eval,46,414
+,340041,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,46,15
+,340131,OP_20,Door to diagnostic eval,46,546
+,341320,OP_21,Median time to pain med,46,44
+,340114,OP_23,Head CT results,45,20
+,341325,ED_2b,ED2,45,442
+,341326,OP_21,Median time to pain med,45,87
+,340041,OP_20,Door to diagnostic eval,44,385
+,340064,ED_2b,ED2,44,503
+,340091,OP_21,Median time to pain med,44,796
+,340144,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,44,18
+,341304,OP_21,Median time to pain med,44,23
+,341319,OP_21,Median time to pain med,44,74
+,341327,OP_21,Median time to pain med,44,83
+,340040,OP_20,Door to diagnostic eval,43,406
+,340098,OP_23,Head CT results,43,44
+,340109,OP_21,Median time to pain med,43,159
+,340171,OP_20,Door to diagnostic eval,43,481
+,341322,ED_2b,ED2,43,390
+,340017,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,42,18
+,340021,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,42,39
+,340053,OP_20,Door to diagnostic eval,42,481
+,340087,OP_21,Median time to pain med,42,70
+,340098,OP_20,Door to diagnostic eval,42,430
+,340098,OP_21,Median time to pain med,42,322
+,340099,OP_21,Median time to pain med,42,52
+,340114,OP_21,Median time to pain med,42,89
+,340186,OP_21,Median time to pain med,42,78
+,341324,OP_21,Median time to pain med,42,129
+,340142,OP_1,Median Time to Fibrinolysis,41,19
+,340145,OP_21,Median time to pain med,41,140
+,340003,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,40,16
+,340145,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,40,28
+,340123,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,39,27
+,340166,OP_20,Door to diagnostic eval,39,438
+,340173,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,39,19
+,340064,OP_21,Median time to pain med,38,107
+,340069,OP_20,Door to diagnostic eval,38,467
+,340090,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,38,27
+,340113,OP_20,Door to diagnostic eval,38,425
+,340130,OP_23,Head CT results,38,21
+,340183,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,38,17
+,340187,OP_21,Median time to pain med,38,73
+,341329,OP_21,Median time to pain med,38,52
+,340166,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,37,27
+,340002,OP_20,Door to diagnostic eval,36,407
+,340075,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,36,18
+,340126,OP_1,Median Time to Fibrinolysis,36,20
+,340155,OP_20,Door to diagnostic eval,36,384
+,341328,OP_20,Door to diagnostic eval,36,1049
+,340040,OP_21,Median time to pain med,35,252
+,340085,OP_20,Door to diagnostic eval,35,475
+,340091,OP_20,Door to diagnostic eval,35,492
+,340119,OP_20,Door to diagnostic eval,35,413
+,340001,OP_20,Door to diagnostic eval,34,428
+,340047,OP_21,Median time to pain med,34,334
+,340050,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,34,74
+,340070,OP_23,Head CT results,34,38
+,340130,OP_20,Door to diagnostic eval,34,430
+,340183,OP_20,Door to diagnostic eval,34,486
+,341325,OP_1,Median Time to Fibrinolysis,34,12
+,340068,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",33,52
+,340126,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,33,21
+,340143,OP_20,Door to diagnostic eval,33,500
+,341320,OP_23,Head CT results,33,12
+,341325,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,33,12
+,341325,OP_20,Door to diagnostic eval,33,405
+,340027,OP_20,Door to diagnostic eval,32,594
+,340037,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,32,17
+,340109,OP_23,Head CT results,32,34
+,340123,OP_20,Door to diagnostic eval,32,407
+,340115,OP_20,Door to diagnostic eval,31,432
+,340116,OP_20,Door to diagnostic eval,31,485
+,340142,OP_20,Door to diagnostic eval,31,407
+,340020,OP_20,Door to diagnostic eval,30,466
+,340020,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,30,14
+,340030,OP_20,Door to diagnostic eval,30,384
+,340090,OP_20,Door to diagnostic eval,30,387
+,340096,OP_20,Door to diagnostic eval,30,377
+,340126,OP_20,Door to diagnostic eval,30,438
+,340141,OP_20,Door to diagnostic eval,30,240
+,340147,OP_1,Median Time to Fibrinolysis,30,25
+,340186,OP_20,Door to diagnostic eval,30,407
+,341324,OP_20,Door to diagnostic eval,30,395
+,340013,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,29,108
+,340028,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,29,59
+,340109,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,29,17
+,340114,OP_20,Door to diagnostic eval,29,385
+,340014,OP_21,Median time to pain med,28,186
+,340085,OP_21,Median time to pain med,28,69
+,340107,OP_1,Median Time to Fibrinolysis,28,11
+,340107,OP_20,Door to diagnostic eval,28,406
+,340151,OP_1,Median Time to Fibrinolysis,28,16
+,340041,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,27,195
+,340068,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,27,101
+,340075,OP_20,Door to diagnostic eval,27,430
+,340109,OP_1,Median Time to Fibrinolysis,27,23
+,340060,OP_20,Door to diagnostic eval,26,422
+,340084,OP_20,Door to diagnostic eval,26,431
+,340142,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,26,19
+,340147,OP_30,Endoscopy/polyp surveillance: colonoscopy interval for patients with a history of adenomatous polyps - avoidance of inappropriate use,26,333
+,341318,OP_20,Door to diagnostic eval,26,404
+,341324,OP_1,Median Time to Fibrinolysis,26,16
+,341327,OP_20,Door to diagnostic eval,26,302
+,340013,OP_1,Median Time to Fibrinolysis,24,13
+,340051,OP_20,Door to diagnostic eval,24,381
+,340068,OP_20,Door to diagnostic eval,24,382
+,340158,OP_21,Median time to pain med,24,50
+,340159,OP_21,Median time to pain med,24,59
+,340047,OP_20,Door to diagnostic eval,23,596
+,340064,OP_20,Door to diagnostic eval,23,381
+,340127,OP_20,Door to diagnostic eval,23,707
+,341304,OP_20,Door to diagnostic eval,23,403
+,340015,OP_21,Median time to pain med,22,107
+,340024,OP_20,Door to diagnostic eval,22,466
+,340053,OP_21,Median time to pain med,22,181
+,340061,OP_20,Door to diagnostic eval,22,380
+,340120,OP_20,Door to diagnostic eval,22,401
+,340173,OP_20,Door to diagnostic eval,22,466
+,340183,OP_21,Median time to pain med,22,109
+,340186,OP_1,Median Time to Fibrinolysis,22,12
+,340073,OP_20,Door to diagnostic eval,21,380
+,340087,OP_20,Door to diagnostic eval,21,406
+,340184,OP_20,Door to diagnostic eval,21,468
+,341303,OP_20,Door to diagnostic eval,21,424
+,340013,OP_20,Door to diagnostic eval,20,430
+,340032,OP_20,Door to diagnostic eval,20,403
+,340037,OP_20,Door to diagnostic eval,20,440
+,340106,OP_20,Door to diagnostic eval,20,422
+,340014,OP_20,Door to diagnostic eval,19,1439
+,340071,OP_20,Door to diagnostic eval,19,571
+,340097,OP_20,Door to diagnostic eval,19,1495
+,340133,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,19,47
+,340144,OP_20,Door to diagnostic eval,19,425
+,340158,OP_20,Door to diagnostic eval,19,481
+,340109,OP_20,Door to diagnostic eval,18,2989
+,340132,OP_20,Door to diagnostic eval,18,418
+,340171,OP_21,Median time to pain med,18,151
+,340003,OP_20,Door to diagnostic eval,17,523
+,340023,OP_5,Median Time to ECG,17,50
+,340127,OP_5,Median Time to ECG,17,128
+,341325,OP_5,Median Time to ECG,17,131
+,340010,OP_1,Median Time to Fibrinolysis,16,20
+,340129,OP_20,Door to diagnostic eval,16,426
+,341326,OP_20,Door to diagnostic eval,16,408
+,340039,VTE_6,Hospital acquired potentially preventable venous thromboembolism,15,20
+,341320,OP_20,Door to diagnostic eval,15,394
+,340015,OP_20,Door to diagnostic eval,14,482
+,340021,OP_20,Door to diagnostic eval,14,441
+,340099,OP_5,Median Time to ECG,14,116
+,340114,VTE_6,Hospital acquired potentially preventable venous thromboembolism,14,22
+,340028,OP_20,Door to diagnostic eval,13,404
+,340099,OP_20,Door to diagnostic eval,13,405
+,340147,OP_5,Median Time to ECG,13,190
+,340186,OP_5,Median Time to ECG,13,240
+,340096,OP_5,Median Time to ECG,12,131
+,340132,OP_5,Median Time to ECG,12,188
+,340155,OP_5,Median Time to ECG,12,20
+,340159,OP_20,Door to diagnostic eval,12,415
+,340184,OP_5,Median Time to ECG,12,95
+,341319,OP_20,Door to diagnostic eval,12,411
+,341320,OP_5,Median Time to ECG,12,24
+,340003,OP_5,Median Time to ECG,11,194
+,340004,VTE_6,Hospital acquired potentially preventable venous thromboembolism,11,19
+,340016,OP_5,Median Time to ECG,11,87
+,340041,OP_5,Median Time to ECG,11,91
+,341304,OP_5,Median Time to ECG,11,54
+,340004,OP_5,Median Time to ECG,10,17
+,340016,OP_20,Door to diagnostic eval,10,431
+,340032,OP_5,Median Time to ECG,10,40
+,340042,OP_5,Median Time to ECG,10,299
+,340068,OP_5,Median Time to ECG,10,91
+,340073,OP_5,Median Time to ECG,10,22
+,340087,OP_5,Median Time to ECG,10,175
+,340113,OP_5,Median Time to ECG,10,200
+,340132,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",10,30
+,340187,OP_20,Door to diagnostic eval,10,592
+,341314,OP_20,Door to diagnostic eval,10,388
+,341316,OP_20,Door to diagnostic eval,10,210
+,341316,OP_5,Median Time to ECG,10,30
+,341318,OP_5,Median Time to ECG,10,159
+,341329,OP_20,Door to diagnostic eval,10,409
+,340024,OP_5,Median Time to ECG,9,311
+,340050,OP_5,Median Time to ECG,9,20
+,340070,OP_5,Median Time to ECG,9,76
+,340071,OP_5,Median Time to ECG,9,388
+,340075,OP_5,Median Time to ECG,9,99
+,340084,OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,9,23
+,340107,OP_5,Median Time to ECG,9,126
+,341319,OP_5,Median Time to ECG,9,149
+,341328,OP_5,Median Time to ECG,9,159
+,340001,OP_5,Median Time to ECG,8,56
+,340008,OP_5,Median Time to ECG,8,52
+,340037,OP_5,Median Time to ECG,8,105
+,340050,OP_22,Left before being seen,8,62955
+,340051,OP_5,Median Time to ECG,8,67
+,340091,OP_5,Median Time to ECG,8,39
+,340098,OP_5,Median Time to ECG,8,95
+,340106,OP_5,Median Time to ECG,8,20
+,340115,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",8,65
+,340123,OP_5,Median Time to ECG,8,110
+,340142,OP_5,Median Time to ECG,8,97
+,340155,VTE_6,Hospital acquired potentially preventable venous thromboembolism,8,12
+,340166,OP_5,Median Time to ECG,8,184
+,340188,OP_5,Median Time to ECG,8,78
+,340010,OP_5,Median Time to ECG,7,276
+,340028,VTE_6,Hospital acquired potentially preventable venous thromboembolism,7,46
+,340030,OP_22,Left before being seen,7,76833
+,340060,OP_5,Median Time to ECG,7,113
+,340115,OP_5,Median Time to ECG,7,83
+,340119,OP_5,Median Time to ECG,7,116
+,340120,OP_5,Median Time to ECG,7,136
+,340126,OP_5,Median Time to ECG,7,160
+,340127,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",7,43
+,340151,OP_5,Median Time to ECG,7,246
+,340159,OP_5,Median Time to ECG,7,145
+,340186,OP_22,Left before being seen,7,25378
+,340187,OP_5,Median Time to ECG,7,182
+,341303,OP_5,Median Time to ECG,7,39
+,341315,OP_5,Median Time to ECG,7,115
+,341326,OP_5,Median Time to ECG,7,142
+,340020,OP_5,Median Time to ECG,6,126
+,340027,OP_5,Median Time to ECG,6,75
+,340069,OP_5,Median Time to ECG,6,192
+,340143,OP_5,Median Time to ECG,6,30
+,340144,OP_5,Median Time to ECG,6,20
+,340145,OP_5,Median Time to ECG,6,181
+,340147,VTE_6,Hospital acquired potentially preventable venous thromboembolism,6,32
+,341329,OP_5,Median Time to ECG,6,127
+,340001,OP_22,Left before being seen,5,117192
+,340050,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",5,98
+,340064,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",5,60
+,340090,OP_5,Median Time to ECG,5,281
+,340131,VTE_6,Hospital acquired potentially preventable venous thromboembolism,5,20
+,340133,OP_5,Median Time to ECG,5,61
+,340173,OP_5,Median Time to ECG,5,199
+,341324,OP_5,Median Time to ECG,5,193
+,340002,OP_22,Left before being seen,4,100655
+,340013,OP_5,Median Time to ECG,4,127
+,340015,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",4,48
+,340017,OP_22,Left before being seen,4,31278
+,340021,OP_5,Median Time to ECG,4,145
+,340032,OP_22,Left before being seen,4,108844
+,340039,OP_5,Median Time to ECG,4,72
+,340040,OP_22,Left before being seen,4,125074
+,340050,VTE_6,Hospital acquired potentially preventable venous thromboembolism,4,25
+,340061,OP_22,Left before being seen,4,48357
+,340064,OP_5,Median Time to ECG,4,145
+,340084,OP_5,Median Time to ECG,4,225
+,340085,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",4,54
+,340087,OP_22,Left before being seen,4,21653
+,340097,OP_5,Median Time to ECG,4,184
+,340113,OP_22,Left before being seen,4,158758
+,340116,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",4,55
+,340123,OP_22,Left before being seen,4,43993
+,340130,OP_5,Median Time to ECG,4,148
+,340133,OP_22,Left before being seen,4,14730
+,340141,VTE_6,Hospital acquired potentially preventable venous thromboembolism,4,57
+,340143,OP_22,Left before being seen,4,54698
+,340151,OP_22,Left before being seen,4,40310
+,340171,OP_5,Median Time to ECG,4,67
+,340171,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",4,50
+,341328,OP_22,Left before being seen,4,18575
+,340001,VTE_6,Hospital acquired potentially preventable venous thromboembolism,3,32
+,340004,OP_22,Left before being seen,3,63064
+,340008,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",3,34
+,340013,OP_22,Left before being seen,3,36793
+,340017,OP_5,Median Time to ECG,3,98
+,340027,OP_22,Left before being seen,3,43279
+,340030,VTE_6,Hospital acquired potentially preventable venous thromboembolism,3,126
+,340042,OP_22,Left before being seen,3,62421
+,340047,OP_22,Left before being seen,3,112056
+,340051,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",3,39
+,340053,OP_22,Left before being seen,3,98595
+,340061,VTE_6,Hospital acquired potentially preventable venous thromboembolism,3,77
+,340069,OP_22,Left before being seen,3,208625
+,340070,OP_22,Left before being seen,3,70002
+,340071,OP_22,Left before being seen,3,55098
+,340075,OP_22,Left before being seen,3,59659
+,340085,OP_22,Left before being seen,3,34097
+,340090,OP_22,Left before being seen,3,80878
+,340090,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",3,214
+,340098,OP_22,Left before being seen,3,98150
+,340107,OP_22,Left before being seen,3,29027
+,340115,OP_22,Left before being seen,3,123144
+,340126,OP_22,Left before being seen,3,51458
+,340141,OP_22,Left before being seen,3,133503
+,340147,OP_22,Left before being seen,3,72814
+,340155,OP_22,Left before being seen,3,66293
+,340166,OP_22,Left before being seen,3,99704
+,340173,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",3,214
+,340186,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",3,30
+,341324,OP_22,Left before being seen,3,22953
+,341324,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",3,32
+,340001,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,262
+,340003,OP_22,Left before being seen,2,38420
+,340008,OP_22,Left before being seen,2,56344
+,340010,OP_22,Left before being seen,2,65966
+,340014,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,128
+,340015,OP_22,Left before being seen,2,49147
+,340015,OP_5,Median Time to ECG,2,14
+,340020,OP_22,Left before being seen,2,39003
+,340039,OP_22,Left before being seen,2,43125
+,340040,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,42
+,340041,OP_22,Left before being seen,2,29282
+,340051,OP_22,Left before being seen,2,22259
+,340060,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,50
+,340068,OP_22,Left before being seen,2,29078
+,340070,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,130
+,340071,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,56
+,340084,OP_22,Left before being seen,2,17096
+,340091,OP_22,Left before being seen,2,109061
+,340096,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,59
+,340098,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,199
+,340106,OP_22,Left before being seen,2,13772
+,340109,OP_22,Left before being seen,2,45288
+,340109,OP_5,Median Time to ECG,2,135
+,340109,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,58
+,340113,VTE_6,Hospital acquired potentially preventable venous thromboembolism,2,89
+,340114,OP_22,Left before being seen,2,58608
+,340119,OP_22,Left before being seen,2,34860
+,340120,OP_22,Left before being seen,2,27597
+,340126,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,46
+,340127,OP_22,Left before being seen,2,23824
+,340129,OP_22,Left before being seen,2,28583
+,340130,OP_22,Left before being seen,2,76257
+,340131,OP_22,Left before being seen,2,74427
+,340132,OP_22,Left before being seen,2,24238
+,340141,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,45
+,340142,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,58
+,340145,OP_22,Left before being seen,2,49366
+,340151,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",2,65
+,340158,OP_22,Left before being seen,2,31398
+,340159,OP_22,Left before being seen,2,20115
+,340171,OP_22,Left before being seen,2,49631
+,340173,OP_22,Left before being seen,2,62926
+,340183,OP_22,Left before being seen,2,36480
+,340183,OP_5,Median Time to ECG,2,52
+,341304,OP_22,Left before being seen,2,10755
+,340002,VTE_6,Hospital acquired potentially preventable venous thromboembolism,1,70
+,340004,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,212
+,340014,OP_22,Left before being seen,1,134974
+,340014,OP_5,Median Time to ECG,1,85
+,340016,OP_22,Left before being seen,1,16186
+,340020,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,81
+,340021,OP_22,Left before being seen,1,68658
+,340021,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,98
+,340023,OP_22,Left before being seen,1,26919
+,340024,OP_22,Left before being seen,1,34529
+,340037,OP_22,Left before being seen,1,34511
+,340042,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,122
+,340047,VTE_6,Hospital acquired potentially preventable venous thromboembolism,1,108
+,340053,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,116
+,340060,OP_22,Left before being seen,1,30520
+,340064,OP_22,Left before being seen,1,33310
+,340073,OP_22,Left before being seen,1,47879
+,340075,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,101
+,340096,OP_22,Left before being seen,1,37872
+,340099,OP_22,Left before being seen,1,23350
+,340113,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,536
+,340116,OP_22,Left before being seen,1,41528
+,340129,OP_5,Median Time to ECG,1,49
+,340131,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,136
+,340142,OP_22,Left before being seen,1,40354
+,340144,OP_22,Left before being seen,1,27392
+,340184,OP_22,Left before being seen,1,27578
+,341318,OP_22,Left before being seen,1,17386
+,341319,OP_22,Left before being seen,1,17175
+,341326,OP_22,Left before being seen,1,19142
+,341327,OP_5,Median Time to ECG,1,54
+,341329,OP_22,Left before being seen,1,15157
+,340002,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,44
+,340003,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,28
+,340010,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,26
+,340010,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,13
+,340013,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,23
+,340014,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,101
+,340015,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,17
+,340016,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,31
+,340017,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,28
+,340023,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,68
+,340024,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,40
+,340027,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,279
+,340027,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,12
+,340028,OP_22,Left before being seen,0,91030
+,340028,OP_5,Median Time to ECG,0,13
+,340028,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,122
+,340030,OP_23,Head CT results,0,13
+,340030,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,49
+,340032,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,237
+,340032,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,21
+,340039,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,51
+,340040,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,104
+,340041,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,33
+,340053,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,59
+,340061,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,39
+,340069,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,503
+,340069,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,41
+,340070,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,16
+,340073,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,19
+,340085,OP_5,Median Time to ECG,0,54
+,340087,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,11
+,340091,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,581
+,340091,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,71
+,340097,OP_22,Left before being seen,0,30813
+,340097,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,55
+,340098,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,14
+,340099,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,39
+,340107,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,39
+,340114,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,112
+,340115,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,38
+,340116,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,17
+,340119,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,58
+,340120,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,42
+,340123,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,74
+,340129,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,28
+,340130,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,92
+,340133,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,30
+,340142,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,17
+,340143,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,209
+,340144,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,26
+,340145,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,29
+,340147,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,148
+,340151,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,11
+,340155,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,40
+,340158,OP_5,Median Time to ECG,0,51
+,340158,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,29
+,340166,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,138
+,340173,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,11
+,340183,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,22
+,340183,VTE_6,Hospital acquired potentially preventable venous thromboembolism,0,13
+,340184,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,18
+,340187,OP_22,Left before being seen,0,12973
+,341315,ED_2b,ED2,0,382
+,341318,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,30
+,341326,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,25
+,341329,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,16

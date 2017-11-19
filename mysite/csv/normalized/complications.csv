@@ -1,0 +1,1323 @@
+id,provider_id,measure_name,measure_id,compared_to_national,score,n_score
+1,340001,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.7,0.14553473
+2,340001,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.8,0.103996367
+3,340001,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,3.5,0.195011338
+4,340001,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.3,0.056647876
+5,340001,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.4,0.076189388
+6,340001,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,18.3,0.113510486
+7,340001,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.6,0.095138389
+8,340001,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6.95,0.046532046
+9,340001,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,5.39,0.03621416
+10,340001,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.8,0.012654545
+11,340001,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Better than the National Rate,0.6,0.003558015
+12,340001,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.54,0.002697084
+13,340001,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,124.2,0.841227892
+14,340001,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.4,0.001824915
+15,340001,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.08,0.000133627
+16,340001,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+17,340001,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.76,0.00541744
+18,340002,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,Better than the National Rate,1.8,0.095920617
+19,340002,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,Better than the National Rate,10.5,0.079019074
+20,340002,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.2,0.121315193
+21,340002,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.5,0.064897566
+22,340002,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.6,0.060197613
+23,340002,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.5,0.108531956
+24,340002,Death rate for stroke patients,MORT_30_STK,Worse than the National Rate,17.9,0.116731008
+25,340002,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.4,0.029310461
+26,340002,Blood stream infection after surgery,PSI_13_POST_SEPSIS,Better than the National Rate,4.5,0.030167142
+27,340002,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.77,0.012436364
+28,340002,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.4,0.008829149
+29,340002,Pressure sores,PSI_3_ULCER,Better than the National Rate,0.03,-0.000168568
+30,340002,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,116.59,0.789659145
+31,340002,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,Worse than the National Rate,0.62,0.003005743
+32,340002,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.18,0.000801764
+33,340002,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+34,340002,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.81,0.005788497
+35,340003,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.8,0.206174201
+38,340003,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,5.7,0.038773546
+39,340003,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.4,0.064766691
+40,340003,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.6,0.109154272
+41,340003,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.2,0.092521102
+42,340003,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6,0.040116161
+43,340003,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,12.43,0.084046745
+44,340003,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.2,0.015563636
+45,340003,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.46,0.009224484
+46,340003,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.28,0.001236163
+48,340003,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.38,0.001717567
+49,340003,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+50,340003,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+51,340003,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.95,0.006827458
+52,340004,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.2,0.117971334
+53,340004,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.5,0.094156827
+54,340004,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.7,0.149659864
+55,340004,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.5,0.051148082
+56,340004,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13,0.073904849
+57,340004,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18,0.111643537
+58,340004,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.7,0.089249493
+59,340004,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.8,0.032011886
+60,340004,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.55,0.064478869
+61,340004,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.11,0.014909091
+62,340004,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.16,0.007247809
+63,340004,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.11,0.000280946
+64,340004,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,134.78,0.912922681
+65,340004,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+66,340004,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.1,0.000267255
+67,340004,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+68,340004,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.76,0.00541744
+69,340008,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+70,340008,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13,0.097941266
+72,340008,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.5,0.051148082
+73,340008,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.8,0.067051231
+74,340008,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.5,0.096085631
+75,340008,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.8,0.096447033
+76,340008,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.96,0.033092456
+77,340008,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.66,0.058431852
+78,340008,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.24,0.015854545
+79,340008,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.82,0.005007577
+80,340008,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.18,0.000674271
+82,340008,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.34,0.001502872
+83,340008,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+84,340008,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+85,340008,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.69,0.004897959
+86,340010,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.2,0.173098126
+87,340010,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,16,0.120647896
+89,340010,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.5,0.051148082
+90,340010,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.1,0.057341938
+91,340010,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.7,0.109776588
+92,340010,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16,0.104298894
+93,340010,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.94,0.026203823
+94,340010,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,10.86,0.073379535
+95,340010,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.43,0.017236364
+96,340010,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.18,0.007379588
+97,340010,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.63,0.003202787
+98,340010,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,134.14,0.908585756
+99,340010,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.42,0.001932263
+100,340010,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.17,0.00073495
+101,340010,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+102,340010,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.78,0.005565863
+103,340013,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.3,0.178610805
+104,340013,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.5,0.109294581
+106,340013,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.8,0.053210505
+107,340013,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12,0.0681935
+108,340013,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.3,0.107287323
+109,340013,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.3,0.099718642
+110,340013,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.07,0.027081786
+112,340013,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.18,0.015418182
+113,340013,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,2.07,0.013243724
+114,340013,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.23,0.000955217
+116,340013,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.35,0.001556546
+117,340013,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+118,340013,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+119,340013,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.94,0.006753247
+120,340014,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,Better than the National Rate,1.9,0.101433297
+121,340014,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.7,0.095670602
+122,340014,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.8,0.155328798
+123,340014,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.6,0.051835556
+124,340014,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12,0.0681935
+125,340014,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.8,0.104175742
+126,340014,Death rate for stroke patients,MORT_30_STK,Worse than the National Rate,18.1,0.118039652
+127,340014,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.77,0.025055717
+128,340014,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,11.55,0.078067672
+129,340014,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.22,0.015709091
+130,340014,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.64,0.01041049
+131,340014,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.39,0.001854245
+132,340014,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,155.35,1.052314156
+133,340014,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.24,0.000966132
+134,340014,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.3,0.001603528
+135,340014,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+136,340014,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.84,0.006011132
+137,340015,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.2,0.173098126
+138,340015,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.2,0.107023918
+140,340015,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.4,0.064210092
+141,340015,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,14,0.079616197
+142,340015,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.4,0.120355965
+143,340015,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.5,0.094484067
+144,340015,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.04,0.033632741
+145,340015,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,7.58,0.051093899
+146,340015,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.67,0.018981818
+147,340015,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.2,0.007511366
+148,340015,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.42,0.002022813
+149,340015,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,136.92,0.927424273
+150,340015,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.42,0.001932263
+151,340015,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.21,0.001002205
+152,340015,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+153,340015,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.82,0.005862709
+154,340016,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.9,0.21168688
+155,340016,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.1,0.098698153
+157,340016,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9,0.061460195
+158,340016,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.1,0.063053287
+159,340016,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.5,0.102308793
+160,340016,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.9,0.084014919
+161,340016,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.23,0.034915918
+162,340016,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.89,0.059994564
+163,340016,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.23,0.015781818
+164,340016,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,2.23,0.014297951
+165,340016,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.8,0.004158004
+166,340016,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,141.12,0.955885343
+167,340016,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.54,0.002576351
+168,340016,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+169,340016,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+170,340016,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.12,0.008089054
+171,340017,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.2,0.117971334
+172,340017,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.8,0.103996367
+174,340017,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.5,0.051148082
+175,340017,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.4,0.064766691
+176,340017,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.9,0.098574896
+177,340017,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.7,0.095792711
+178,340017,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,2.46,0.01620855
+180,340017,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.61,0.018545455
+181,340017,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.67,0.010608157
+182,340017,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.15,0.000505703
+183,340017,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,116.7,0.790404554
+184,340017,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.32,0.001395524
+185,340017,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.11,0.000334068
+186,340017,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+187,340017,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.73,0.005194805
+188,340020,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+189,340020,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.4,0.100968816
+191,340020,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.5,0.058022824
+192,340020,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.4,0.064766691
+193,340020,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.4,0.101686477
+194,340020,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,17.2,0.112150756
+195,340020,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.88,0.025798609
+197,340020,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.72,0.019345455
+198,340020,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.29,0.008104368
+199,340020,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.79,0.004101815
+200,340020,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,149.73,1.014230535
+201,340020,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.46,0.002146959
+202,340020,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+203,340020,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+204,340020,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.82,0.005862709
+205,340021,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.6,0.140022051
+206,340021,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,15.1,0.113835907
+208,340021,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.3,0.063522618
+209,340021,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,14.4,0.081900737
+210,340021,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,20.8,0.129068393
+211,340021,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.4,0.093829745
+212,340021,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,2.91,0.019247653
+213,340021,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,6.87,0.046269874
+214,340021,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.57,0.018254545
+215,340021,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.79,0.00480991
+216,340021,Pressure sores,PSI_3_ULCER,Worse than the National Rate,1.39,0.00747317
+217,340021,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,136.5,0.924578166
+218,340021,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.49,0.002307981
+219,340021,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.11,0.000334068
+220,340021,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+221,340021,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.67,0.004749536
+222,340023,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.7,0.14553473
+223,340023,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.4,0.093399939
+225,340023,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.1,0.062147669
+226,340023,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.8,0.067051231
+227,340023,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.2,0.100441845
+228,340023,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.7,0.089249493
+229,340023,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.62,0.024042683
+230,340023,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.92,0.066992798
+231,340023,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.77,0.019709091
+232,340023,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,2.14,0.013704948
+233,340023,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.21,0.000842839
+234,340023,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,129.06,0.874161415
+235,340023,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+236,340023,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+237,340023,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+238,340023,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.93,0.006679035
+239,340024,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.8,0.151047409
+240,340024,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13,0.097941266
+242,340024,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.1,0.048398185
+243,340024,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.5,0.071049175
+244,340024,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.4,0.095463314
+245,340024,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.9,0.090558136
+246,340024,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.72,0.024718039
+248,340024,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.27,0.016072727
+249,340024,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.26,0.007906701
+250,340024,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.27,0.001179974
+252,340024,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.38,0.001717567
+253,340024,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+254,340024,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+255,340024,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.74,0.005269017
+256,340027,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.2,0.173098126
+257,340027,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.3,0.107780805
+259,340027,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.3,0.063522618
+260,340027,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.9,0.061911017
+261,340027,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,20.1,0.124712179
+262,340027,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.8,0.089903815
+263,340027,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,Worse than the National Rate,10,0.067130411
+264,340027,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.26,0.055714092
+265,340027,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.17,0.015345455
+266,340027,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.74,0.004480464
+267,340027,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.75,0.003877058
+268,340027,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,149.43,1.012197601
+269,340027,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+270,340027,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.41,0.002338478
+271,340027,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+272,340027,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.07,0.007717996
+273,340028,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+274,340028,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.6,0.094913715
+275,340028,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.8,0.155328798
+276,340028,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7,0.047710711
+277,340028,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,Better than the National Rate,9.3,0.05277286
+278,340028,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.1,0.099819528
+279,340028,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15,0.097755676
+280,340028,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.07,0.027081786
+281,340028,Blood stream infection after surgery,PSI_13_POST_SEPSIS,Worse than the National Rate,17.23,0.116659872
+282,340028,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.75,0.012290909
+283,340028,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.43,0.009026817
+284,340028,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.93,0.004888464
+285,340028,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,Worse than the National Rate,186.37,1.262519482
+286,340028,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.56,0.002683699
+287,340028,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.12,0.000400882
+288,340028,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+289,340028,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.94,0.006753247
+290,340030,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+291,340030,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.4,0.100968816
+292,340030,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.3,0.126984127
+293,340030,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.8,0.053210505
+294,340030,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.4,0.07047804
+295,340030,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.3,0.101064161
+296,340030,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.7,0.095792711
+297,340030,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.36,0.035793881
+298,340030,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,7.37,0.049667074
+299,340030,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.73,0.019418182
+300,340030,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Better than the National Rate,1.03,0.00639125
+301,340030,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.51,0.002528516
+302,340030,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,142.38,0.964423663
+303,340030,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.43,0.001985937
+304,340030,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.21,0.001002205
+305,340030,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+306,340030,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.81,0.005788497
+307,340032,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.2,0.173098126
+308,340032,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.9,0.097184378
+309,340032,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,1.9,0.10430839
+310,340032,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.4,0.064210092
+311,340032,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.7,0.072191444
+312,340032,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.2,0.119111332
+313,340032,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.4,0.106916181
+314,340032,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.41,0.022624434
+315,340032,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,7.46,0.05027857
+316,340032,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.94,0.013672727
+317,340032,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.96,0.005930026
+318,340032,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.07,5.61892E-05
+319,340032,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,126.06,0.85383208
+320,340032,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.25,0.001019806
+321,340032,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.23,0.001135832
+322,340032,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+323,340032,Serious complications,PSI_90_SAFETY,Better than the National Rate,0.6,0.004230056
+327,340037,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.8,0.046335762
+328,340037,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.3,0.069906905
+329,340037,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.5,0.096085631
+330,340037,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.3,0.086632206
+331,340037,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.81,0.032079422
+333,340037,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.28,0.016145455
+334,340037,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.17,0.007313698
+335,340037,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.31,0.001404731
+337,340037,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+338,340037,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.16,0.000668137
+339,340037,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+340,340037,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.79,0.005640074
+341,340039,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.6,0.195148842
+342,340039,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.4,0.108537693
+344,340039,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,5.9,0.040148494
+345,340039,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.7,0.077902793
+346,340039,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.4,0.120355965
+347,340039,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.5,0.087940849
+348,340039,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6.77,0.045316404
+349,340039,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,12.01,0.081193097
+350,340039,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.15,0.0152
+351,340039,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.9,0.005534691
+352,340039,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.14,0.000449514
+353,340039,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,127.46,0.863319103
+354,340039,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.28,0.001180828
+355,340039,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.11,0.000334068
+356,340039,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+357,340039,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.82,0.005862709
+358,340040,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+359,340040,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.5,0.101725704
+360,340040,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.1,0.115646259
+361,340040,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,Worse than the National Rate,10.1,0.069022412
+362,340040,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.8,0.072762579
+363,340040,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.7,0.103553426
+364,340040,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.2,0.105607538
+365,340040,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.1,0.034037955
+366,340040,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,12.21,0.082551977
+367,340040,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,3.58,0.0256
+368,340040,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Worse than the National Rate,1.95,0.012453054
+369,340040,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.28,0.001236163
+370,340040,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,147.63,1
+371,340040,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.38,0.001717567
+372,340040,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.13,0.000467696
+373,340040,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+374,340040,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.01,0.007272727
+375,340041,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.8,0.206174201
+376,340041,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14,0.105510142
+378,340041,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.4,0.050460608
+379,340041,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.8,0.067051231
+380,340041,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.2,0.119111332
+381,340041,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.5,0.094484067
+382,340041,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,7.02,0.047004795
+384,340041,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.24,0.015854545
+385,340041,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.25,0.007840812
+386,340041,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.69,0.003539922
+387,340041,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,127.17,0.861353934
+388,340041,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.42,0.001932263
+389,340041,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.26,0.001336273
+390,340041,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+391,340041,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1,0.007198516
+392,340042,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.2,0.173098126
+393,340042,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.2,0.099455041
+395,340042,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8,0.054585453
+396,340042,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.3,0.064195557
+397,340042,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.8,0.09795258
+398,340042,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.5,0.101027285
+399,340042,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.57,0.023705004
+400,340042,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.58,0.064682701
+401,340042,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.74,0.019490909
+402,340042,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.63,0.0103446
+403,340042,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.15,0.000505703
+404,340042,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,127.47,0.863386867
+405,340042,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.32,0.001395524
+406,340042,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.12,0.000400882
+407,340042,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+408,340042,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.79,0.005640074
+409,340047,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.5,0.134509372
+410,340047,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.4,0.100968816
+411,340047,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.4,0.132653061
+412,340047,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.3,0.049773134
+413,340047,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.8,0.061339882
+414,340047,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Better than the National Rate,12.7,0.078660775
+415,340047,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.9,0.11018779
+416,340047,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.31,0.035456203
+417,340047,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,12.98,0.087783666
+418,340047,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.14,0.015127273
+419,340047,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.85,0.011794162
+420,340047,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.17,0.000618082
+421,340047,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,114.58,0.77603849
+422,340047,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.28,0.001180828
+423,340047,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.2,0.000935391
+424,340047,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+425,340047,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.98,0.007050093
+426,340049,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2,0.106945976
+433,340049,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6.13,0.040994124
+434,340049,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.37,0.063255877
+436,340049,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.42,0.008960928
+437,340049,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.44,0.002135191
+439,340049,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+440,340049,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.17,0.00073495
+441,340049,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+442,340049,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.94,0.006753247
+443,340050,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,4.5,0.244762955
+444,340050,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.5,0.109294581
+445,340050,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.8,0.155328798
+446,340050,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.3,0.042898391
+447,340050,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.6,0.060197613
+448,340050,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15,0.092974049
+449,340050,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,17.2,0.112150756
+450,340050,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,7.35,0.049233471
+451,340050,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,12.35,0.083503193
+452,340050,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.14,0.015127273
+453,340050,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,2.11,0.013507281
+454,340050,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.33,0.00151711
+455,340050,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,178.03,1.20600393
+456,340050,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+457,340050,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.1,0.000267255
+458,340050,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+459,340050,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.17,0.008460111
+460,340051,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.7,0.200661521
+461,340051,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13,0.097941266
+463,340051,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.2,0.055960401
+464,340051,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12,0.0681935
+465,340051,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.6,0.10293111
+466,340051,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.1,0.09186678
+467,340051,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.8,0.038765449
+468,340051,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.32,0.062916157
+469,340051,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.77,0.019709091
+470,340051,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.28,0.008038479
+471,340051,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.22,0.000899028
+472,340051,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,124.46,0.842989768
+473,340051,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.38,0.001717567
+474,340051,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+475,340051,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+476,340051,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.87,0.006233766
+477,340053,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.6,0.140022051
+478,340053,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.6,0.094913715
+479,340053,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.7,0.149659864
+480,340053,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8,0.054585453
+481,340053,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.9,0.073333714
+482,340053,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.6,0.10293111
+483,340053,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.4,0.100372963
+484,340053,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.47,0.036536773
+485,340053,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.47,0.057140916
+486,340053,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.7,0.011927273
+487,340053,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.52,0.009619819
+488,340053,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.2,0.000786649
+489,340053,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,126.78,0.85871112
+490,340053,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.41,0.001878589
+491,340053,Infections from a large venous catheter,PSI_7_CVCBI,Worse than the National Rate,0.49,0.002872987
+492,340053,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+493,340053,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.94,0.006753247
+495,340060,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.9,0.104753255
+497,340060,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.9,0.053897979
+498,340060,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.1,0.068764635
+499,340060,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.6,0.115377435
+500,340060,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.2,0.09906432
+501,340060,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.59,0.030593638
+503,340060,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.24,0.015854545
+504,340060,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.72,0.010937603
+505,340060,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.27,0.001179974
+507,340060,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.44,0.002039611
+508,340060,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+509,340060,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+510,340060,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.91,0.006530612
+511,340061,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+512,340061,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.4,0.100968816
+513,340061,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2,0.109977324
+514,340061,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.4,0.050460608
+515,340061,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.5,0.071049175
+516,340061,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.9,0.104798058
+517,340061,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.1,0.104953216
+518,340061,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,Worse than the National Rate,7.55,0.050584183
+519,340061,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,13.52,0.091452643
+520,340061,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.72,0.019345455
+521,340061,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.27,0.00797259
+522,340061,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.96,0.005057032
+523,340061,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,150.03,1.016263468
+524,340061,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.4,0.001824915
+525,340061,Infections from a large venous catheter,PSI_7_CVCBI,Worse than the National Rate,0.61,0.003674751
+526,340061,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+527,340061,Serious complications,PSI_90_SAFETY,Worse than the National Rate,1.13,0.008163265
+528,340064,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.8,0.151047409
+529,340064,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.1,0.10626703
+531,340064,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.9,0.060772721
+532,340064,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.4,0.064766691
+533,340064,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.7,0.115999751
+534,340064,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15,0.097755676
+535,340064,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.08,0.033902884
+537,340064,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.26,0.016
+538,340064,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.24,0.007774923
+539,340064,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.21,0.000842839
+541,340064,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.35,0.001556546
+542,340064,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+543,340064,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+544,340064,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.81,0.005788497
+545,340068,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.1,0.167585447
+546,340068,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.8,0.111565244
+548,340068,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.6,0.051835556
+549,340068,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.7,0.060768748
+550,340068,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.4,0.120355965
+551,340068,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.6,0.095138389
+552,340068,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,7.39,0.049503613
+553,340068,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,10.39,0.070186167
+554,340068,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.13,0.015054545
+555,340068,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.23,0.007709033
+556,340068,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.18,0.000674271
+557,340068,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,140.23,0.949854306
+558,340068,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.5,0.002361655
+559,340068,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.13,0.000467696
+560,340068,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+561,340068,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.98,0.007050093
+562,340069,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.5,0.189636163
+563,340069,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,15.1,0.113835907
+564,340069,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.1,0.115646259
+565,340069,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,Worse than the National Rate,12.1,0.082771896
+566,340069,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.9,0.067622366
+567,340069,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,18.5,0.114755119
+568,340069,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.1,0.098409998
+569,340069,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6.33,0.042344837
+570,340069,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,11.36,0.076776736
+571,340069,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.88,0.013236364
+572,340069,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Worse than the National Rate,2.01,0.012848389
+573,340069,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.31,0.001404731
+574,340069,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,135.3,0.916446432
+575,340069,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.44,0.002039611
+576,340069,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.28,0.0014699
+577,340069,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+578,340069,Serious complications,PSI_90_SAFETY,Worse than the National Rate,1.12,0.008089054
+579,340070,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.5,0.134509372
+580,340070,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,16.8,0.126702997
+582,340070,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,Worse than the National Rate,10.6,0.072459783
+583,340070,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,Worse than the National Rate,14.8,0.084185276
+584,340070,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.3,0.119733649
+585,340070,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.2,0.09906432
+586,340070,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,2.21,0.014520159
+587,340070,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,12.37,0.083639081
+588,340070,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.14,0.015127273
+589,340070,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.41,0.008895039
+590,340070,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.15,0.000505703
+591,340070,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,151.83,1.028461069
+592,340070,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.31,0.00134185
+593,340070,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.13,0.000467696
+594,340070,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+595,340070,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.67,0.004749536
+596,340071,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.7,0.14553473
+597,340071,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.7,0.110808356
+599,340071,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.9,0.047023237
+600,340071,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.5,0.071049175
+601,340071,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.8,0.104175742
+602,340071,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.5,0.087940849
+603,340071,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.47,0.029783211
+604,340071,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.79,0.059315124
+605,340071,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.28,0.016145455
+606,340071,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.12,0.006984252
+607,340071,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.19,0.00073046
+609,340071,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.35,0.001556546
+610,340071,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.13,0.000467696
+611,340071,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+612,340071,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.73,0.005194805
+613,340073,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.6,0.195148842
+614,340073,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.2,0.107023918
+616,340073,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.8,0.053210505
+617,340073,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.1,0.074475984
+618,340073,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.8,0.104175742
+619,340073,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,17.2,0.112150756
+620,340073,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.95,0.026271358
+621,340073,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.93,0.060266341
+622,340073,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.99,0.014036364
+623,340073,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.13,0.007050142
+624,340073,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.15,0.000505703
+625,340073,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,137.56,0.931761198
+626,340073,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.31,0.00134185
+627,340073,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.12,0.000400882
+628,340073,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+629,340073,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.68,0.004823748
+630,340075,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+631,340075,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.7,0.103239479
+633,340075,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.9,0.053897979
+634,340075,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.7,0.066480096
+635,340075,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.6,0.115377435
+636,340075,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.6,0.095138389
+637,340075,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.66,0.031066388
+638,340075,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.3,0.062780269
+639,340075,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,3.19,0.022763636
+640,340075,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.52,0.009619819
+641,340075,Pressure sores,PSI_3_ULCER,No Different than the National Rate,1.24,0.006630331
+642,340075,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,113.48,0.768584401
+643,340075,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+644,340075,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.21,0.001002205
+645,340075,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+646,340075,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.94,0.006753247
+652,340084,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.8,0.09795258
+657,340084,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.41,0.008895039
+658,340084,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.46,0.00224757
+660,340084,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.41,0.001878589
+661,340084,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.17,0.00073495
+663,340084,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.9,0.006456401
+664,340085,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.3,0.178610805
+667,340085,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.2,0.055960401
+668,340085,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.8,0.072762579
+669,340085,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.6,0.115377435
+670,340085,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,18.6,0.121311261
+671,340085,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,7.41,0.049638684
+672,340085,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.69,0.065430086
+673,340085,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.25,0.015927273
+674,340085,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,2.04,0.013046057
+675,340085,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.35,0.001629488
+677,340085,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.51,0.002415329
+678,340085,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.16,0.000668137
+679,340085,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+680,340085,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.18,0.008534323
+684,340087,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7,0.047710711
+685,340087,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13,0.073904849
+686,340087,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.6,0.090484784
+687,340087,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.5,0.081397631
+688,340087,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.64,0.037684879
+690,340087,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.28,0.016145455
+691,340087,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.35,0.008499703
+692,340087,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.34,0.001573299
+694,340087,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.51,0.002415329
+695,340087,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.16,0.000668137
+696,340087,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+697,340087,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.92,0.006604824
+698,340090,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.5,0.189636163
+699,340090,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12,0.090372389
+701,340090,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.8,0.046335762
+702,340090,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.3,0.058484208
+703,340090,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17,0.105420375
+704,340090,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.4,0.093829745
+705,340090,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.97,0.039913554
+706,340090,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,7.68,0.051773339
+707,340090,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.11,0.014909091
+708,340090,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.19,0.007445477
+709,340090,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.14,0.000449514
+710,340090,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,141.25,0.95676628
+711,340090,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.5,0.002361655
+712,340090,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.11,0.000334068
+713,340090,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+714,340090,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.86,0.006159555
+715,340091,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,Better than the National Rate,1.9,0.101433297
+716,340091,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,11.4,0.085831063
+717,340091,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.6,0.14399093
+718,340091,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.4,0.050460608
+719,340091,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.2,0.063624422
+720,340091,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.2,0.106665007
+721,340091,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.5,0.094484067
+722,340091,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,Better than the National Rate,2.72,0.017964476
+723,340091,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,6.2,0.041717625
+724,340091,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.79,0.012581818
+725,340091,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Better than the National Rate,0.86,0.005271134
+726,340091,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.15,0.000505703
+727,340091,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,147.24,0.997357186
+728,340091,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.62,0.003005743
+729,340091,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.12,0.000400882
+730,340091,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+731,340091,Serious complications,PSI_90_SAFETY,Better than the National Rate,0.59,0.004155844
+732,340096,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+735,340096,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.8,0.053210505
+736,340096,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.9,0.079045063
+737,340096,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.6,0.10293111
+738,340096,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.6,0.095138389
+739,340096,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.81,0.025325859
+741,340096,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.27,0.016072727
+742,340096,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.57,0.009949265
+743,340096,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.33,0.00151711
+745,340096,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.44,0.002039611
+746,340096,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+747,340096,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+748,340096,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.83,0.00593692
+749,340097,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.6,0.140022051
+750,340097,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.1,0.10626703
+752,340097,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.5,0.058022824
+753,340097,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.5,0.065337826
+754,340097,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.9,0.092351733
+755,340097,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.3,0.086632206
+756,340097,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.44,0.022827041
+757,340097,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.66,0.065226254
+758,340097,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.27,0.016072727
+759,340097,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.18,0.007379588
+760,340097,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.31,0.001404731
+762,340097,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.37,0.001663894
+763,340097,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+764,340097,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+765,340097,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.7,0.004972171
+766,340098,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.6,0.195148842
+767,340098,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.7,0.103239479
+768,340098,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,3.6,0.200680272
+769,340098,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.7,0.059397773
+770,340098,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.2,0.075047119
+771,340098,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.4,0.101686477
+772,340098,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.2,0.092521102
+773,340098,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.43,0.029513068
+774,340098,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.89,0.066788966
+775,340098,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.96,0.013818182
+776,340098,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.85,0.005205245
+777,340098,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.32,0.00146092
+778,340098,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,148.13,1.003388223
+779,340098,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+780,340098,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.18,0.000801764
+781,340098,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+782,340098,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.69,0.004897959
+783,340099,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.5,0.134509372
+784,340099,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.3,0.100211929
+786,340099,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.6,0.058710298
+787,340099,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.7,0.066480096
+788,340099,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.9,0.117244384
+789,340099,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.7,0.089249493
+790,340099,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.44,0.036334166
+791,340099,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,11.07,0.07480636
+792,340099,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.21,0.015636364
+793,340099,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.12,0.006984252
+794,340099,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.29,0.001292353
+796,340099,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.43,0.001985937
+797,340099,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+798,340099,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+799,340099,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.83,0.00593692
+801,340106,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.5,0.101725704
+803,340106,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.4,0.050460608
+804,340106,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.8,0.067051231
+805,340106,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.4,0.101686477
+806,340106,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.2,0.09906432
+807,340106,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.59,0.030593638
+810,340106,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.5,0.009488041
+811,340106,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.29,0.001292353
+813,340106,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+814,340106,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.16,0.000668137
+815,340106,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+816,340106,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.86,0.006159555
+817,340107,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+818,340107,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.7,0.103239479
+820,340107,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.2,0.062835144
+821,340107,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.1,0.063053287
+822,340107,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.2,0.11288817
+823,340107,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.7,0.089249493
+824,340107,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.95,0.033024921
+825,340107,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,14.63,0.098994429
+826,340107,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.23,0.015781818
+827,340107,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.93,0.005732358
+828,340107,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.29,0.001292353
+829,340107,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,135.08,0.914955614
+830,340107,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.49,0.002307981
+831,340107,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+832,340107,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+833,340107,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.8,0.005714286
+834,340109,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+835,340109,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,15.3,0.115349682
+837,340109,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.6,0.065585041
+838,340109,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.3,0.064195557
+839,340109,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.4,0.120355965
+840,340109,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.6,0.088595171
+841,340109,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.33,0.022084149
+842,340109,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.67,0.058499796
+843,340109,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.11,0.014909091
+844,340109,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.13,0.007050142
+845,340109,Pressure sores,PSI_3_ULCER,No Different than the National Rate,1.24,0.006630331
+846,340109,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,135.96,0.920918886
+847,340109,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+848,340109,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.12,0.000400882
+849,340109,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+850,340109,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.75,0.005343228
+851,340113,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.1,0.112458655
+852,340113,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,15.4,0.11610657
+853,340113,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.9,0.160997732
+854,340113,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.7,0.059397773
+855,340113,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.4,0.07047804
+856,340113,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.3,0.107287323
+857,340113,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.9,0.11018779
+858,340113,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.87,0.032484636
+859,340113,Blood stream infection after surgery,PSI_13_POST_SEPSIS,Better than the National Rate,5.56,0.037369208
+860,340113,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,3.63,0.025963636
+861,340113,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Better than the National Rate,0.68,0.004085129
+862,340113,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.4,0.001910434
+863,340113,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,140.86,0.954123467
+864,340113,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.42,0.001932263
+865,340113,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+866,340113,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+867,340113,Serious complications,PSI_90_SAFETY,Better than the National Rate,0.67,0.004749536
+868,340114,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,Better than the National Rate,1.5,0.07938258
+869,340114,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.8,0.09642749
+870,340114,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.3,0.126984127
+871,340114,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.7,0.059397773
+872,340114,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.4,0.07047804
+873,340114,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,18,0.111643537
+874,340114,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15,0.097755676
+875,340114,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.91,0.032754778
+876,340114,Blood stream infection after surgery,PSI_13_POST_SEPSIS,Better than the National Rate,5.28,0.035466775
+877,340114,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.63,0.011418182
+878,340114,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.6,0.010146933
+879,340114,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.28,0.001236163
+880,340114,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,134.59,0.911635156
+881,340114,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.3,0.001288176
+882,340114,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.07,6.68137E-05
+883,340114,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+884,340114,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.82,0.005862709
+885,340115,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.6,0.140022051
+886,340115,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.7,0.095670602
+887,340115,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,3.1,0.172335601
+888,340115,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.1,0.055272927
+889,340115,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11,0.062482152
+890,340115,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Better than the National Rate,13,0.080527724
+891,340115,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.5,0.101027285
+892,340115,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.83,0.032214493
+893,340115,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,10.35,0.069914391
+894,340115,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.74,0.019490909
+895,340115,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.57,0.009949265
+896,340115,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.35,0.001629488
+897,340115,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,124.61,0.844006234
+898,340115,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.3,0.001288176
+899,340115,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.06,0
+900,340115,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+901,340115,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.86,0.006159555
+902,340116,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+903,340116,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,16.1,0.121404784
+904,340116,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,4.2,0.234693878
+905,340116,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.3,0.063522618
+906,340116,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.7,0.072191444
+907,340116,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.1,0.118489016
+908,340116,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.5,0.087940849
+909,340116,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,2.9,0.019180118
+911,340116,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.12,0.014981818
+912,340116,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.4,0.008829149
+913,340116,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.15,0.000505703
+914,340116,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,152.89,1.035644101
+915,340116,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.45,0.002093285
+916,340116,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.19,0.000868578
+917,340116,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+918,340116,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.74,0.005269017
+919,340119,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+920,340119,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.9,0.104753255
+922,340119,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.1,0.055272927
+923,340119,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.9,0.067622366
+924,340119,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,18.9,0.117244384
+925,340119,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.6,0.108224825
+926,340119,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.89,0.039373269
+927,340119,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,12.78,0.086424786
+928,340119,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.77,0.019709091
+929,340119,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.3,0.008170258
+930,340119,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.26,0.001123785
+932,340119,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+933,340119,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.25,0.001269459
+934,340119,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+935,340119,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.92,0.006604824
+937,340120,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.1,0.10626703
+939,340120,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.5,0.058022824
+940,340120,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.4,0.059055343
+941,340120,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.9,0.098574896
+942,340120,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.5,0.094484067
+943,340120,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.83,0.038968056
+945,340120,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.28,0.016145455
+946,340120,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,2.07,0.013243724
+947,340120,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.36,0.001685677
+949,340120,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+950,340120,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+951,340120,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+952,340120,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.07,0.007717996
+953,340123,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+954,340123,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,15,0.113079019
+956,340123,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.6,0.058710298
+957,340123,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.7,0.066480096
+958,340123,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.9,0.111021221
+959,340123,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.2,0.092521102
+960,340123,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.89,0.025866144
+961,340123,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.4,0.063459709
+962,340123,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.1,0.014836364
+963,340123,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.71,0.004282796
+964,340123,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.23,0.000955217
+965,340123,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,110.57,0.748864945
+966,340123,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.34,0.001502872
+967,340123,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.13,0.000467696
+968,340123,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+969,340123,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.61,0.004304267
+970,340126,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+971,340126,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.1,0.10626703
+973,340126,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.6,0.044960814
+974,340126,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.5,0.059626478
+975,340126,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,18.9,0.117244384
+976,340126,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.2,0.09906432
+977,340126,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.11,0.027351928
+978,340126,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.48,0.064003261
+979,340126,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.19,0.015490909
+980,340126,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.73,0.004414575
+981,340126,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.39,0.001854245
+982,340126,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,118.27,0.801043573
+983,340126,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+984,340126,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.11,0.000334068
+985,340126,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+986,340126,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.64,0.004526902
+987,340127,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,Worse than the National Rate,5.6,0.305402426
+988,340127,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.5,0.101725704
+990,340127,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.5,0.051148082
+991,340127,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.3,0.075618253
+992,340127,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.2,0.106665007
+993,340127,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.3,0.093175424
+994,340127,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.06,0.033767813
+996,340127,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.26,0.016
+997,340127,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.77,0.011267049
+998,340127,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.33,0.00151711
+999,340127,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,134.39,0.910279867
+1000,340127,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.38,0.001717567
+1001,340127,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+1002,340127,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1003,340127,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.95,0.006827458
+1004,340129,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.2,0.173098126
+1005,340129,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13,0.097941266
+1007,340129,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.5,0.058022824
+1008,340129,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,14.4,0.081900737
+1009,340129,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.9,0.123467546
+1010,340129,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.9,0.103644572
+1011,340129,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6.62,0.04430337
+1012,340129,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,10.28,0.069438782
+1013,340129,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.71,0.019272727
+1014,340129,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.38,0.008697371
+1015,340129,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.83,0.004326572
+1016,340129,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,115.22,0.780375415
+1017,340129,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.4,0.001824915
+1018,340129,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+1019,340129,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1020,340129,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1,0.007198516
+1021,340130,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,Worse than the National Rate,5.1,0.27783903
+1022,340130,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13,0.097941266
+1024,340130,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.1,0.048398185
+1025,340130,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,14,0.079616197
+1026,340130,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.3,0.107287323
+1027,340130,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.1,0.078780344
+1028,340130,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,8.52,0.057135139
+1029,340130,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.47,0.063935317
+1030,340130,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.63,0.018690909
+1031,340130,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.89,0.005468801
+1032,340130,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.85,0.00443895
+1033,340130,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,125.63,0.850918208
+1034,340130,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.38,0.001717567
+1035,340130,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.22,0.001069019
+1036,340130,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1037,340130,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.01,0.007272727
+1038,340131,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.1,0.112458655
+1039,340131,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.9,0.104753255
+1040,340131,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,3.6,0.200680272
+1041,340131,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.2,0.055960401
+1042,340131,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.1,0.063053287
+1043,340131,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.3,0.094840998
+1044,340131,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.6,0.108224825
+1045,340131,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.9,0.02593368
+1046,340131,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,7.12,0.047968474
+1047,340131,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.9,0.013381818
+1048,340131,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.2,0.007511366
+1049,340131,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.08,0.000112378
+1050,340131,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,160.75,1.088906959
+1051,340131,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.4,0.001824915
+1052,340131,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+1053,340131,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1054,340131,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.7,0.004972171
+1056,340132,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.3,0.107780805
+1058,340132,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.5,0.064897566
+1059,340132,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.2,0.075047119
+1060,340132,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.6,0.109154272
+1061,340132,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14,0.091212458
+1062,340132,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.37,0.022354292
+1063,340132,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.56,0.064546813
+1064,340132,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.19,0.015490909
+1065,340132,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.39,0.00876326
+1066,340132,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.6,0.003034219
+1068,340132,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.4,0.001824915
+1069,340132,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.24,0.001202646
+1070,340132,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1071,340132,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.79,0.005640074
+1072,340133,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.6,0.140022051
+1075,340133,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.1,0.055272927
+1076,340133,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.8,0.067051231
+1077,340133,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,20.8,0.129068393
+1078,340133,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.1,0.078780344
+1079,340133,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.75,0.038427771
+1080,340133,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.73,0.065701862
+1082,340133,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.26,0.007906701
+1083,340133,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.35,0.001629488
+1085,340133,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+1086,340133,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.16,0.000668137
+1087,340133,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1088,340133,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.88,0.006307978
+1089,340141,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.4,0.128996692
+1090,340141,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.9,0.104753255
+1091,340141,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,3,0.166666667
+1092,340141,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.5,0.064897566
+1093,340141,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,Worse than the National Rate,14.3,0.081329602
+1094,340141,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,19.5,0.120978281
+1095,340141,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.3,0.093175424
+1096,340141,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.88,0.025798609
+1097,340141,Blood stream infection after surgery,PSI_13_POST_SEPSIS,Better than the National Rate,4.95,0.033224623
+1098,340141,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.57,0.018254545
+1099,340141,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Worse than the National Rate,2.1,0.013441392
+1100,340141,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.1,0.000224757
+1101,340141,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,163.97,1.110727113
+1102,340141,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,Worse than the National Rate,0.6,0.002898395
+1103,340141,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.26,0.001336273
+1104,340141,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1105,340141,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.96,0.00690167
+1106,340142,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.5,0.134509372
+1107,340142,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.4,0.108537693
+1109,340142,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.2,0.062835144
+1110,340142,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.4,0.07047804
+1111,340142,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.3,0.113510486
+1112,340142,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.2,0.09906432
+1113,340142,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6.34,0.042412373
+1114,340142,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,10.58,0.071477103
+1115,340142,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.12,0.014981818
+1116,340142,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.14,0.007116031
+1117,340142,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.15,0.000505703
+1118,340142,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,135.67,0.918953717
+1119,340142,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+1120,340142,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.22,0.001069019
+1121,340142,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1122,340142,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.88,0.006307978
+1123,340143,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.5,0.189636163
+1124,340143,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,16.1,0.121404784
+1126,340143,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,Worse than the National Rate,12.1,0.082771896
+1127,340143,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,Worse than the National Rate,16.4,0.093323434
+1128,340143,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,24.9,0.154583359
+1129,340143,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.8,0.096447033
+1130,340143,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.06,0.02701425
+1131,340143,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.01,0.054015491
+1132,340143,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.67,0.018981818
+1133,340143,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.32,0.008302036
+1134,340143,Pressure sores,PSI_3_ULCER,No Different than the National Rate,1.16,0.006180817
+1135,340143,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,175.15,1.186487769
+1136,340143,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.38,0.001717567
+1137,340143,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.12,0.000400882
+1138,340143,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1139,340143,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.83,0.00593692
+1140,340144,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.9,0.156560088
+1141,340144,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.1,0.10626703
+1143,340144,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.9,0.047023237
+1144,340144,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.6,0.065908961
+1145,340144,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.6,0.090484784
+1146,340144,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.6,0.088595171
+1147,340144,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.76,0.031741744
+1148,340144,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,11.11,0.075078136
+1149,340144,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.8,0.019927273
+1150,340144,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.71,0.010871714
+1151,340144,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.28,0.001236163
+1153,340144,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.37,0.001663894
+1154,340144,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.15,0.000601323
+1155,340144,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1156,340144,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.92,0.006604824
+1157,340145,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.7,0.200661521
+1158,340145,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.8,0.103996367
+1160,340145,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.8,0.053210505
+1161,340145,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.9,0.067622366
+1162,340145,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16,0.099197212
+1163,340145,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.2,0.085977884
+1164,340145,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.94,0.039710948
+1165,340145,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,11.2,0.075689632
+1166,340145,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.25,0.015927273
+1167,340145,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.97,0.005995915
+1168,340145,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.22,0.000899028
+1169,340145,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,128.11,0.867723792
+1170,340145,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+1171,340145,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+1172,340145,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1173,340145,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.81,0.005788497
+1174,340147,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.3,0.178610805
+1175,340147,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.9,0.104753255
+1177,340147,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.9,0.053897979
+1178,340147,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.4,0.07047804
+1179,340147,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,Worse than the National Rate,20.4,0.126579128
+1180,340147,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.2,0.085977884
+1181,340147,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.5,0.029985818
+1182,340147,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.46,0.057072972
+1183,340147,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.62,0.018618182
+1184,340147,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,Worse than the National Rate,2.45,0.015747513
+1185,340147,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.08,0.000112378
+1186,340147,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,140.79,0.953649116
+1187,340147,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.44,0.002039611
+1188,340147,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.09,0.000200441
+1189,340147,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1190,340147,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.04,0.007495362
+1198,340148,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.46,0.022962113
+1199,340148,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.09,0.054559043
+1200,340148,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.6,0.018472727
+1201,340148,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,0.84,0.005139356
+1202,340148,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.41,0.001966624
+1204,340148,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+1205,340148,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.16,0.000668137
+1206,340148,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1207,340148,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.63,0.00445269
+1208,340151,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.1,0.167585447
+1209,340151,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.2,0.099455041
+1211,340151,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.5,0.051148082
+1212,340151,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,9.7,0.055057399
+1213,340151,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.8,0.104175742
+1214,340151,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.8,0.083360597
+1215,340151,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.5,0.029985818
+1216,340151,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.4,0.063459709
+1217,340151,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.2,0.015563636
+1218,340151,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.47,0.009290374
+1219,340151,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.18,0.000674271
+1221,340151,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.4,0.001824915
+1222,340151,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+1223,340151,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1224,340151,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.83,0.00593692
+1225,340155,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.8,0.151047409
+1226,340155,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,14.1,0.10626703
+1227,340155,Death rate for CABG,MORT_30_CABG,No Different than the National Rate,2.9,0.160997732
+1228,340155,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.6,0.044960814
+1229,340155,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.3,0.064195557
+1230,340155,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15,0.092974049
+1231,340155,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.9,0.090558136
+1232,340155,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.97,0.033159992
+1233,340155,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,7.44,0.050142682
+1234,340155,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.54,0.018036364
+1235,340155,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.33,0.008367925
+1236,340155,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.37,0.001741867
+1237,340155,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,145.52,0.985701701
+1238,340155,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.35,0.001556546
+1239,340155,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.09,0.000200441
+1240,340155,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1241,340155,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.81,0.005788497
+1247,340156,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.3,0.088617836
+1252,340156,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.41,0.008895039
+1253,340156,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.46,0.00224757
+1255,340156,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.41,0.001878589
+1256,340156,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.17,0.00073495
+1258,340156,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.9,0.006456401
+1259,340158,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.7,0.14553473
+1260,340158,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.8,0.103996367
+1262,340158,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.2,0.062835144
+1263,340158,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.1,0.074475984
+1264,340158,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.5,0.102308793
+1265,340158,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.5,0.081397631
+1266,340158,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,2.4,0.015803336
+1267,340158,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,7.72,0.052045115
+1268,340158,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.1,0.014836364
+1269,340158,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.18,0.007379588
+1270,340158,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.21,0.000842839
+1271,340158,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,142.76,0.966998712
+1272,340158,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.41,0.001878589
+1273,340158,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+1274,340158,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1275,340158,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.62,0.004378479
+1276,340159,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.7,0.200661521
+1279,340159,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.8,0.046335762
+1280,340159,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12,0.0681935
+1281,340159,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.8,0.09795258
+1282,340159,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.1,0.098409998
+1283,340159,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,6.33,0.042344837
+1286,340159,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.48,0.009356263
+1287,340159,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.35,0.001629488
+1289,340159,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.39,0.001771241
+1290,340159,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.16,0.000668137
+1291,340159,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1292,340159,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.96,0.00690167
+1293,340166,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.3,0.178610805
+1294,340166,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.2,0.099455041
+1296,340166,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.4,0.050460608
+1297,340166,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.7,0.077902793
+1298,340166,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.7,0.109776588
+1299,340166,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.8,0.083360597
+1300,340166,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.05,0.026946714
+1301,340166,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.64,0.058295964
+1302,340166,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.18,0.015418182
+1303,340166,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.38,0.008697371
+1304,340166,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.24,0.001011406
+1306,340166,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.42,0.001932263
+1307,340166,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+1308,340166,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1309,340166,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.78,0.005565863
+1327,340171,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.5,0.189636163
+1328,340171,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.4,0.093399939
+1330,340171,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.4,0.050460608
+1331,340171,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.2,0.063624422
+1332,340171,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.6,0.10293111
+1333,340171,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.7,0.089249493
+1334,340171,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,4.02,0.026744108
+1335,340171,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,8.97,0.060538117
+1336,340171,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.66,0.018909091
+1337,340171,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.33,0.008367925
+1338,340171,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.5,0.002472327
+1339,340171,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,124.59,0.843870705
+1340,340171,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.36,0.00161022
+1341,340171,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.12,0.000400882
+1342,340171,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1343,340171,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.78,0.005565863
+1344,340173,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2,0.106945976
+1345,340173,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.9,0.104753255
+1347,340173,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,9.5,0.064897566
+1348,340173,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.5,0.076760523
+1349,340173,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.8,0.110398905
+1350,340173,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.9,0.090558136
+1351,340173,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,7.07,0.047342473
+1352,340173,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,6.5,0.043755945
+1353,340173,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,1.96,0.013818182
+1354,340173,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.64,0.01041049
+1355,340173,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.12,0.000337135
+1356,340173,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,132.18,0.895303924
+1357,340173,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.49,0.002307981
+1358,340173,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.29,0.001536714
+1359,340173,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1360,340173,Serious complications,PSI_90_SAFETY,No Different than the National Rate,1.04,0.007495362
+1361,340183,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.2,0.117971334
+1362,340183,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,12.5,0.094156827
+1364,340183,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.9,0.047023237
+1365,340183,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.1,0.063053287
+1366,340183,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16,0.099197212
+1367,340183,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,12.2,0.079434666
+1368,340183,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.41,0.036131559
+1369,340183,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,11.08,0.074874304
+1370,340183,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.16,0.015272727
+1371,340183,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.52,0.009619819
+1372,340183,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.18,0.000674271
+1373,340183,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,121.9,0.825642068
+1374,340183,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.35,0.001556546
+1375,340183,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.24,0.001202646
+1376,340183,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1377,340183,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.91,0.006530612
+1378,340184,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2,0.106945976
+1379,340184,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13,0.097941266
+1381,340184,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.6,0.051835556
+1382,340184,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11,0.062482152
+1383,340184,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.7,0.097330263
+1384,340184,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.2,0.092521102
+1385,340184,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,5.15,0.034375633
+1386,340184,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.31,0.062848213
+1387,340184,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.17,0.015345455
+1388,340184,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.83,0.011662384
+1389,340184,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.25,0.001067596
+1390,340184,Deaths among Patients with Serious Treatable Complications after Surgery,PSI_4_SURG_COMP,No Different than the National Rate,130.31,0.882631971
+1391,340184,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.34,0.001502872
+1392,340184,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+1393,340184,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1394,340184,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.94,0.006753247
+1395,340186,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.3,0.123484013
+1398,340186,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.8,0.060085247
+1399,340186,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.9,0.073333714
+1400,340186,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.1,0.112265854
+1401,340186,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.1,0.09186678
+1402,340186,Serious blood clots after surgery,PSI_12_POSTOP_PULMEMB_DVT,No Different than the National Rate,3.97,0.026406429
+1403,340186,Blood stream infection after surgery,PSI_13_POST_SEPSIS,No Different than the National Rate,9.32,0.062916157
+1404,340186,A wound that splits open  after surgery on the abdomen or pelvis,PSI_14_POSTOP_DEHIS,No Different than the National Rate,2.21,0.015636364
+1405,340186,Accidental cuts and tears from medical treatment,PSI_15_ACC_LAC,No Different than the National Rate,1.31,0.008236147
+1406,340186,Pressure sores,PSI_3_ULCER,No Different than the National Rate,0.26,0.001123785
+1408,340186,Collapsed lung due to medical treatment,PSI_6_IAT_PTX,No Different than the National Rate,0.37,0.001663894
+1409,340186,Infections from a large venous catheter,PSI_7_CVCBI,No Different than the National Rate,0.14,0.000534509
+1410,340186,Broken hip from a fall after surgery,PSI_8_POST_HIP,No Different than the National Rate,0.06,0
+1411,340186,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.76,0.00541744
+1432,340188,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.6,0.051835556
+1434,340188,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.6,0.096707947
+1445,340188,Serious complications,PSI_90_SAFETY,No Different than the National Rate,0.9,0.006456401
+1483,341303,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7,0.047710711
+1485,341303,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.8,0.09795258
+1500,341304,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.6,0.051835556
+1501,341304,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.7,0.072191444
+1502,341304,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.7,0.097330263
+1503,341304,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.7,0.102335929
+1517,341305,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.1,0.055272927
+1518,341305,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.5,0.065337826
+1519,341305,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.5,0.096085631
+1534,341307,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.8,0.060085247
+1535,341307,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12,0.0681935
+1536,341307,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17,0.105420375
+1552,341311,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13,0.073904849
+1553,341311,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.1,0.099819528
+1568,341314,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.3,0.056647876
+1569,341314,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12,0.0681935
+1570,341314,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.2,0.094218682
+1585,341315,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.8,0.053210505
+1586,341315,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.8,0.067051231
+1587,341315,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.7,0.103553426
+1603,341316,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.9,0.079045063
+1604,341316,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.6,0.090484784
+1619,341317,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.5,0.058022824
+1621,341317,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.7,0.091107101
+1633,341318,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.7,0.14553473
+1636,341318,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.7,0.05252303
+1637,341318,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.4,0.07047804
+1638,341318,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.9,0.092351733
+1639,341318,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.1,0.104953216
+1650,341319,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.7,0.14553473
+1651,341319,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.8,0.103996367
+1653,341319,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.3,0.056647876
+1654,341319,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.7,0.066480096
+1655,341319,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.3,0.101064161
+1656,341319,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,13.3,0.086632206
+1670,341320,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.7,0.05252303
+1672,341320,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.7,0.097330263
+1684,341322,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.7,0.14553473
+1687,341322,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.5,0.051148082
+1688,341322,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,12.3,0.069906905
+1689,341322,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.3,0.101064161
+1690,341322,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,16.6,0.108224825
+1704,341323,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.6,0.044960814
+1705,341323,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.9,0.067622366
+1706,341323,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.5,0.108531956
+1718,341324,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3.2,0.173098126
+1721,341324,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.4,0.05733535
+1722,341324,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,14.2,0.080758467
+1723,341324,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.4,0.10790964
+1724,341324,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.5,0.101027285
+1736,341325,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.8,0.103996367
+1738,341325,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.9,0.053897979
+1739,341325,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.2,0.075047119
+1740,341325,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,14.1,0.087373203
+1741,341325,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.1,0.09186678
+1752,341326,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.5,0.134509372
+1753,341326,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.1,0.098698153
+1755,341326,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,7.9,0.053897979
+1756,341326,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,11.6,0.065908961
+1757,341326,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,18.2,0.11288817
+1758,341326,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,14.7,0.095792711
+1769,341327,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,3,0.162072767
+1772,341327,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.6,0.058710298
+1773,341327,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,15.1,0.085898681
+1774,341327,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,16.6,0.10293111
+1786,341328,Rate of complications for hip/knee replacement patients,COMP_HIP_KNEE,No Different than the National Rate,2.5,0.134509372
+1787,341328,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,MORT_30_AMI,No Different than the National Rate,13.8,0.103996367
+1789,341328,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,6.7,0.045648288
+1790,341328,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,13.3,0.075618253
+1791,341328,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,17.9,0.111021221
+1792,341328,Death rate for stroke patients,MORT_30_STK,No Different than the National Rate,15.1,0.098409998
+1806,341329,Death rate for chronic obstructive pulmonary disease (COPD) patients,MORT_30_COPD,No Different than the National Rate,8.1,0.055272927
+1807,341329,Heart failure (HF) 30-Day Mortality Rate,MORT_30_HF,No Different than the National Rate,10.9,0.061911017
+1808,341329,Pneumonia (PN) 30-Day Mortality Rate,MORT_30_PN,No Different than the National Rate,15.6,0.096707947
