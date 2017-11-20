@@ -338,3 +338,40 @@ class Normalized_Complications(models.Model):
     class Meta:
         managed = True
         db_table = 'Normalized_Complications'
+
+class MD_Score(models.Model):
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey('Hospital', models.DO_NOTHING)
+    score = models.DecimalField(max_digits=10, decimal_places=5, blank=True, null=True)  # max_digits and decimal_places have been guessed, as this database handles decimal fields as float
+    class Meta:
+        managed = True
+        db_table = 'MD_Score'
+
+class MD_Hospital(models.Model):
+    id = models.IntegerField(primary_key=True)
+    provider = models.ForeignKey('Hospital', models.DO_NOTHING)
+    name = models.CharField(max_length=255,null=True, blank=True)
+    address = models.CharField(max_length=255,null=True, blank=True)
+    education_1 = models.CharField(max_length=255,null=True, blank=True)
+    education_2 = models.CharField(max_length=255,null=True, blank=True)
+    education_3 = models.CharField(max_length=255,null=True, blank=True)
+    education_4 = models.CharField(max_length=255,null=True, blank=True)
+    education_5 = models.CharField(max_length=255,null=True, blank=True)
+    education_6 = models.CharField(max_length=255,null=True, blank=True)
+    field_1 = models.CharField(max_length=255,null=True, blank=True)
+    field_2 = models.CharField(max_length=255,null=True, blank=True)
+    field_3 = models.CharField(max_length=255,null=True, blank=True)
+    field_4 = models.CharField(max_length=255,null=True, blank=True)
+    field_5 = models.CharField(max_length=255,null=True, blank=True)
+    field_6 = models.CharField(max_length=255,null=True, blank=True)
+    hospital_1 = models.CharField(max_length=255,null=True, blank=True)
+    hospital_2 = models.CharField(max_length=255,null=True, blank=True)
+    hospital_3 = models.CharField(max_length=255,null=True, blank=True)
+    hospital_4 = models.CharField(max_length=255,null=True, blank=True)
+    hospital_5 = models.CharField(max_length=255,null=True, blank=True)
+    hospital_6 = models.CharField(max_length=255,null=True, blank=True)
+    phone = models.CharField(max_length=255,null=True, blank=True)
+
+    class Meta:
+        managed = True
+        db_table = 'MD_Hospital'
