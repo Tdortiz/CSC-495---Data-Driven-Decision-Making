@@ -43,7 +43,7 @@
                 <div class="row">
                     {% for hospital in context.hospitals %}
                         <div class="col-sm-12">
-                            <p><a href="hospital/{{ hospital }}">{{ hospital }}</a></p>
+                            <p><a href="hospital/{{ hospital.provider_id }}">{{ hospital.name }}</a></p>
                         </div>
                     {% endfor %}
                 </div>

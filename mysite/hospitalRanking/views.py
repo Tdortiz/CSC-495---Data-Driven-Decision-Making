@@ -2,6 +2,7 @@ from django.conf import settings
 from django.shortcuts import render, redirect
 from django.http import Http404, JsonResponse
 from . models import HospitalRankingAlgorithm, Hospital
+from pprint import pprint
 import json
 
 
@@ -31,7 +32,7 @@ def submit_ranking_form(request):
 
         # Create algorithm, run it, save it
         ranked_hospitals = HospitalRankingAlgorithm(context['filters']).rank_hospitals_by_filters()
-        print(str(ranked_hospitals))
+        #pprint(ranked_hospitals)
         context['hospitals'] = ranked_hospitals
 
         # Print context
