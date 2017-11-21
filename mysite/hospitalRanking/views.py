@@ -21,13 +21,13 @@ def submit_ranking_form(request):
 
         context = {
             'filters': {
-                'location': str(location),
-                'distanceInMiles': str(distance_in_miles),
-                'cost_of_care': str(cost_of_care),
-                'timely_effective_care': str(timely_effective_care),
-                'complications_and_deaths': str(complications_and_deaths),
-                'hospital_returns': str(hospital_returns),
-                'doctor_ranking': str(doctor_ranking)
+                'Location': str(location),
+                'Distance In Miles': str(distance_in_miles),
+                'Cost of Care': str(cost_of_care),
+                'Timely and Effective Care': str(timely_effective_care),
+                'Complications and Death': str(complications_and_deaths),
+                'Hospital Returns': str(hospital_returns),
+                'Doctor Ranking': str(doctor_ranking)
             },
             'hospitals': []
         }
