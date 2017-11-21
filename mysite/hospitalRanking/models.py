@@ -65,6 +65,10 @@ class HospitalRankingAlgorithm:
         for hsp in hospitals_payment:
             ranking_dict[hsp[0]]['score'] = hsp[1]
 
+        hospitals_score = self.md_rank(hospitals_nc)
+        for hsp in hospitals_score:
+            ranking_dict[hsp[0]]['score']+=hsp[1]
+
         ranked_list = list()
         for key, value in ranking_dict.items():
             ranked_list.append(value)
@@ -88,6 +92,29 @@ class HospitalRankingAlgorithm:
                 # conver $xx,xxx string to int
 
                 n_score_sum += measurement.n_score
+                n_score_count += 1
+
+                hospitals_rating_dict[current_hospital.provider_id] = n_score_sum / n_score_count
+
+        # Sort
+        # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
+        return hospitals_rating_dict.iteritems()
+
+    def md_rank(self, hospitals_nc):
+        # dict use to sort
+        hospitals_rating_dict = dict()
+
+        for current_hospital in hospitals_nc:
+
+            # all payment_measurements for given provider_id
+            md_score = MD_Score.objects.filter(
+                provider_id=current_hospital.provider_id)
+            n_score_sum = 0
+            n_score_count = 0
+            for score in md_score:
+                # conver $xx,xxx string to int
+
+                n_score_sum += score.score
                 n_score_count += 1
 
                 hospitals_rating_dict[current_hospital.provider_id] = n_score_sum / n_score_count
