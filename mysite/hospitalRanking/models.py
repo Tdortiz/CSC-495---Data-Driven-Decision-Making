@@ -43,7 +43,7 @@ class HospitalRankingAlgorithm:
             ranking_dict[hospital.provider_id] = {
                 "provider_id": hospital.provider_id,
                 "name": hospital.hospital_name,
-                "score": randint(1, 100),
+                "score": -1,
                 "address": hospital.address,
                 "city": hospital.city,
                 "state": hospital.state,
@@ -60,6 +60,11 @@ class HospitalRankingAlgorithm:
 
         # Save dict items into an array that is sorted by item.score
         # Sort by putting [ Higher Scores, ..., Lower Scores ]
+
+        hospitals_payment = self.payment_rank(hospitals_nc)
+        for hsp in hospitals_payment:
+            ranking_dict[hsp[0]]['score'] = hsp[1]
+
         ranked_list = list()
         for key, value in ranking_dict.items():
             ranked_list.append(value)
@@ -72,37 +77,24 @@ class HospitalRankingAlgorithm:
         # dict use to sort
         hospitals_rating_dict = dict()
 
-
-        # Not available value in database
-        na = 0
-        # if all values are not available set it as
-        all_na = 9999999
-
         for current_hospital in hospitals_nc:
 
             # all payment_measurements for given provider_id
-            payment_measurements = PaymentAndValueOfCare_Hospital.objects.filter(
+            payment_measurements = Normalized_Payment.objects.filter(
                 provider_id=current_hospital.provider_id)
-            payment_sum = 0
-            payment_count = 0
+            n_score_sum = 0
+            n_score_count = 0
             for measurement in payment_measurements:
                 # conver $xx,xxx string to int
-                measurement_int = int(measurement.payment.replace('$', '').replace(',', ''))
-                # if measurement value is available
-                if (measurement_int != na):
-                    payment_sum += measurement_int
-                    payment_count += 1
 
-            if payment_count != 0:
-                hospitals_rating_dict[current_hospital.provider_id] = payment_sum / payment_count
+                n_score_sum += measurement.n_score
+                n_score_count += 1
 
-            # if all measurements are not available
-            else:
-                hospitals_rating_dict[current_hospital.provider_id] = all_na
+                hospitals_rating_dict[current_hospital.provider_id] = n_score_sum / n_score_count
 
         # Sort
-        hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
-        return hospitals_rating_dict_sorted
+        # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
+        return hospitals_rating_dict.iteritems()
 
 
 
