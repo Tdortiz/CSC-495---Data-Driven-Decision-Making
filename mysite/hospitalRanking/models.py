@@ -1,6 +1,8 @@
 from __future__ import unicode_literals
 from django.db import models
 import json
+from random import *
+from pprint import pprint
 
 '''
     A map to easily get/change values of priorities
@@ -41,7 +43,7 @@ class HospitalRankingAlgorithm:
             ranking_dict[hospital.provider_id] = {
                 "provider_id": hospital.provider_id,
                 "name": hospital.hospital_name,
-                "score": 0,
+                "score": randint(1, 100),
                 "address": hospital.address,
                 "city": hospital.city,
                 "state": hospital.state,
@@ -69,11 +71,13 @@ class HospitalRankingAlgorithm:
             '''
 
         # Save dict items into an array that is sorted by item.score
+        # Sort by putting [ Higher Scores, ..., Lower Scores ]
         ranked_list = list()
         for key, value in ranking_dict.items():
             ranked_list.append(value)
 
         # return ranked_list
+        ranked_list.sort(key=lambda item: item['score'], reverse=True)
         return ranked_list
 
     def payment_rank(self, hospitals_nc):

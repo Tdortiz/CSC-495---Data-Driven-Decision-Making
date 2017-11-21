@@ -44,6 +44,8 @@
                     {% for hospital in context.hospitals %}
                         <div class="col-sm-12">
                             <p><a href="hospital/{{ hospital.provider_id }}">{{ hospital.name }}</a></p>
+                            <p>Score - {{ hospital.score }}</p>
+                            <hr />
                         </div>
                     {% endfor %}
                 </div>
