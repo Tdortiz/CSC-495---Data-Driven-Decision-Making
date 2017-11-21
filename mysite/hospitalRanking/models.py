@@ -52,22 +52,10 @@ class HospitalRankingAlgorithm:
                 "phone_number": hospital.phone_number,
             }
 
-        #print(str(json.dumps(ranking_dict, indent=4, sort_keys=True)))
-
         # Run algorithm per hospital
         for current_hospital in hospitals_nc:
             '''
-            hospitals_nc_dict[current_hospital.provider_id] = current_hospital
-
-
-            # Ranking it
-            hospitals_payment_sorted = self.payment_rank(hospitals_nc)
-
-            # Return it
-
-            for hospital_sorted in hospitals_payment_sorted:
-                self.hospital_ranked_list.append(
-                    str(hospitals_nc_dict.get(hospital_sorted[0])) + "-" + str(hospital_sorted[1]))
+            Run algorithm and set score(s)
             '''
 
         # Save dict items into an array that is sorted by item.score
@@ -76,7 +64,7 @@ class HospitalRankingAlgorithm:
         for key, value in ranking_dict.items():
             ranked_list.append(value)
 
-        # return ranked_list
+        # Return the ranked list
         ranked_list.sort(key=lambda item: item['score'], reverse=True)
         return ranked_list
 
