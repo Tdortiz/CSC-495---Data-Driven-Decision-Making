@@ -45,6 +45,8 @@
                         <div class="col-sm-12">
                             <p><a href="hospital/{{ hospital.provider_id }}">{{ hospital.name }}</a></p>
                             <p>Score - {{ hospital.score|floatformat:2 }}</p>
+                            <p>Payment|Doctor|Complications|Returns|Timely</p>
+                            <p> {{ hospital.n_payment|floatformat:2 }} | {{ hospital.n_md|floatformat:2 }} | {{ hospital.n_complications|floatformat:2 }} | {{ hospital.n_returns|floatformat:2 }} | {{ hospital.n_timely|floatformat:2 }}</p>
                             <hr />
                         </div>
                     {% endfor %}

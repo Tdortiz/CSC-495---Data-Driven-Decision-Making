@@ -43,13 +43,18 @@ class HospitalRankingAlgorithm:
             ranking_dict[hospital.provider_id] = {
                 "provider_id": hospital.provider_id,
                 "name": hospital.hospital_name,
-                "score": -1,
+                "score": 0,
                 "address": hospital.address,
                 "city": hospital.city,
                 "state": hospital.state,
                 "zip_code": hospital.zip_code,
                 "county_name": hospital.county_name,
                 "phone_number": hospital.phone_number,
+                "n_payment": 0,
+                "n_md": 0,
+                "n_timely": 0,
+                "n_complications": 0,
+                "n_returns": 0
             }
 
         # Run algorithm per hospital
@@ -61,13 +66,54 @@ class HospitalRankingAlgorithm:
         # Save dict items into an array that is sorted by item.score
         # Sort by putting [ Higher Scores, ..., Lower Scores ]
 
+        # print self.filters['Complications and Death']
+        # 'Complications and Death': '1',
+        #  'Doctor Ranking': '1',
+        #  'Timely and Effective Care': '1',
+        #  'Cost of Care': '1',
+        #  'Hospital Returns': '1'
+
         hospitals_payment = self.payment_rank(hospitals_nc)
         for hsp in hospitals_payment:
-            ranking_dict[hsp[0]]['score'] = hsp[1]
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Cost of Care']))
+            ranking_dict[hsp[0]]['n_payment'] = float(hsp[1])
 
-        hospitals_score = self.md_rank(hospitals_nc)
-        for hsp in hospitals_score:
-            ranking_dict[hsp[0]]['score']+=hsp[1]
+        hospitals_md = self.md_rank(hospitals_nc)
+        for hsp in hospitals_md:
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Doctor Ranking']))
+            ranking_dict[hsp[0]]['n_md'] = float(hsp[1])
+
+        hospitals_timely = self.timely_rank(hospitals_nc)
+        for hsp in hospitals_timely:
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Timely and Effective Care']))
+            ranking_dict[hsp[0]]['n_timely'] = float(hsp[1])
+
+        hospitals_complications = self.complications_rank(hospitals_nc)
+        for hsp in hospitals_complications:
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Complications and Death']))
+            ranking_dict[hsp[0]]['n_complications'] = float(hsp[1])
+
+        hospitals_returns = self.returns_rank(hospitals_nc)
+        for hsp in hospitals_returns:
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Hospital Returns']))
+            ranking_dict[hsp[0]]['n_returns'] = float(hsp[1])
+
+        print ranking_dict
+
+        # Normalize final results for display 0-1, higher score is better
+        max_score=0
+        min_score=1
+        for key in ranking_dict.iterkeys():
+            if max_score<ranking_dict[key]['score']:
+                max_score=ranking_dict[key]['score']
+            if min_score>ranking_dict[key]['score']:
+                min_score=ranking_dict[key]['score']
+
+        for key in ranking_dict.iterkeys():
+            ranking_dict[key]['score'] = (ranking_dict[key]['score']-min_score)/(max_score-min_score)
+
+        # ENd Normalization
+
 
         ranked_list = list()
         for key, value in ranking_dict.items():
@@ -124,6 +170,74 @@ class HospitalRankingAlgorithm:
         return hospitals_rating_dict.iteritems()
 
 
+    def timely_rank(self, hospitals_nc):
+        # dict use to sort
+        hospitals_rating_dict = dict()
+
+        for current_hospital in hospitals_nc:
+
+            # all payment_measurements for given provider_id
+            payment_measurements = Normalized_Timely.objects.filter(
+                provider_id=current_hospital.provider_id)
+            n_score_sum = 0
+            n_score_count = 0
+            for measurement in payment_measurements:
+                # conver $xx,xxx string to int
+
+                n_score_sum += measurement.n_score
+                n_score_count += 1
+
+                hospitals_rating_dict[current_hospital.provider_id] = n_score_sum / n_score_count
+
+        # Sort
+        # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
+        return hospitals_rating_dict.iteritems()
+
+    def complications_rank(self, hospitals_nc):
+        # dict use to sort
+        hospitals_rating_dict = dict()
+
+        for current_hospital in hospitals_nc:
+
+            # all payment_measurements for given provider_id
+            payment_measurements = Normalized_Complications.objects.filter(
+                provider_id=current_hospital.provider_id)
+            n_score_sum = 0
+            n_score_count = 0
+            for measurement in payment_measurements:
+                # conver $xx,xxx string to int
+
+                n_score_sum += measurement.n_score
+                n_score_count += 1
+
+                hospitals_rating_dict[current_hospital.provider_id] = n_score_sum / n_score_count
+
+        # Sort
+        # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
+        return hospitals_rating_dict.iteritems()
+
+    def returns_rank(self, hospitals_nc):
+        # dict use to sort
+        hospitals_rating_dict = dict()
+
+        for current_hospital in hospitals_nc:
+
+            # all payment_measurements for given provider_id
+            payment_measurements = Normalized_Returns.objects.filter(
+                provider_id=current_hospital.provider_id)
+            n_score_sum = 0
+            n_score_count = 0
+            for measurement in payment_measurements:
+                # conver $xx,xxx string to int
+
+                n_score_sum += measurement.n_score
+                n_score_count += 1
+
+                hospitals_rating_dict[current_hospital.provider_id] = n_score_sum / n_score_count
+
+        # Sort
+        # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
+        return hospitals_rating_dict.iteritems()
 
 
 class Footnotes(models.Model):
