@@ -104,10 +104,10 @@ class HospitalRankingAlgorithm:
         max_score = 0
         min_score = 1
         for key in ranking_dict.keys():
-            if max_score<ranking_dict[key]['score']:
-                max_score=ranking_dict[key]['score']
-            if min_score>ranking_dict[key]['score']:
-                min_score=ranking_dict[key]['score']
+            if max_score < ranking_dict[key]['score']:
+                max_score = ranking_dict[key]['score']
+            if min_score > ranking_dict[key]['score']:
+                min_score = ranking_dict[key]['score']
 
         for key in ranking_dict.keys():
             ranking_dict[key]['score'] = (ranking_dict[key]['score']-min_score)/(max_score-min_score)
@@ -157,7 +157,7 @@ class HospitalRankingAlgorithm:
             n_score_sum = 0
             n_score_count = 0
             for score in md_score:
-                # conver $xx,xxx string to int
+                # convert $xx,xxx string to int
 
                 n_score_sum += score.score
                 n_score_count += 1
@@ -181,7 +181,7 @@ class HospitalRankingAlgorithm:
             n_score_sum = 0
             n_score_count = 0
             for measurement in payment_measurements:
-                # conver $xx,xxx string to int
+                # convert $xx,xxx string to int
 
                 n_score_sum += measurement.n_score
                 n_score_count += 1
@@ -204,7 +204,7 @@ class HospitalRankingAlgorithm:
             n_score_sum = 0
             n_score_count = 0
             for measurement in payment_measurements:
-                # conver $xx,xxx string to int
+                # convert $xx,xxx string to int
 
                 n_score_sum += measurement.n_score
                 n_score_count += 1
@@ -227,7 +227,7 @@ class HospitalRankingAlgorithm:
             n_score_sum = 0
             n_score_count = 0
             for measurement in payment_measurements:
-                # conver $xx,xxx string to int
+                # convert $xx,xxx string to int
 
                 n_score_sum += measurement.n_score
                 n_score_count += 1
