@@ -98,22 +98,21 @@ class HospitalRankingAlgorithm:
             ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Hospital Returns']))
             ranking_dict[hsp[0]]['n_returns'] = float(hsp[1])
 
-        print ranking_dict
+        pprint(ranking_dict)
 
         # Normalize final results for display 0-1, higher score is better
-        max_score=0
-        min_score=1
-        for key in ranking_dict.iterkeys():
+        max_score = 0
+        min_score = 1
+        for key in ranking_dict.keys():
             if max_score<ranking_dict[key]['score']:
                 max_score=ranking_dict[key]['score']
             if min_score>ranking_dict[key]['score']:
                 min_score=ranking_dict[key]['score']
 
-        for key in ranking_dict.iterkeys():
+        for key in ranking_dict.keys():
             ranking_dict[key]['score'] = (ranking_dict[key]['score']-min_score)/(max_score-min_score)
 
-        # ENd Normalization
-
+        # End Normalization
 
         ranked_list = list()
         for key, value in ranking_dict.items():
@@ -135,7 +134,7 @@ class HospitalRankingAlgorithm:
             n_score_sum = 0
             n_score_count = 0
             for measurement in payment_measurements:
-                # conver $xx,xxx string to int
+                # convert $xx,xxx string to int
 
                 n_score_sum += measurement.n_score
                 n_score_count += 1
@@ -144,7 +143,7 @@ class HospitalRankingAlgorithm:
 
         # Sort
         # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
-        return hospitals_rating_dict.iteritems()
+        return hospitals_rating_dict.items()
 
     def md_rank(self, hospitals_nc):
         # dict use to sort
@@ -167,7 +166,7 @@ class HospitalRankingAlgorithm:
 
         # Sort
         # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
-        return hospitals_rating_dict.iteritems()
+        return hospitals_rating_dict.items()
 
 
     def timely_rank(self, hospitals_nc):
@@ -191,7 +190,7 @@ class HospitalRankingAlgorithm:
 
         # Sort
         # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
-        return hospitals_rating_dict.iteritems()
+        return hospitals_rating_dict.items()
 
     def complications_rank(self, hospitals_nc):
         # dict use to sort
@@ -214,7 +213,7 @@ class HospitalRankingAlgorithm:
 
         # Sort
         # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
-        return hospitals_rating_dict.iteritems()
+        return hospitals_rating_dict.items()
 
     def returns_rank(self, hospitals_nc):
         # dict use to sort
@@ -237,7 +236,7 @@ class HospitalRankingAlgorithm:
 
         # Sort
         # hospitals_rating_dict_sorted = sorted(hospitals_rating_dict.iteritems(), key=lambda d: d[1])
-        return hospitals_rating_dict.iteritems()
+        return hospitals_rating_dict.items()
 
 
 class Footnotes(models.Model):
