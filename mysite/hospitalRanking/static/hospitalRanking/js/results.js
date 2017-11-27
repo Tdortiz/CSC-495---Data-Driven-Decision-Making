@@ -2,12 +2,6 @@
 var hue_red = 0;
 var hue_green = 94;
 
-1/** On window resize */
-$( window ).resize(function() {
-    // Fix the DataTable columns
-    $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
-});
-
 $(function () {
     $(".baseDataTable").DataTable( {
         fixedHeader: true,
@@ -19,7 +13,7 @@ $(function () {
         ],
         scrollY:        "200px",
         scrollCollapse: true,
-        paging:         true
+        paging:         false
     });
 });
 
