@@ -11,10 +11,12 @@ $(function () {
         columnDefs: [
             { responsivePriority: 1, targets: 0 },
         ],
-        scrollY:        "200px",
+        scrollY:        "400px",
         scrollCollapse: true,
         paging:         false
     });
+
+    $("#collapsablePanel").addClass("collapse");
 });
 
 /**
