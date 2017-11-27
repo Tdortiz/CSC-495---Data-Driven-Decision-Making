@@ -2,8 +2,25 @@
 var hue_red = 0;
 var hue_green = 94;
 
-$(function () {
+1/** On window resize */
+$( window ).resize(function() {
+    // Fix the DataTable columns
+    $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
+});
 
+$(function () {
+    $(".baseDataTable").DataTable( {
+        fixedHeader: true,
+        responsive: true,
+        ordering: false,
+        dom: '<lf<t>ip>',
+        columnDefs: [
+            { responsivePriority: 1, targets: 0 },
+        ],
+        scrollY:        "200px",
+        scrollCollapse: true,
+        paging:         true
+    });
 });
 
 /**

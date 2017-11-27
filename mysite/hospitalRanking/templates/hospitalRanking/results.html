@@ -4,6 +4,7 @@
 
 <head>
     {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'hospitalRanking/css/results.css' %}"/>
 </head>
 
 {% block body %}
@@ -64,88 +65,36 @@
             <h3 class="panel-title">Ranked Hospitals</h3>
         </div>
         <div class="panel-body">
-            <!-- This just prints the dictionary we pass here -->
-            <form class="form-horizontal">
-                <div class="row">
-                    <table class="table">
+            <div class="row">
+                <div class="col-sm-12">
+                    <table class="table table-striped">
                         <thead>
                             <tr>
-                                <th>Hospital</th>
-                                <th>Overall Score</th>
-                                <th>Payment Score</th>
-                                <th>Doctors Score</th>
-                                <th>Complications Score</th>
-                                <th>Returns Score</th>
-                                <th>Timely Score</th>
+                                <th class="text-center"> Hospital</th>
+                                <th class="text-center">Overall</th>
+                                <th class="text-center">Payment</th>
+                                <th class="text-center">Doctors</th>
+                                <th class="text-center">Complications</th>
+                                <th class="text-center">Returns</th>
+                                <th class="text-center">Timely</th>
                             </tr>
                         </thead>
                         <tbody>
                         {% for hospital in context.hospitals %}
                         <tr>
                             <td><a href="hospital/{{ hospital.provider_id }}">{{ hospital.name | title }}</a></td>
-                            <td><div id="overallScore-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
-                            <td><div id="payment-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
-                            <td><div id="doctors-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
-                            <td><div id="complications-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
-                            <td><div id="returns-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
-                            <td><div id="timely-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
+                            <td><div id="overallScore-{{ hospital.provider_id }}" style="height: 50px;"></div></td>
+                            <td><div id="payment-{{ hospital.provider_id }}" style="height: 50px;"></div></td>
+                            <td><div id="doctors-{{ hospital.provider_id }}" style="height: 50px;"></div></td>
+                            <td><div id="complications-{{ hospital.provider_id }}" style="height: 50px;"></div></td>
+                            <td><div id="returns-{{ hospital.provider_id }}" style="height: 50px;"></div></td>
+                            <td><div id="timely-{{ hospital.provider_id }}" style="height: 50px;"></div></td>
                         </tr>
                         {% endfor %}
                         </tbody>
                     </table>
-                {% comment %}
-                    {% for hospital in context.hospitals %}
-                        <div class="col-sm-12">
-                            <p><a href="hospital/{{ hospital.provider_id }}">{{ hospital.name }}</a></p>
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <label for="overallScore-{{ hospital.provider_id }}">Overall Score</label>
-                                    <div id="overallScore-{{ hospital.provider_id }}" class="col-sm-1"></div>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <label for="payment-{{ hospital.provider_id }}">Payment Score</label>
-                                    <div id="payment-{{ hospital.provider_id }}" class="col-sm-1"></div>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <label for="doctors-{{ hospital.provider_id }}">Doctors Score</label>
-                                    <div id="doctors-{{ hospital.provider_id }}" class="col-sm-1"></div>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <label for="complications-{{ hospital.provider_id }}">Complications Score</label>
-                                    <div id="complications-{{ hospital.provider_id }}" class="col-sm-1"></div>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <label for="returns-{{ hospital.provider_id }}">Returns Score</label>
-                                    <div id="returns-{{ hospital.provider_id }}" class="col-sm-1"></div>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <label for="timely-{{ hospital.provider_id }}">Timely Score</label>
-                                    <div id="timely-{{ hospital.provider_id }}" class="col-sm-1"></div>
-                                </div>
-                            </div>
-
-                            <p> {{ hospital.n_payment|floatformat:2 }} | {{ hospital.n_md|floatformat:2 }} | {{ hospital.n_complications|floatformat:2 }} | {{ hospital.n_returns|floatformat:2 }} | {{ hospital.n_timely|floatformat:2 }}</p>
-                            <hr />
-                        </div>
-                    {% endfor %}
-                    {% endcomment %}
                 </div>
-            </form>
+            </div>
         </div>
     </div>
 
