@@ -19,30 +19,10 @@
             <form class="form-horizontal">
                 <div class="row">
                     <h4 class="text-center">Location (stretch)</h4>
-                    <div class="col-sm-offset-1 col-sm-5">
+                    <div class="col-sm-offset-3 col-sm-6">
                         <label for="location" class="col-sm-4 control-label">Location</label>
                         <div class="col-sm-8">
                             <input id="location" class="form-control" name="location" value="{{ context.location_options.Location }}" disabled>
-                        </div>
-                    </div>
-                    <div class="col-sm-5">
-                        <label for="distanceInMiles" class="col-sm-4 control-label">Distance</label>
-                        <div class="col-sm-8">
-                            <select id="distanceInMiles" class="form-control" name="distanceInMiles" disabled>
-                                {% if context.location_options.Distance == '25' %}
-                                    <option value="25" selected="selected">< 25 Miles</option>
-                                    <option value="50">< 50 Miles</option>
-                                    <option value="100">< 100 Miles</option>
-                                {% elif context.location_options.Distance == '50' %}
-                                    <option value="25" >< 25 Miles</option>
-                                    <option value="50" selected="selected">< 50 Miles</option>
-                                    <option value="100">< 100 Miles</option>
-                                {% elif context.location_options.Distance == '100' %}
-                                    <option value="25">< 25 Miles</option>
-                                    <option value="50">< 50 Miles</option>
-                                    <option value="100" selected="selected">< 100 Miles</option>
-                                {% endif %}
-                            </select>
                         </div>
                     </div>
                 </div>

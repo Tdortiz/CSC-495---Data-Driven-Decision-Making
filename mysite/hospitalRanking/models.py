@@ -19,8 +19,7 @@ priorityMap = {
 
 
 class RankingForm:
-    location = 0
-    distance_in_miles = 0
+    location = ""
     cost_of_care = 0
     timely_effective_care = 0
     complications_and_deaths = 0
@@ -46,7 +45,12 @@ class HospitalRankingAlgorithm:
     def rank_hospitals_by_filters(self):
 
         # All hospitals in NC
-        hospitals_nc = Hospital.objects.filter(state='NC').all()
+        hospitals_nc = []
+
+        if self.ranking_form.location != "":
+            hospitals_nc = Hospital.objects.filter(state='NC', city__iexact=self.ranking_form.location)
+        else:
+            hospitals_nc = Hospital.objects.filter(state='NC').all()
 
         # Setup ranking dictionary
         ranking_dict = dict()

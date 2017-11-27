@@ -13,7 +13,6 @@ def submit_ranking_form(request):
         # Example of how to get the form values
         ranking_form = RankingForm()
         ranking_form.location = request.POST['location']
-        ranking_form.distance_in_miles = request.POST['distanceInMiles']
         ranking_form.cost_of_care = request.POST['CostOfCare']
         ranking_form.timely_effective_care = request.POST['TimelyEffectiveCare']
         ranking_form.complications_and_deaths = request.POST['ComplicationsAndDeaths']
@@ -23,7 +22,6 @@ def submit_ranking_form(request):
         context = {
             'location_options': {
                 'Location': str(ranking_form.location),
-                'Distance': str(ranking_form.distance_in_miles),
             },
             'priorities': {
                 'Cost of Care': str(ranking_form.cost_of_care),
