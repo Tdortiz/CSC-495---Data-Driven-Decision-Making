@@ -2,6 +2,10 @@
 
 {% block title %}Hospital Ranking Results{% endblock %}
 
+<head>
+    {% load staticfiles %}
+</head>
+
 {% block body %}
 <div class="container">
 
@@ -18,9 +22,9 @@
             <!-- This just prints the dictionary we pass here -->
             <form class="form-horizontal">
                 <div class="row">
-                    <h4 class="text-center">Location (stretch)</h4>
+                    <h4 class="text-center">Location</h4>
                     <div class="col-sm-offset-3 col-sm-6">
-                        <label for="location" class="col-sm-4 control-label">Location</label>
+                        <label for="location" class="col-sm-4 control-label">City</label>
                         <div class="col-sm-8">
                             <input id="location" class="form-control" name="location" value="{{ context.location_options.Location }}" disabled>
                         </div>
@@ -63,15 +67,83 @@
             <!-- This just prints the dictionary we pass here -->
             <form class="form-horizontal">
                 <div class="row">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Hospital</th>
+                                <th>Overall Score</th>
+                                <th>Payment Score</th>
+                                <th>Doctors Score</th>
+                                <th>Complications Score</th>
+                                <th>Returns Score</th>
+                                <th>Timely Score</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        {% for hospital in context.hospitals %}
+                        <tr>
+                            <td><a href="hospital/{{ hospital.provider_id }}">{{ hospital.name | title }}</a></td>
+                            <td><div id="overallScore-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
+                            <td><div id="payment-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
+                            <td><div id="doctors-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
+                            <td><div id="complications-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
+                            <td><div id="returns-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
+                            <td><div id="timely-{{ hospital.provider_id }}" class="col-sm-6"></div></td>
+                        </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                {% comment %}
                     {% for hospital in context.hospitals %}
                         <div class="col-sm-12">
                             <p><a href="hospital/{{ hospital.provider_id }}">{{ hospital.name }}</a></p>
-                            <p>Score - {{ hospital.score|floatformat:2 }}</p>
-                            <p>Payment|Doctor|Complications|Returns|Timely</p>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <label for="overallScore-{{ hospital.provider_id }}">Overall Score</label>
+                                    <div id="overallScore-{{ hospital.provider_id }}" class="col-sm-1"></div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <label for="payment-{{ hospital.provider_id }}">Payment Score</label>
+                                    <div id="payment-{{ hospital.provider_id }}" class="col-sm-1"></div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <label for="doctors-{{ hospital.provider_id }}">Doctors Score</label>
+                                    <div id="doctors-{{ hospital.provider_id }}" class="col-sm-1"></div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <label for="complications-{{ hospital.provider_id }}">Complications Score</label>
+                                    <div id="complications-{{ hospital.provider_id }}" class="col-sm-1"></div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <label for="returns-{{ hospital.provider_id }}">Returns Score</label>
+                                    <div id="returns-{{ hospital.provider_id }}" class="col-sm-1"></div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <label for="timely-{{ hospital.provider_id }}">Timely Score</label>
+                                    <div id="timely-{{ hospital.provider_id }}" class="col-sm-1"></div>
+                                </div>
+                            </div>
+
                             <p> {{ hospital.n_payment|floatformat:2 }} | {{ hospital.n_md|floatformat:2 }} | {{ hospital.n_complications|floatformat:2 }} | {{ hospital.n_returns|floatformat:2 }} | {{ hospital.n_timely|floatformat:2 }}</p>
                             <hr />
                         </div>
                     {% endfor %}
+                    {% endcomment %}
                 </div>
             </form>
         </div>
@@ -79,4 +151,19 @@
 
 
 </div>
+
+<script src="{% static 'hospitalRanking/js/results.js' %}"></script>
+<script>
+$(function () {
+    {% for hospital in context.hospitals %}
+        createCircleProgressBar("#overallScore-{{ hospital.provider_id }}", {{ hospital.score }} );
+        createCircleProgressBar("#payment-{{ hospital.provider_id }}", {{ hospital.n_payment }} );
+        createCircleProgressBar("#doctors-{{ hospital.provider_id }}", {{ hospital.n_md }} );
+        createCircleProgressBar("#complications-{{ hospital.provider_id }}", {{ hospital.n_complications }} );
+        createCircleProgressBar("#returns-{{ hospital.provider_id }}", {{ hospital.n_returns }} );
+        createCircleProgressBar("#timely-{{ hospital.provider_id }}", {{ hospital.n_timely }} );
+    {% endfor %}
+
+});
+</script>
 {% endblock %}
