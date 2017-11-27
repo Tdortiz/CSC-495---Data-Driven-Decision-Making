@@ -19,28 +19,17 @@
         <div class="panel-body">
             <form id="rankingForm" class="form-horizontal" method="post" action="{% url 'hospitalRanking:submit_ranking_form' %}">
                 {% csrf_token %}
-                <h4 class="text-center">Location (stretch)</h4>
+                <h4 class="text-center">Location</h4>
                 <div class="row">
-                    <div class="col-sm-offset-1 col-sm-5">
-                        <label for="location" class="col-sm-4 control-label">Location</label>
+                    <div class="col-sm-offset-3 col-sm-6">
+                        <label for="location" class="col-sm-4 control-label">City <small>(Optional)</small></label>
                         <div class="col-sm-8">
-                            <input id="location" class="form-control" name="location" placeholder="City, Zip">
-                        </div>
-                    </div>
-                    <div class="col-sm-5">
-                        <label for="distanceInMiles" class="col-sm-4 control-label">Distance</label>
-                        <div class="col-sm-8">
-                            <select id="distanceInMiles" class="form-control" name="distanceInMiles" required>
-                                <option value="25">< 25 Miles</option>
-                                <option value="50">< 50 Miles</option>
-                                <option value="100">< 100 Miles</option>
-                            </select>
+                            <input id="location" class="form-control" name="location" placeholder="Raleigh">
                         </div>
                     </div>
                 </div>
 
                 <hr>
-
 
                 <h4 class="text-center">Priorities</h4>
                 <div class="row" style="padding: 1em;">
