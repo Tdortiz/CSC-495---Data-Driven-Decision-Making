@@ -18,15 +18,57 @@
             <!-- This just prints the dictionary we pass here -->
             <form class="form-horizontal">
                 <div class="row">
-                    {% for key,value in context.filters.items %}
-                    <div class="col-sm-6">
-                        <div class="form-group">
-                            <label class="col-sm-4 control-label">{{ key }}</label>
-                            <div class="col-sm-8">
-                                <input class="form-control" value="{{ value }}" disabled>
-                            </div>
+                    <h4 class="text-center">Location (stretch)</h4>
+                    <div class="col-sm-offset-1 col-sm-5">
+                        <label for="location" class="col-sm-4 control-label">Location</label>
+                        <div class="col-sm-8">
+                            <input id="location" class="form-control" name="location" value="{{ context.location_options.Location }}" disabled>
                         </div>
                     </div>
+                    <div class="col-sm-5">
+                        <label for="distanceInMiles" class="col-sm-4 control-label">Distance</label>
+                        <div class="col-sm-8">
+                            <select id="distanceInMiles" class="form-control" name="distanceInMiles" disabled>
+                                {% if context.location_options.Distance == '25' %}
+                                    <option value="25" selected="selected">< 25 Miles</option>
+                                    <option value="50">< 50 Miles</option>
+                                    <option value="100">< 100 Miles</option>
+                                {% elif context.location_options.Distance == '50' %}
+                                    <option value="25" >< 25 Miles</option>
+                                    <option value="50" selected="selected">< 50 Miles</option>
+                                    <option value="100">< 100 Miles</option>
+                                {% elif context.location_options.Distance == '100' %}
+                                    <option value="25">< 25 Miles</option>
+                                    <option value="50">< 50 Miles</option>
+                                    <option value="100" selected="selected">< 100 Miles</option>
+                                {% endif %}
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <hr>
+
+                <div class="row">
+                    <h4 class="text-center">Priorities</h4>
+                    {% for key,value in context.priorities.items %}
+                        <div class="col-sm-6">
+                            <div class="form-group">
+
+                                <label for="CostOfCare" class="col-sm-4 control-label">{{ key }}</label>
+                                <div class="col-sm-8">
+                                    <input id="CostOfCare" class="form-control" type="text" name="CostOfCare"
+                                        data-provide="slider"
+                                        data-slider-min="0.75"
+                                        data-slider-max="1.25"
+                                        data-slider-step="0.05"
+                                        data-slider-value="{{ value }}"
+                                        data-slider-ticks="[0.75, 1.0, 1.25]"
+                                        data-slider-ticks-labels='["Low", "Medium", "High"]'
+                                        data-slider-enabled="false">
+                                </div>
+                            </div>
+                        </div>
                     {% endfor %}
                 </div>
             </form>

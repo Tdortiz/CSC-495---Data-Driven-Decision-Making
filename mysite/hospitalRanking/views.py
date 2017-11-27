@@ -1,7 +1,7 @@
 from django.conf import settings
 from django.shortcuts import render, redirect
 from django.http import Http404, JsonResponse
-from . models import HospitalRankingAlgorithm, Hospital
+from . models import HospitalRankingAlgorithm, Hospital, RankingForm
 from pprint import pprint
 import json
 
@@ -11,29 +11,32 @@ def submit_ranking_form(request):
     if request.method == 'POST':
 
         # Example of how to get the form values
-        location = request.POST['location']
-        distance_in_miles = request.POST['distanceInMiles']
-        cost_of_care = request.POST['CostOfCare']
-        timely_effective_care = request.POST['TimelyEffectiveCare']
-        complications_and_deaths = request.POST['ComplicationsAndDeaths']
-        hospital_returns = request.POST['HospitalReturns']
-        doctor_ranking = request.POST['DoctorRank']
+        ranking_form = RankingForm()
+        ranking_form.location = request.POST['location']
+        ranking_form.distance_in_miles = request.POST['distanceInMiles']
+        ranking_form.cost_of_care = request.POST['CostOfCare']
+        ranking_form.timely_effective_care = request.POST['TimelyEffectiveCare']
+        ranking_form.complications_and_deaths = request.POST['ComplicationsAndDeaths']
+        ranking_form.hospital_returns = request.POST['HospitalReturns']
+        ranking_form.doctor_ranking = request.POST['DoctorRank']
 
         context = {
-            'filters': {
-                'Location': str(location),
-                'Distance In Miles': str(distance_in_miles),
-                'Cost of Care': str(cost_of_care),
-                'Timely and Effective Care': str(timely_effective_care),
-                'Complications and Death': str(complications_and_deaths),
-                'Hospital Returns': str(hospital_returns),
-                'Doctor Ranking': str(doctor_ranking)
+            'location_options': {
+                'Location': str(ranking_form.location),
+                'Distance': str(ranking_form.distance_in_miles),
+            },
+            'priorities': {
+                'Cost of Care': str(ranking_form.cost_of_care),
+                'Timely and Effective Care': str(ranking_form.timely_effective_care),
+                'Complications and Death': str(ranking_form.complications_and_deaths),
+                'Hospital Returns': str(ranking_form.hospital_returns),
+                'Doctor Ranking': str(ranking_form.doctor_ranking)
             },
             'hospitals': []
         }
 
         # Create algorithm, run it, save it
-        ranked_hospitals = HospitalRankingAlgorithm(context['filters']).rank_hospitals_by_filters()
+        ranked_hospitals = HospitalRankingAlgorithm(ranking_form).rank_hospitals_by_filters()
         #pprint(ranked_hospitals)
         context['hospitals'] = ranked_hospitals
 

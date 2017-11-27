@@ -17,14 +17,25 @@ priorityMap = {
     'High': 1.25,
 }
 
+
+class RankingForm:
+    location = 0
+    distance_in_miles = 0
+    cost_of_care = 0
+    timely_effective_care = 0
+    complications_and_deaths = 0
+    hospital_returns = 0
+    doctor_ranking = 0
+
+
 '''
     The hospital ranking algorithm
 '''
 class HospitalRankingAlgorithm:
-    filters = {}
+    ranking_form = {}
 
-    def __init__(self, filters):
-        self.filters = filters
+    def __init__(self, ranking_form):
+        self.ranking_form = ranking_form
     
     '''
         Using the filters (Low = .75, Med = 1, High = 1.25) weight the 
@@ -75,30 +86,30 @@ class HospitalRankingAlgorithm:
 
         hospitals_payment = self.payment_rank(hospitals_nc)
         for hsp in hospitals_payment:
-            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Cost of Care']))
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.ranking_form.cost_of_care))
             ranking_dict[hsp[0]]['n_payment'] = float(hsp[1])
 
         hospitals_md = self.md_rank(hospitals_nc)
         for hsp in hospitals_md:
-            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Doctor Ranking']))
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.ranking_form.doctor_ranking))
             ranking_dict[hsp[0]]['n_md'] = float(hsp[1])
 
         hospitals_timely = self.timely_rank(hospitals_nc)
         for hsp in hospitals_timely:
-            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Timely and Effective Care']))
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.ranking_form.timely_effective_care))
             ranking_dict[hsp[0]]['n_timely'] = float(hsp[1])
 
         hospitals_complications = self.complications_rank(hospitals_nc)
         for hsp in hospitals_complications:
-            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Complications and Death']))
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.ranking_form.complications_and_deaths))
             ranking_dict[hsp[0]]['n_complications'] = float(hsp[1])
 
         hospitals_returns = self.returns_rank(hospitals_nc)
         for hsp in hospitals_returns:
-            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.filters['Hospital Returns']))
+            ranking_dict[hsp[0]]['score'] += (float(hsp[1])*float(self.ranking_form.hospital_returns))
             ranking_dict[hsp[0]]['n_returns'] = float(hsp[1])
 
-        pprint(ranking_dict)
+        #pprint(ranking_dict)
 
         # Normalize final results for display 0-1, higher score is better
         max_score = 0
