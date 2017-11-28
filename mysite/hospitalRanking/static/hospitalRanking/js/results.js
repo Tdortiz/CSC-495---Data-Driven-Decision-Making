@@ -15,8 +15,6 @@ $(function () {
         scrollCollapse: true,
         paging:         false
     });
-
-    $("#collapsablePanel").addClass("collapse");
 });
 
 /**
