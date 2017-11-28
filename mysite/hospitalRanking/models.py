@@ -3,6 +3,7 @@ from django.db import models
 import json
 from random import *
 from pprint import pprint
+import sys
 
 '''
     A map to easily get/change values of priorities
@@ -116,8 +117,8 @@ class HospitalRankingAlgorithm:
         #pprint(ranking_dict)
 
         # Normalize final results for display 0-1, higher score is better
-        max_score = 0
-        min_score = 1
+        max_score = (-1*sys.maxsize) - 1
+        min_score = sys.maxsize
         for key in ranking_dict.keys():
             if max_score < ranking_dict[key]['score']:
                 max_score = ranking_dict[key]['score']
