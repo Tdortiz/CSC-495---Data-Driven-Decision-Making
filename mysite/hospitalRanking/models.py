@@ -125,8 +125,12 @@ class HospitalRankingAlgorithm:
             if min_score > ranking_dict[key]['score']:
                 min_score = ranking_dict[key]['score']
 
+        score_range = max_score - min_score
         for key in ranking_dict.keys():
-            ranking_dict[key]['score'] = (ranking_dict[key]['score']-min_score)/(max_score-min_score)
+            if score_range > 0:
+                ranking_dict[key]['score'] = (ranking_dict[key]['score'] - min_score) / score_range
+            else:
+                ranking_dict[key]['score'] = 1
 
         # End Normalization
 
